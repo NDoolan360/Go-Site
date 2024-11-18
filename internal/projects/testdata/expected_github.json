@@ -1,0 +1,19 @@
+[
+  {
+    "Title": "Test",
+    "URL": "https://github.com/NDoolan360/Test",
+    "Image": {
+      "Src": "not-a-real-image",
+      "Alt": "Test social preview"
+    },
+    "Logo": "static/images/logos/github.svg",
+    "Description": "My hand crafted Test",
+    "CreatedDate": "2022-08-18T00:00:00Z",
+    "Tags": [
+      "\u003ci class=\"language-dot\" style=\"background-color: #00ADD8\"\u003e\u003c/i\u003eGo",
+      "test1",
+      "test2",
+      "test3"
+    ]
+  }
+]

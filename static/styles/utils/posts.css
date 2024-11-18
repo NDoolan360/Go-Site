@@ -1,0 +1,34 @@
+#posts+ul {
+  list-style: none;
+  padding-left: unset;
+}
+
+#posts+ul .post-card {
+  display: inline-block;
+  width: 100%;
+  border-bottom: unset;
+  border-left: 2px solid var(--comment);
+  padding-left: var(--space-md);
+  transition: border-color var(--animation-duration),
+    color var(--animation-duration);
+}
+
+#posts+ul .post-card:hover,
+#posts+ul .post-card:focus-visible {
+  border-color: var(--cyan);
+}
+
+#posts+ul li h3 {
+  margin-bottom: unset;
+}
+
+#posts+ul li h3 time {
+  color: var(--comment);
+}
+
+#posts+ul li p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--comment);
+}

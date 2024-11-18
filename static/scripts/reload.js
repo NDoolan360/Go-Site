@@ -1,0 +1,1 @@
+new WebSocket(`ws://${location.host}/active`).onclose=()=>setTimeout(()=>history.go(0),1000); 

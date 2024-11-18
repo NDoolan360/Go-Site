@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{if .Page.Title}}<title>{{.Page.Title}}</title>{{end}}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{if .Page.Description}}<meta name="description" content="{{.Page.Description}}">{{end}}
+    <link rel="icon" href="/static/favicon.ico">
+    <link rel="stylesheet" href="/static/styles/style.css">
+    {{range .Page.StyleSheets}}<link rel="stylesheet" href="{{.}}">{{end}}
+    {{range .Page.Scripts}}<script defer src="{{.}}"></script>{{end}}
+  </head>
+  <body>
+    <header>
+      <a href="/">
+        <h1>
+          n.doolan.dev
+        </h1>
+      </a>
+    </header>
+    <main>
+      {{template "main" .}}
+    </main>
+    <footer>© Nathan Doolan {{.Site.PublishTime.Year}}</footer>
+  </body>
+</html>
