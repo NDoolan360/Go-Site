@@ -6,17 +6,19 @@ import (
 	"errors"
 	"fmt"
 	"io"
+	"log"
 	"net/http"
-	"os"
 	"strings"
+	"time"
 )
 
-type GithubHost struct {
-	BaseURL string
-	User    string
+type Github struct {
+	BaseURL     string
+	User        string
+	BearerToken string
 }
 
-var _ Host = (*GithubHost)(nil)
+var _ Host = (*Github)(nil)
 
 type GithubData struct {
 	Data struct {
@@ -48,7 +50,7 @@ type GithubData struct {
 	} `json:"errors"`
 }
 
-func (gh GithubHost) Fetch() ([]byte, error) {
+func (gh Github) Fetch() ([]byte, error) {
 	client := &http.Client{}
 	body := fmt.Sprintf(`{"query":"{user(login:\"%s\"){repositories(first:100,isFork:false,visibility:PUBLIC){nodes{name,description,url,openGraphImageUrl,createdAt,primaryLanguage{name,color},repositoryTopics(first:10){nodes{topic{name}}}}}}}"}`, gh.User)
 	request, err := http.NewRequest(http.MethodPost, gh.BaseURL+"/graphql?gh", strings.NewReader(body))
@@ -56,7 +58,7 @@ func (gh GithubHost) Fetch() ([]byte, error) {
 		return nil, err
 	}
 	request.Header.Add("Content-Type", "application/json")
-	request.Header.Add("Authorization", "Bearer "+os.Getenv("GITHUB_TOKEN"))
+	request.Header.Add("Authorization", "Bearer "+gh.BearerToken)
 
 	response, err := client.Do(request)
 	if err != nil {
@@ -75,7 +77,7 @@ func (gh GithubHost) Fetch() ([]byte, error) {
 	}
 }
 
-func (GithubHost) Parse(data []byte) (projects Projects, err error) {
+func (Github) Parse(data []byte) (projects Projects, err error) {
 	var githubProjects GithubData
 
 	if unmarshalErr := json.Unmarshal(data, &githubProjects); unmarshalErr != nil {
@@ -89,22 +91,28 @@ func (GithubHost) Parse(data []byte) (projects Projects, err error) {
 		topics := []string{}
 		// Add primary language to tags if it exists
 		if project.PrimaryLanguage.Name != "" && project.PrimaryLanguage.Color != "" {
-			topics = append(topics, fmt.Sprintf(`<p><i class="language-dot" style="background-color: %s"></i>%s<p>`, project.PrimaryLanguage.Color, project.PrimaryLanguage.Name))
+			topics = append(topics, fmt.Sprintf(`<p><i class="language-dot" style="background-color: %s"></i>%s</p>`, project.PrimaryLanguage.Color, project.PrimaryLanguage.Name))
 		}
 		for _, topic := range project.RepositoryTopics.Nodes {
 			topics = append(topics, topic.Topic.Name)
 		}
 
+		createdAtTime, err := time.Parse(time.RFC3339, project.CreatedAt)
+		if err != nil {
+			log.Printf("error parsing Cults3D date value '%s'", project.CreatedAt)
+			continue
+		}
+
 		projects = append(projects, Project{
-			Title: project.Name,
+			Title: EscapeSpecialChars(project.Name),
 			URL:   project.URL,
 			Image: Image{
 				Src: project.OpenGraphImageURL,
 				Alt: project.Name + " social preview",
 			},
 			Logo:        "static/images/logos/github.svg",
-			Description: project.Description,
-			CreatedDate: project.CreatedAt,
+			Description: EscapeSpecialChars(project.Description),
+			Created:     createdAtTime.Format(time.DateOnly),
 			Tags:        topics,
 		})
 	}

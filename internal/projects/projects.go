@@ -2,9 +2,7 @@ package projects
 
 import (
 	_ "embed"
-	"fmt"
 	"log"
-	"os"
 	"slices"
 	"strings"
 	"sync"
@@ -16,10 +14,10 @@ var AllProjectsMock []byte
 type Project struct {
 	Title       string   // Required
 	URL         string   // Required
-	Image       Image    // Required
-	Logo        string   // Required
-	Description string   // Optional
-	CreatedDate string   // Optional
+	Description string   // Required
+	Image       Image    // Optional
+	Logo        string   // Optional
+	Created     string   // Optional
 	Tags        []string // Optional
 }
 
@@ -40,23 +38,12 @@ type Host interface {
 	Parse([]byte) (Projects, error)
 }
 
-var hostInterfaces = map[string]Host{
-	"github":  GithubHost{BaseURL: "https://api.github.com", User: os.Getenv("GITHUB_USERNAME")},
-	"bgg":     BggHost{BaseURL: "https://boardgamegeek.com/xmlapi", Geeklist: os.Getenv("BGG_GEEKLIST")},
-	"cults3d": Cults3dHost{BaseURL: "https://cults3d.com", User: os.Getenv("CULTS3D_USERNAME")},
-}
-
-func GetProjects(hostNames []string) (Projects, error) {
+func GetProjects(hosts map[string]Host) (Projects, error) {
 	var wg sync.WaitGroup
 	var projects Projects
 
-	for _, hostName := range hostNames {
-		host, ok := hostInterfaces[hostName]
-		if !ok {
-			return nil, fmt.Errorf("Interface for host '%s' not found.", host)
-		}
-
-		wg.Add(1)
+	wg.Add(len(hosts))
+	for hostName, host := range hosts {
 		go func(hostName string, host Host, projects *Projects, wg *sync.WaitGroup) {
 			defer wg.Done()
 
@@ -87,7 +74,7 @@ func GetProjects(hostNames []string) (Projects, error) {
 
 	// sort projects by creation date
 	slices.SortStableFunc(filteredProjects, func(project1, project2 Project) int {
-		return -strings.Compare(project1.CreatedDate, project2.CreatedDate)
+		return strings.Compare(project2.Created, project1.Created)
 	})
 
 	return filteredProjects, nil

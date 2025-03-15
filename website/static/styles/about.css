@@ -1,0 +1,27 @@
+img[alt="Profile Image"] {
+  height: 20rem;
+  border-radius: 50%;
+}
+
+:not(:is(header, #header))>ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  flex-flow: row wrap;
+  gap: var(--space-sm) var(--space-md);
+  font-size: 20px;
+  justify-content: space-around;
+
+  &,
+  * {
+    margin: 0;
+  }
+
+  li>a>svg {
+    width: 100%;
+    max-width: var(--space-md);
+    color: var(--foreground);
+  }
+}

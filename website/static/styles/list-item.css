@@ -1,0 +1,193 @@
+ul:has(.list-item) {
+  list-style: none;
+  padding-left: unset;
+
+  &>li {
+    position: relative;
+    padding: var(--space-md);
+
+    width: 100%;
+    --image-width: 0;
+
+    @media screen and (min-width: 600px) {
+      &:has(img) {
+        --image-width: 12rem;
+      }
+    }
+
+    border-left: 2px solid var(--comment);
+    color: var(--foreground);
+    background-color: color-mix(in srgb, var(--comment) 5%, transparent);
+
+    transition: border-color var(--animation-duration),
+    color var(--animation-duration),
+    background-color var(--animation-duration);
+
+    * {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    h3,
+    p>time,
+    &>p:not(:has(*)),
+    ul {
+      padding-right: clamp(1rem, var(--image-width), 100%);
+      width: 100%;
+
+      transition: padding-right var(--animation-duration),
+        color var(--animation-duration);
+    }
+
+    h3 {
+      margin-top: 0;
+
+      color: var(--foreground);
+      top: var(--space-md);
+
+      display: flex;
+      flex-flow: row nowrap;
+      gap: var(--space-sm);
+      align-items: center;
+
+      svg {
+        width: 24px;
+        min-width: 24px;
+      }
+    }
+
+    p:has(time) {
+      margin: var(--space-xs) 0;
+
+      time {
+        display: block;
+        color: var(--comment);
+        font-size: 14px;
+      }
+    }
+
+    &>p:not(:has(*)) {
+      font-size: 16px;
+      line-height: 1.5rem;
+      height: 1.5rem;
+      max-width: fit-content;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: var(--comment);
+
+      >* {
+        color: var(--comment);
+        transition: color var(--animation-duration);
+      }
+    }
+
+    ul {
+      bottom: var(--space-md);
+
+      color: var(--comment);
+
+      pointer-events: none;
+
+      list-style: none;
+      margin: unset;
+      padding-left: unset;
+      display: flex;
+      flex-flow: row wrap;
+      overflow: hidden;
+      gap: var(--space-xs);
+      max-height: 1.6rem;
+
+      li {
+        margin: unset;
+        background-color: transparent;
+        border-radius: 99px;
+        border: 1px solid var(--comment);
+        padding: var(--space-xs) var(--space-sm);
+        font-size: 12px;
+        font-weight: 500;
+        max-height: 1.6rem;
+        max-width: 100%;
+
+        transition: background-color var(--animation-duration);
+
+        pointer-events: auto;
+
+        p {
+          margin: unset;
+          white-space: nowrap;
+          width: min-content;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: inline-block;
+          max-width: 100%;
+
+          .language-dot {
+            display: inline-block;
+            border-radius: var(--space-xs);
+            width: var(--space-sm);
+            height: var(--space-sm);
+            margin: 0 var(--space-xs) 0 0;
+          }
+        }
+      }
+    }
+
+    p:has(a:only-child) {
+      margin: unset;
+
+      a:only-child {
+        position: absolute;
+        inset: 0;
+        height: 100%;
+        border: none;
+        direction: rtl;
+
+        img {
+          margin: unset;
+          height: 100%;
+          width: var(--image-width);
+
+          pointer-events: none;
+          object-fit: cover;
+          filter: brightness(75%) contrast(95%);
+
+          transition: width var(--animation-duration),
+            filter var(--animation-duration);
+        }
+      }
+    }
+
+    /* Hover / Focus */
+    &:is(:hover, :focus-within) {
+      border-color: var(--cyan);
+      color: var(--cyan);
+      background-color: color-mix(in srgb, var(--comment) 10%, transparent);
+
+      @media (prefers-reduced-motion: no-preference) {
+        &:has(img) {
+          --image-width: 18rem;
+        }
+      }
+
+      p>a:only-child>img {
+        filter: unset !important;
+      }
+
+      h3 {
+        color: var(--cyan);
+      }
+
+      p,
+      p>* {
+        color: var(--foreground);
+      }
+
+      &>ul>li {
+        color: var(--foreground);
+        background-color: var(--comment);
+      }
+    }
+  }
+}

@@ -17,4 +17,4 @@ go.work.sum
 *.out
 
 # Build artifacts
-assets
+/build

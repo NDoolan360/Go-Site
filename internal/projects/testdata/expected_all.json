@@ -8,7 +8,7 @@
     },
     "Logo": "static/images/logos/cults3d.svg",
     "Description": "Not a real description, but a suitable test one. [link](/)",
-    "CreatedDate": "2022-08-20T05:59:23Z",
+    "Created": "2022-08-20",
     "Tags": [
       "Downloads: 144",
       "rack",
@@ -27,9 +27,9 @@
     },
     "Logo": "static/images/logos/github.svg",
     "Description": "My hand crafted Test",
-    "CreatedDate": "2022-08-18T00:00:00Z",
+    "Created": "2022-08-18",
     "Tags": [
-      "\u003ci class=\"language-dot\" style=\"background-color: #00ADD8\"\u003e\u003c/i\u003eGo",
+      "\u003cp\u003e\u003ci class=\"language-dot\" style=\"background-color: #00ADD8\"\u003e\u003c/i\u003eGo\u003c/p\u003e",
       "test1",
       "test2",
       "test3"
@@ -44,7 +44,7 @@
     },
     "Logo": "static/images/logos/cults3d.svg",
     "Description": "",
-    "CreatedDate": "2022-08-16T05:59:23Z",
+    "Created": "2022-08-16",
     "Tags": [
       "Downloads: 98",
       "bust",
@@ -64,7 +64,7 @@
     },
     "Logo": "static/images/logos/bgg.svg",
     "Description": "",
-    "CreatedDate": "2021",
+    "Created": "2021",
     "Tags": [
       "Hand Management",
       "Increase Value of Unchosen Resources",

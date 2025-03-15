@@ -6,17 +6,19 @@ import (
 	"errors"
 	"fmt"
 	"io"
+	"log"
 	"net/http"
-	"os"
 	"strings"
+	"time"
 )
 
-type Cults3dHost struct {
+type Cults3d struct {
 	BaseURL string
 	User    string
+	APIKey  string
 }
 
-var _ Host = (*Cults3dHost)(nil)
+var _ Host = (*Cults3d)(nil)
 
 type Cults3dData struct {
 	Data struct {
@@ -37,7 +39,7 @@ type Cults3dData struct {
 	} `json:"errors"`
 }
 
-func (cults Cults3dHost) Fetch() ([]byte, error) {
+func (cults Cults3d) Fetch() ([]byte, error) {
 	client := &http.Client{}
 	body := fmt.Sprintf(`{"query":"{user(nick:\"%s\"){creations(limit:100,sort:BY_DOWNLOADS){name,url,description,publishedAt,downloadsCount,illustrationImageUrl,tags}}}"}`, cults.User)
 	request, err := http.NewRequest(http.MethodPost, cults.BaseURL+"/graphql?cults", strings.NewReader(body))
@@ -45,7 +47,7 @@ func (cults Cults3dHost) Fetch() ([]byte, error) {
 		return nil, err
 	}
 	request.Header.Add("Content-Type", "application/json")
-	request.SetBasicAuth(os.Getenv("CULTS3D_USERNAME"), os.Getenv("CULTS3D_API_KEY"))
+	request.SetBasicAuth(cults.User, cults.APIKey)
 
 	response, err := client.Do(request)
 	if err != nil {
@@ -64,7 +66,7 @@ func (cults Cults3dHost) Fetch() ([]byte, error) {
 	}
 }
 
-func (Cults3dHost) Parse(data []byte) (projects Projects, err error) {
+func (Cults3d) Parse(data []byte) (projects Projects, err error) {
 	var cults3dData Cults3dData
 	if unmarshalErr := json.Unmarshal(data, &cults3dData); unmarshalErr != nil {
 		return nil, errors.Join(errors.New("error parsing Cults3D projects"), unmarshalErr)
@@ -79,17 +81,23 @@ func (Cults3dHost) Parse(data []byte) (projects Projects, err error) {
 
 		project.Description = strings.ReplaceAll(project.Description, "\r\n", " ")
 
+		publishedAtTime, err := time.Parse(time.RFC3339, project.PublishedAt)
+		if err != nil {
+			log.Printf("error parsing Cults3D date value '%s'", project.PublishedAt)
+			continue
+		}
+
 		projects = append(projects, Project{
-			Title: project.Title,
+			Title: EscapeSpecialChars(project.Title),
 			URL:   project.Url,
 			Image: Image{
 				Src: project.ImageSrc,
 				Alt: fmt.Sprintf("3D Model: %s", project.Title),
 			},
-			Description: project.Description,
-			CreatedDate: project.PublishedAt,
+			Description: EscapeSpecialChars(project.Description),
 			Logo:        "static/images/logos/cults3d.svg",
 			Tags:        project.Topics,
+			Created:     publishedAtTime.Format(time.DateOnly),
 		})
 	}
 

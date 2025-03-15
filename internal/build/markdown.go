@@ -2,68 +2,112 @@ package build
 
 import (
 	"bytes"
-	"text/template"
-
-	codewrapper "internal/code_wrapper"
-	"internal/inline_svg"
+	"path"
+	"strings"
 
 	chromahtml "github.com/alecthomas/chroma/v2/formatters/html"
+	fences "github.com/stefanfritsch/goldmark-fences"
 	"github.com/yuin/goldmark"
-	emoji "github.com/yuin/goldmark-emoji"
+	g_emoji "github.com/yuin/goldmark-emoji"
+	g_emoji_def "github.com/yuin/goldmark-emoji/definition"
 	highlighting "github.com/yuin/goldmark-highlighting/v2"
 	meta "github.com/yuin/goldmark-meta"
 	"github.com/yuin/goldmark/extension"
-	"github.com/yuin/goldmark/parser"
+	goldmark_parser "github.com/yuin/goldmark/parser"
 	"github.com/yuin/goldmark/renderer/html"
+	"github.com/yuin/goldmark/util"
+
+	emoji "internal/emoji"
+	inlinesvg "internal/inline_svg"
 )
 
-var mdParser = goldmark.New(
-	goldmark.WithExtensions(
-		extension.GFM,
-		meta.Meta,
-		inline_svg.InlineSvg,
-		extension.Typographer,
-		emoji.Emoji,
-		highlighting.NewHighlighting(
-			highlighting.WithWrapperRenderer(codewrapper.WrapperRenderer),
-			highlighting.WithFormatOptions(
-				chromahtml.WithClasses(true),
-				chromahtml.WithLineNumbers(true),
-				chromahtml.LineNumbersInTable(true),
+type MarkdownTransformer struct{}
+
+func (MarkdownTransformer) newGoldmark(root string) goldmark.Markdown {
+	return goldmark.New(
+		goldmark.WithExtensions(
+			extension.GFM,
+			&fences.Extender{},
+			inlinesvg.InlineSvg,
+			extension.Typographer,
+			g_emoji.New(g_emoji.WithEmojis(emojisAsGoldmark(emoji.GetEmojis()))),
+			meta.Meta,
+			highlighting.NewHighlighting(
+				highlighting.WithWrapperRenderer(codeWrapperRenderer),
+				highlighting.WithFormatOptions(
+					chromahtml.WithClasses(true),
+					chromahtml.WithLineNumbers(true),
+					chromahtml.LineNumbersInTable(true),
+				),
 			),
 		),
-	),
-	goldmark.WithParserOptions(
-		parser.WithAttribute(),
-		parser.WithHeadingAttribute(),
-	),
-	goldmark.WithRendererOptions(html.WithUnsafe(), inline_svg.WithParentPath(".")),
-)
-
-func GetMeta(source []byte) (map[string]any, error) {
-	context := parser.NewContext()
-	if err := mdParser.Convert(source, &bytes.Buffer{}, parser.WithContext(context)); err != nil {
-		return nil, err
-	}
-	return meta.Get(context), nil
+		goldmark.WithParserOptions(
+			goldmark_parser.WithAttribute(),
+			goldmark_parser.WithHeadingAttribute(),
+		),
+		goldmark.WithRendererOptions(
+			html.WithUnsafe(),
+			inlinesvg.WithParentPath(root),
+		),
+	)
 }
 
-func ApplyTemplate(source *[]byte, data any) error {
-	buf := &bytes.Buffer{}
-	tmpl, err := template.New("markdown").Parse(string(*source))
-	if err != nil {
+func (p MarkdownTransformer) Transform(asset *Asset, _ map[string]any) error {
+	if path.Ext(asset.Path) != ".md" {
+		return nil
+	}
+
+	html := &bytes.Buffer{}
+	if err := p.newGoldmark(asset.SourceRoot).Convert(asset.Data, html); err != nil {
 		return err
 	}
-	tmpl.Execute(buf, data)
-	*source = buf.Bytes()
+
+	asset.Path = strings.TrimSuffix(asset.Path, ".md") + ".html"
+	asset.Data = html.Bytes()
+
 	return nil
 }
 
-func ToHtml(source *[]byte) error {
-	buf := &bytes.Buffer{}
-	if err := mdParser.Convert(*source, buf); err != nil {
-		return err
+func emojisAsGoldmark(emojis []emoji.Emoji) g_emoji_def.Emojis {
+	goldmarkEmojis := []g_emoji_def.Emoji{}
+	for _, e := range emojis {
+		goldmarkEmojis = append(goldmarkEmojis, g_emoji_def.Emoji{
+			Name:       e.Name,
+			Unicode:    e.Unicode,
+			ShortNames: append(e.ShortNames["Custom"], e.ShortNames["Github"]...),
+		})
 	}
-	*source = buf.Bytes()
-	return nil
+
+	return g_emoji_def.NewEmojis(goldmarkEmojis...)
+}
+
+func codeWrapperRenderer(w util.BufWriter, context highlighting.CodeBlockContext, entering bool) {
+	language, ok := context.Language()
+	lang := string(language)
+
+	// code block with a language
+	noLang := !ok || language == nil
+	if entering {
+		w.WriteString(`<figure class="codeblock"`)
+		if !noLang {
+			w.WriteString(` data-lang="` + lang + `"`)
+		}
+		w.WriteString(`>`)
+
+		w.WriteString(`<figcaption>`)
+		w.WriteString(`<button class="copycode" disabled>Copy</button>`)
+		w.WriteString(`</figcaption>`)
+
+		if noLang {
+			w.WriteString(`<pre class="chroma">`)
+			w.WriteString(`<code>`)
+		}
+	} else {
+		if noLang {
+			w.WriteString(`</code>`)
+			w.WriteString(`</pre>`)
+		}
+
+		w.WriteString(`</figure>`)
+	}
 }

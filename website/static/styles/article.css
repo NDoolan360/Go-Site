@@ -1,0 +1,7 @@
+*:has(+h1)>img {
+  border: .25rem solid var(--comment);
+  border-radius: 1rem;
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+}

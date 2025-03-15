@@ -1,0 +1,242 @@
+* {
+  color-scheme: light dark;
+}
+
+:root {
+  --background: #10201B;
+  --foreground: #DBF0EA;
+  --comment: #58726A;
+  --cyan: #1DCFA2;
+  --green: #61C95A;
+  --purple: #BD93F9;
+  --blue: #268BD2;
+  --red: #FF5555;
+  --yellow: #F7BD51;
+
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+  --space-xxl: 8rem;
+
+  --radius: 10px;
+  --underline: 2px solid var(--comment);
+  --animation-duration: 0.3s;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background: #F0F1F5;
+    --foreground: #1F1F45;
+    --comment: #78897b;
+    --cyan: #009E76;
+    --green: #187A02;
+    --purple: #634FCC;
+    --blue: #0474B3;
+    --red: #AB422C;
+    --yellow: #AA5901;
+  }
+}
+
+/* Styles */
+
+html {
+  font: 18px/1.5 'Open Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background-color: var(--background);
+  color: var(--foreground);
+  scrollbar-gutter: stable both-edges;
+}
+
+body {
+  max-width: 45rem;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 0 var(--space-md);
+  display: flex;
+  flex-flow: column nowrap;
+  line-height: 1.6;
+}
+
+main {
+  height: 100%;
+  flex-grow: 1;
+}
+
+footer {
+  margin: var(--space-md) 0;
+  text-align: center;
+  color: var(--comment);
+  font-size: var(--space-md);
+}
+
+a {
+  height: fit-content;
+  color: var(--foreground);
+  text-decoration: none;
+  border-bottom: var(--underline);
+  transition: color var(--animation-duration), border-bottom var(--animation-duration);
+}
+
+a svg * {
+  transition: fill var(--animation-duration);
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--cyan);
+  border-bottom-color: var(--cyan);
+}
+
+a:hover>svg *,
+a:focus-visible>svg * {
+  fill: var(--cyan);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: var(--space-md) 0 var(--space-sm) 0;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+h1,
+h2 {
+  margin: var(--space-lg) 0 var(--space-sm) 0;
+  border-bottom: var(--underline);
+}
+
+h1 {
+  font-size: 32px;
+
+  &:has(a) {
+    border: none;
+  }
+}
+
+h2 {
+  font-size: 24px;
+
+  & a {
+    border: none;
+  }
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5,
+h6 {
+  font-size: 14px;
+}
+
+h6 {
+  color: var(--comment);
+}
+
+hr {
+  margin: var(--space-lg) 0;
+  border-bottom: var(--underline);
+}
+
+ul,
+ol {
+  padding-left: var(--space-md);
+}
+
+blockquote {
+  border-left: 4px solid var(--cyan);
+  padding: 0 0 0 var(--space-md);
+  color: var(--comment);
+}
+
+blockquote a {
+  color: var(--comment) !important;
+}
+
+img {
+  display: block;
+  margin: var(--space-md) auto;
+  max-width: 100%;
+}
+
+p,
+blockquote,
+ul,
+ol,
+li {
+  margin: var(--space-md) 0;
+}
+
+input {
+  font-size: 16px;
+  color: var(--foreground);
+  background-color: var(--background);
+  border: 2px solid var(--comment);
+  border-radius: 5px;
+  padding: 0 5px;
+}
+
+input:default {
+  color: var(--comment);
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+table {
+  padding: 0;
+  margin: 15px 0;
+  border-spacing: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table tr {
+  border-top: 1px solid var(--comment);
+  background-color: var(--background);
+  margin: 0;
+  padding: 0;
+}
+
+table tr :first-child {
+  width: fit-content;
+}
+
+table tr:nth-child(2n) {
+  background-color: color-mix(in srgb, var(--comment) 20%, transparent);
+}
+
+table tr th {
+  font-weight: bold;
+  background-color: color-mix(in srgb, var(--comment) 50%, transparent);
+  width: min-content;
+}
+
+table tr th,
+table tr td {
+  border: 1px solid var(--comment);
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}

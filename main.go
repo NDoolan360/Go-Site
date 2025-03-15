@@ -2,54 +2,86 @@ package main
 
 import (
 	"embed"
-	"internal/build"
-	"internal/projects"
-	"log"
 	"os"
+	"strings"
 	"time"
 
-	_ "github.com/joho/godotenv/autoload"
+	"internal/build"
+	"internal/emoji"
 )
 
-//go:embed static
-var staticFiles embed.FS
-
-//go:embed pages
-var pageFiles embed.FS
+//go:embed "website"
+var files embed.FS
 
 func main() {
-	outDir := "assets"
+	site := build.Build{}
+	site.WalkDir(files, "website")
+	site.Transform(nil, build.CollectFrontMatter{})
 
-	assets := build.NewBuild(outDir)
-	if err := assets.StartWith(staticFiles); err != nil {
-		log.Fatalf("failed to recreate assets dir: %v", err)
+	params := map[string]any{
+		"PublishTime": time.Now(),
+		"Projects":    getProjects(),
 	}
 
-	if err := assets.CollectFiles(pageFiles, "pages"); err != nil {
-		log.Fatalf("failed to collect files: %v", err)
+	var components build.Assets
+	components = site.Pop(withMeta("IsComponent"))
+	components.Filter(withMeta("IsStatic")).Transform(nil, build.MarkdownTransformer{})
+	componentMap := components.ToMap("Name")
+
+	// Pre-build articles as I want their meta for other pages
+	articles := site.Filter(
+		withParentDir("/articles"),
+		withoutMeta("IsDraft"),
+		withMeta("Title"),
+		withMeta("Description"),
+	).SetMetaFunc("URL", func(asset build.Asset) string {
+		return strings.TrimSuffix(asset.Path, ".md") + ".html"
+	})
+	articles.Transform(nil, build.TemplateTransformer{}, build.MarkdownTransformer{})
+	params["Articles"] = articles
+
+	// Pre-fill the emojis page
+	site.Filter(withPath("/other/emojis.md")).Transform(
+		map[string]any{"Emojis": emoji.GetEmojis()},
+		build.TemplateTransformer{},
+	)
+
+	// Process markdown files
+	site.Filter(withExtensions(".md"), withoutMeta("IsDraft")).Transform(
+		params,
+		build.TemplateTransformer{Components: componentMap},
+		build.MarkdownTransformer{},
+	)
+
+	// Add reload script to all html files when in development
+	if os.Getenv("ENV") == "dev" {
+		site.Filter(withExtensions(".html")).Transform(
+			nil,
+			&build.AddAutoReload{WebSocketPath: "/reload", Timeout: 2500},
+		)
 	}
 
-	projects, err := projects.GetProjects([]string{"github", "bgg", "cults3d"})
-	if err != nil {
-		log.Fatalf("failed to create projects: %v", err)
-	}
-
-	if err := assets.ApplyTemplates(
-		map[string]any{
-			"Env":         os.Getenv("ENV"),
-			"PublishTime": time.Now(),
-			"Projects":    projects,
-			"BlogPosts":   assets.Pages.GetBlogPosts().SortByDate(),
+	// Wrap all html files in base_template.html
+	baseTemplate := site.Pop(withPath("/templates/base_template.html"))[0]
+	site.Filter(withExtensions(".html")).Transform(
+		params,
+		build.TemplateTransformer{
+			WrapperTemplate: &build.WrapperTemplate{
+				Template:       baseTemplate,
+				ChildBlockName: baseTemplate.Meta["ChildBlockName"].(string),
+			},
+			Components: componentMap,
 		},
-	); err != nil {
-		log.Fatalf("failed to apply template: %v", err)
-	}
+	)
 
-	if err := assets.WriteFiles(); err != nil {
-		log.Fatalf("failed to write files: %v", err)
-	}
+	// Minify
+	site.Transform(nil, &build.MinifyTransformer{})
+
+	// Write to dir "build"
+	os.RemoveAll("build")
+	site.Write("build")
 
 	if os.Getenv("ENV") == "dev" {
-		devServer("8888", outDir)
+		devServer("8888", "build")
 	}
 }

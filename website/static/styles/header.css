@@ -1,0 +1,27 @@
+header,
+#header {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-md);
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    gap: var(--space-sm) var(--space-md);
+    font-size: 20px;
+
+    &,
+    * {
+      margin: 0;
+    }
+
+    li>a>svg {
+      width: 100%;
+      max-width: var(--space-md);
+      color: var(--foreground);
+    }
+  }
+}

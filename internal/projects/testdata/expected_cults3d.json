@@ -8,7 +8,7 @@
     },
     "Logo": "static/images/logos/cults3d.svg",
     "Description": "Not a real description, but a suitable test one. [link](/)",
-    "CreatedDate": "2022-08-20T05:59:23Z",
+    "Created": "2022-08-20",
     "Tags": [
       "Downloads: 144",
       "rack",
@@ -27,7 +27,7 @@
     },
     "Logo": "static/images/logos/cults3d.svg",
     "Description": "",
-    "CreatedDate": "2022-08-16T05:59:23Z",
+    "Created": "2022-08-16",
     "Tags": [
       "Downloads: 98",
       "bust",

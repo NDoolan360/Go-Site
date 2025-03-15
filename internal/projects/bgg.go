@@ -10,12 +10,12 @@ import (
 	"net/http"
 )
 
-type BggHost struct {
+type Bgg struct {
 	BaseURL  string
 	Geeklist string
 }
 
-var _ Host = (*BggHost)(nil)
+var _ Host = (*Bgg)(nil)
 
 type BggProject struct {
 	Item struct {
@@ -31,7 +31,7 @@ type BggItem struct {
 	Tags          []string `xml:"boardgame>boardgamemechanic"`
 }
 
-func (bgg BggHost) Fetch() ([]byte, error) {
+func (bgg Bgg) Fetch() ([]byte, error) {
 	resp, err := http.Get(fmt.Sprintf("%s/geeklist/%s", bgg.BaseURL, bgg.Geeklist))
 	if err != nil {
 		return nil, err
@@ -40,7 +40,7 @@ func (bgg BggHost) Fetch() ([]byte, error) {
 	return io.ReadAll(resp.Body)
 }
 
-func (bgg BggHost) Parse(data []byte) (projects Projects, err error) {
+func (bgg Bgg) Parse(data []byte) (projects Projects, err error) {
 	var projectItems []BggProject
 	if unmarshalErr := xml.Unmarshal(data, &projectItems); unmarshalErr != nil {
 		return nil, errors.Join(errors.New("error parsing BGG projects"), unmarshalErr)
@@ -64,15 +64,15 @@ func (bgg BggHost) Parse(data []byte) (projects Projects, err error) {
 		}
 
 		projects = append(projects, Project{
-			Title: bggProject.Title,
+			Title: EscapeSpecialChars(bggProject.Title),
 			URL:   fmt.Sprintf("https://boardgamegeek.com/boardgame/%s", item.Item.Id),
 			Image: Image{
 				Src: bggProject.ImageSrc,
 				Alt: fmt.Sprintf("Board Game: %s", bggProject.Title),
 			},
-			Description: bggProject.Description,
+			Description: EscapeSpecialChars(bggProject.Description),
 			Logo:        "static/images/logos/bgg.svg",
-			CreatedDate: bggProject.YearPublished,
+			Created:     bggProject.YearPublished,
 			Tags:        bggProject.Tags,
 		})
 	}

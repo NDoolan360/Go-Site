@@ -1,0 +1,231 @@
+/* Inline code */
+
+:not(pre)>code,
+pre:not(.chroma) {
+  position: relative;
+  border: 1px solid var(--comment);
+  border-radius: 5px;
+  padding: 0 5px;
+}
+
+pre:not(.chroma) {
+  padding: 10px;
+  overflow: scroll;
+}
+
+/* Code blocks */
+
+figure.codeblock {
+  position: relative;
+  border: 1px solid var(--comment);
+  border-radius: 5px;
+  margin: 15px 0;
+  padding: 10px 10px 0 10px;
+  overflow: hidden;
+}
+
+figure.codeblock figcaption {
+  position: absolute;
+  top: min(calc(50% - 14px), 10px);
+  right: 10px;
+  z-index: 1;
+}
+
+button.copycode {
+  min-width: 8ch;
+  padding: 0 0.25em;
+  border-radius: 99px;
+  font-size: 16px;
+  color: var(--comment);
+  background-color: var(--background);
+  border: 1px solid var(--comment);
+  user-select: none;
+  opacity: 0.6;
+
+  transition: opacity var(--animation-duration),
+    color var(--animation-duration),
+    background-color var(--animation-duration);
+}
+
+button.copycode:hover:not(:disabled) {
+  color: var(--background);
+  background-color: var(--comment);
+  cursor: copy;
+  opacity: 1;
+}
+
+button.copycode:disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+}
+
+button.copycode[data-active] {
+  color: var(--background);
+  background-color: var(--comment);
+  cursor: default;
+  opacity: 1;
+}
+
+div.chroma {
+  overflow-x: auto;
+  max-width: 100%;
+  mask-image: linear-gradient(to left, transparent, black 15px);
+  tab-size: 2rem;
+}
+
+pre.chroma,
+.chroma code {
+  font-family: 'Fira Code', 'Source Code Pro', Consolas, Monaco, monospace;
+}
+
+pre.chroma {
+  font-size: 13px;
+  line-height: 19px;
+  padding: 0 10px 10px 0;
+  overflow: auto;
+}
+
+pre.chroma code {
+  margin: unset;
+  padding: unset;
+  white-space: pre;
+  background-color: transparent;
+  border: none;
+}
+
+.chroma code {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+}
+
+.chroma .lntd {
+  padding: unset;
+  margin: unset;
+  border: unset;
+  vertical-align: top;
+  ;
+}
+
+.chroma .lntable {
+  padding: unset;
+  width: unset;
+  margin: unset;
+  border: unset;
+  border-spacing: unset;
+}
+
+.chroma tr,
+tbody {
+  max-width: 100%;
+
+  .chroma .lnt,
+  .chroma .ln {
+    white-space: pre;
+    user-select: none;
+    margin-right: 0.4em;
+    padding: 0 0.4em 0 0.4em;
+  }
+
+  .chroma .kd,
+  .chroma .nb,
+  .chroma .nl,
+  .chroma .nv,
+  .chroma .vc,
+  .chroma .vg,
+  .chroma .vi {
+    font-style: italic;
+  }
+
+  .chroma .ge,
+  .chroma .gl {
+    text-decoration: underline;
+  }
+
+  .chroma .gh,
+  .chroma .gi,
+  .chroma .gu {
+    font-weight: bold;
+  }
+
+  .chroma .bg,
+  .chroma .chroma,
+  .chroma .ln:target,
+  .chroma .lnt:target {
+    color: var(--foreground);
+  }
+
+  .chroma .c,
+  .chroma .ch,
+  .chroma .cm,
+  .chroma .c1,
+  .chroma .cs {
+    color: var(--comment);
+  }
+
+  .chroma .kd,
+  .chroma .kt,
+  .chroma .nb,
+  .chroma .nl,
+  .chroma .nv,
+  .chroma .vc,
+  .chroma .vg,
+  .chroma .vi {
+    color: var(--cyan);
+  }
+
+  .chroma .na,
+  .chroma .nc,
+  .chroma .nf,
+  .chroma .gi {
+    color: var(--green);
+  }
+
+  .chroma .k,
+  .chroma .kc,
+  .chroma .kn,
+  .chroma .kp,
+  .chroma .kr,
+  .chroma .nt,
+  .chroma .o,
+  .chroma .ow,
+  .chroma .cp,
+  .chroma .cpf {
+    color: var(--purple);
+  }
+
+  .chroma .m,
+  .chroma .mb,
+  .chroma .mf,
+  .chroma .mh,
+  .chroma .mi,
+  .chroma .il,
+  .chroma .mo {
+    color: var(--blue);
+  }
+
+  .chroma .gd {
+    color: var(--red);
+  }
+
+  .chroma .s,
+  .chroma .sa,
+  .chroma .sb,
+  .chroma .sc,
+  .chroma .dl,
+  .chroma .sd,
+  .chroma .s2,
+  .chroma .se,
+  .chroma .sh,
+  .chroma .si,
+  .chroma .sx,
+  .chroma .sr,
+  .chroma .s1,
+  .chroma .ss {
+    color: var(--yellow);
+  }
+
+  .chroma .lnt,
+  .chroma .ln {
+    color: var(--comment);
+  }
