@@ -18,6 +18,8 @@ type Cults3d struct {
 	APIKey  string
 }
 
+const MIN_DOWNLOAD_CUTOFF = 25
+
 var _ Host = (*Cults3d)(nil)
 
 type Cults3dData struct {
@@ -84,6 +86,10 @@ func (Cults3d) Parse(data []byte) (projects Projects, err error) {
 		publishedAtTime, err := time.Parse(time.RFC3339, project.PublishedAt)
 		if err != nil {
 			log.Printf("error parsing Cults3D date value '%s'", project.PublishedAt)
+			continue
+		}
+
+		if project.Downloads < MIN_DOWNLOAD_CUTOFF {
 			continue
 		}
 

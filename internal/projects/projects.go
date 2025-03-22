@@ -64,18 +64,24 @@ func GetProjects(hosts map[string]Host) (Projects, error) {
 	}
 	wg.Wait()
 
-	// filter out any projects with missing titles, URLs, logos, or images
+	// filter out any projects with missing titles, URLs, or descriptions
 	filteredProjects := make(Projects, 0, len(projects))
 	for _, project := range projects {
-		if project.Title != "" && project.URL != "" && project.Logo != "" && project.Image.Src != "" {
+		if project.Title != "" &&
+			project.URL != "" &&
+			project.Description != "" {
 			filteredProjects = append(filteredProjects, project)
 		}
 	}
 
-	// sort projects by creation date
-	slices.SortStableFunc(filteredProjects, func(project1, project2 Project) int {
-		return strings.Compare(project2.Created, project1.Created)
-	})
-
 	return filteredProjects, nil
+}
+
+func (projects Projects) SortByCreatedDate() Projects {
+	return slices.SortedFunc(
+		slices.Values(projects),
+		func(project1, project2 Project) int {
+			return strings.Compare(project2.Created, project1.Created)
+		},
+	)
 }

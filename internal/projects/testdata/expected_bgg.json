@@ -2,12 +2,12 @@
   {
     "Title": "Cake Toppers",
     "URL": "https://boardgamegeek.com/boardgame/330653",
+    "Description": "Some description...",
     "Image": {
       "Src": "https://cf.geekdo-images.com/wFwQ-MEGf6BLIyV77hQvHQ__original/img/jGDJHygR3da__4gT0pMzKAD1SQU=/0x0/filters:format(png)/pic5982841.png",
       "Alt": "Board Game: Cake Toppers"
     },
     "Logo": "static/images/logos/bgg.svg",
-    "Description": "",
     "Created": "2021",
     "Tags": [
       "Hand Management",

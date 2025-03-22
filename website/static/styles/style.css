@@ -110,22 +110,18 @@ h1,
 h2 {
   margin: var(--space-lg) 0 var(--space-sm) 0;
   border-bottom: var(--underline);
-}
-
-h1 {
-  font-size: 32px;
 
   &:has(a) {
     border: none;
   }
 }
 
+h1 {
+  font-size: 32px;
+}
+
 h2 {
   font-size: 24px;
-
-  & a {
-    border: none;
-  }
 }
 
 h3 {

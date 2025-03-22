@@ -103,13 +103,19 @@ func (Github) Parse(data []byte) (projects Projects, err error) {
 			continue
 		}
 
-		projects = append(projects, Project{
-			Title: EscapeSpecialChars(project.Name),
-			URL:   project.URL,
-			Image: Image{
+		var image Image
+		if project.OpenGraphImageURL != "" &&
+			strings.HasPrefix(project.OpenGraphImageURL, "https://repository-images.githubusercontent.com/") {
+			image = Image{
 				Src: project.OpenGraphImageURL,
-				Alt: project.Name + " social preview",
-			},
+				Alt: project.Name + " preview",
+			}
+		}
+
+		projects = append(projects, Project{
+			Title:       EscapeSpecialChars(project.Name),
+			URL:         project.URL,
+			Image:       image,
 			Logo:        "static/images/logos/github.svg",
 			Description: EscapeSpecialChars(project.Description),
 			Created:     createdAtTime.Format(time.DateOnly),

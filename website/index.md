@@ -13,12 +13,13 @@ ProjectLimit: 3
 
 ## Hi, I'm Nathan 👋
 
-I'm passionate about programming, technology, and learning new things.
-I enjoy working on side projects, tinkering with new technologies, and documenting some of that here.
+I'm passionate about programming, technology, and learning new things I enjoy working on side projects, tinkering with new technologies, and documenting some of that here.
 
 [More about me](/about.html)
 
-## [Articles](/articles.html)
+{{ if .Global.Articles }}
+
+## Recent Articles
 
 {{ range $i, $_ := .Global.Articles }}
   {{ if lt $i $.ArticleLimit }}
@@ -26,10 +27,23 @@ I enjoy working on side projects, tinkering with new technologies, and documenti
   {{ end }}
 {{ end }}
 
-## [Projects](/projects.html)
+{{ if gt (len .Global.Articles) $.ArticleLimit }}
+  [More articles](/articles.html)
+{{ end }}
+
+{{ end }}
+
+{{ if .Global.Projects }}
+## Recent Projects
 
 {{ range $i, $_ := .Global.Projects }}
   {{ if lt $i $.ProjectLimit }}
     {{ template "list-item" . }}
   {{ end }}
+{{ end }}
+
+{{ if gt (len .Global.Projects) $.ProjectLimit }}
+[More projects](/projects.html)
+{{ end }}
+
 {{ end }}

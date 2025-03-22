@@ -20,7 +20,7 @@ func main() {
 
 	params := map[string]any{
 		"PublishTime": time.Now(),
-		"Projects":    getProjects(),
+		"Projects":    getProjects().SortByCreatedDate(),
 	}
 
 	var components build.Assets
@@ -73,6 +73,11 @@ func main() {
 			Components: componentMap,
 		},
 	)
+
+	// Unescape escaped double curly braces
+	site.Transform(nil, &build.ReplacerTransformer{
+		Replacements: map[string]string{"\\{\\{": "{{", "\\}\\}": "}}"},
+	})
 
 	// Minify
 	site.Transform(nil, &build.MinifyTransformer{})

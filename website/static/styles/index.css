@@ -1,4 +1,10 @@
-h2 {
+img[alt="Profile Image"] {
+  margin: var(--space-lg) auto;
+  height: 20rem;
+  border-radius: 50%;
+}
+
+h2:not(:first-of-type) {
   position: sticky;
   top: 0;
   margin: 0;

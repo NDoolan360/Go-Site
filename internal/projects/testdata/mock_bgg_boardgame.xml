@@ -2,6 +2,7 @@
     <boardgame objectid="330653">
         <yearpublished>2021</yearpublished>
         <name primary="true" sortindex="1">Cake Toppers</name>
+        <description>Some description...</description>
         <image>https://cf.geekdo-images.com/wFwQ-MEGf6BLIyV77hQvHQ__original/img/jGDJHygR3da__4gT0pMzKAD1SQU=/0x0/filters:format(png)/pic5982841.png</image>
         <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
         <boardgamemechanic objectid="2914">Increase Value of Unchosen Resources</boardgamemechanic>

@@ -151,7 +151,7 @@ ul:has(.list-item) {
 
           pointer-events: none;
           object-fit: cover;
-          filter: brightness(75%) contrast(95%);
+          filter: opacity(75%) contrast(95%);
 
           transition: width var(--animation-duration),
             filter var(--animation-duration);
@@ -186,7 +186,6 @@ ul:has(.list-item) {
 
       &>ul>li {
         color: var(--foreground);
-        background-color: var(--comment);
       }
     }
   }
