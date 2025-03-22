@@ -1,0 +1,9 @@
+services:
+  local:
+    image: cosmtrek/air
+    working_dir: /app/
+    ports:
+      - 8888:8888
+    env_file: ".env"
+    volumes:
+      - .:/app/

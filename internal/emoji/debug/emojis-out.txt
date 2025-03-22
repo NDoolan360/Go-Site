@@ -1,0 +1,3773 @@
+😀 | grinning_face, grinning, grinning_hard
+😃 | grinning_face_with_big_eyes, smiley
+😄 | grinning_face_with_smiling_eyes, smile
+😁 | beaming_face_with_smiling_eyes, grin
+😆 | grinning_squinting_face, laughing, satisfied
+😅 | grinning_face_with_sweat, sweat_smile
+🤣 | rolling_on_the_floor_laughing, rofl
+😂 | face_with_tears_of_joy, joy
+🙂 | slightly_smiling_face
+🙃 | upside_down_face
+🫠 | melting_face
+😉 | winking_face, wink
+😊 | smiling_face_with_smiling_eyes, blush
+😇 | smiling_face_with_halo, innocent
+🥰 | smiling_face_with_hearts, smiling_face_with_three_hearts
+😍 | smiling_face_with_heart_eyes, heart_eyes
+🤩 | star_struck
+😘 | face_blowing_a_kiss, kissing_heart
+😗 | kissing_face, kissing
+☺️ | smiling_face, relaxed
+😚 | kissing_face_with_closed_eyes, kissing_closed_eyes
+😙 | kissing_face_with_smiling_eyes, kissing_smiling_eyes
+🥲 | smiling_face_with_tear
+😋 | face_savoring_food, yum
+😛 | face_with_tongue, stuck_out_tongue
+😜 | winking_face_with_tongue, stuck_out_tongue_winking_eye
+🤪 | zany_face
+😝 | squinting_face_with_tongue, stuck_out_tongue_closed_eyes
+🤑 | money_mouth_face
+🤗 | smiling_face_with_open_hands, hugs
+🤭 | face_with_hand_over_mouth, hand_over_mouth
+🫢 | face_with_open_eyes_and_hand_over_mouth
+🫣 | face_with_peeking_eye
+🤫 | shushing_face
+🤔 | thinking_face, thinking
+🫡 | saluting_face
+🤐 | zipper_mouth_face
+🤨 | face_with_raised_eyebrow, raised_eyebrow
+😐 | neutral_face
+😑 | expressionless_face, expressionless
+😶 | face_without_mouth, no_mouth
+🫥 | dotted_line_face
+😶‍🌫️ | face_in_clouds
+😏 | smirking_face, smirk
+😒 | unamused_face, unamused
+🙄 | face_with_rolling_eyes, roll_eyes
+😬 | grimacing_face, grimacing
+😮‍💨 | face_exhaling
+🤥 | lying_face
+🫨 | shaking_face
+🙂‍↔️ | head_shaking_horizontally
+🙂‍↕️ | head_shaking_vertically
+😌 | relieved_face, relieved
+😔 | pensive_face, pensive
+😪 | sleepy_face, sleepy
+🤤 | drooling_face
+😴 | sleeping_face, sleeping
+😷 | face_with_medical_mask, mask
+🤒 | face_with_thermometer
+🤕 | face_with_head_bandage
+🤢 | nauseated_face
+🤮 | face_vomiting, vomiting_face
+🤧 | sneezing_face
+🥵 | hot_face
+🥶 | cold_face
+🥴 | woozy_face
+😵 | face_with_crossed_out_eyes, dizzy_face
+😵‍💫 | face_with_spiral_eyes
+🤯 | exploding_head
+🤠 | cowboy_hat_face
+🥳 | partying_face
+🥸 | disguised_face
+😎 | smiling_face_with_sunglasses, sunglasses
+🤓 | nerd_face
+🧐 | face_with_monocle, monocle_face
+😕 | confused_face, confused
+🫤 | face_with_diagonal_mouth
+😟 | worried_face, worried
+🙁 | slightly_frowning_face
+☹️ | frowning_face
+😮 | face_with_open_mouth, open_mouth
+😯 | hushed_face, hushed
+😲 | astonished_face, astonished
+😳 | flushed_face, flushed
+🥺 | pleading_face
+🥹 | face_holding_back_tears
+😦 | frowning_face_with_open_mouth, frowning
+😧 | anguished_face, anguished
+😨 | fearful_face, fearful
+😰 | anxious_face_with_sweat, cold_sweat
+😥 | sad_but_relieved_face, disappointed_relieved
+😢 | crying_face, cry
+😭 | loudly_crying_face, sob
+😱 | face_screaming_in_fear, scream
+😖 | confounded_face, confounded
+😣 | persevering_face, persevere
+😞 | disappointed_face, disappointed
+😓 | downcast_face_with_sweat, sweat
+😩 | weary_face, weary
+😫 | tired_face
+🥱 | yawning_face
+😤 | face_with_steam_from_nose, triumph
+😡 | enraged_face, rage, pout
+😠 | angry_face, angry
+🤬 | face_with_symbols_on_mouth, cursing_face
+😈 | smiling_face_with_horns, smiling_imp
+👿 | angry_face_with_horns, imp
+💀 | skull
+☠️ | skull_and_crossbones
+💩 | pile_of_poo, poop, hankey, shit
+🤡 | clown_face
+👹 | ogre, japanese_ogre
+👺 | goblin, japanese_goblin
+👻 | ghost
+👽 | alien
+👾 | alien_monster, space_invader
+🤖 | robot
+😺 | grinning_cat, smiley_cat
+😸 | grinning_cat_with_smiling_eyes, smile_cat
+😹 | cat_with_tears_of_joy, joy_cat
+😻 | smiling_cat_with_heart_eyes, heart_eyes_cat
+😼 | cat_with_wry_smile, smirk_cat
+😽 | kissing_cat
+🙀 | weary_cat, scream_cat
+😿 | crying_cat, crying_cat_face
+😾 | pouting_cat
+🙈 | see_no_evil_monkey, see_no_evil
+🙉 | hear_no_evil_monkey, hear_no_evil
+🙊 | speak_no_evil_monkey, speak_no_evil
+💌 | love_letter
+💘 | heart_with_arrow, cupid
+💝 | heart_with_ribbon, gift_heart
+💖 | sparkling_heart
+💗 | growing_heart, heartpulse
+💓 | beating_heart, heartbeat
+💞 | revolving_hearts
+💕 | two_hearts
+💟 | heart_decoration
+❣️ | heart_exclamation, heavy_heart_exclamation
+💔 | broken_heart
+❤️‍🔥 | heart_on_fire
+❤️‍🩹 | mending_heart
+❤️ | red_heart, heart
+🩷 | pink_heart
+🧡 | orange_heart
+💛 | yellow_heart
+💚 | green_heart
+💙 | blue_heart
+🩵 | light_blue_heart
+💜 | purple_heart
+🤎 | brown_heart
+🖤 | black_heart
+🩶 | grey_heart
+🤍 | white_heart
+💋 | kiss_mark, kiss
+💯 | hundred_points, 100
+💢 | anger_symbol, anger
+💥 | collision, boom
+💫 | dizzy
+💦 | sweat_droplets, sweat_drops
+💨 | dashing_away, dash
+🕳️ | hole
+💬 | speech_balloon
+👁️‍🗨️ | eye_in_speech_bubble, eye_speech_bubble
+🗨️ | left_speech_bubble
+🗯️ | right_anger_bubble
+💭 | thought_balloon
+💤 | zzz
+👋 | waving_hand, wave
+👋🏻 | waving_hand_light
+👋🏼 | waving_hand_medium_light
+👋🏽 | waving_hand_medium
+👋🏾 | waving_hand_medium_dark
+👋🏿 | waving_hand_dark
+🤚 | raised_back_of_hand
+🤚🏻 | raised_back_of_hand_light
+🤚🏼 | raised_back_of_hand_medium_light
+🤚🏽 | raised_back_of_hand_medium
+🤚🏾 | raised_back_of_hand_medium_dark
+🤚🏿 | raised_back_of_hand_dark
+🖐️ | hand_with_fingers_splayed, raised_hand_with_fingers_splayed
+🖐🏻 | hand_with_fingers_splayed_light
+🖐🏼 | hand_with_fingers_splayed_medium_light
+🖐🏽 | hand_with_fingers_splayed_medium
+🖐🏾 | hand_with_fingers_splayed_medium_dark
+🖐🏿 | hand_with_fingers_splayed_dark
+✋ | raised_hand, hand
+✋🏻 | raised_hand_light
+✋🏼 | raised_hand_medium_light
+✋🏽 | raised_hand_medium
+✋🏾 | raised_hand_medium_dark
+✋🏿 | raised_hand_dark
+🖖 | vulcan_salute
+🖖🏻 | vulcan_salute_light
+🖖🏼 | vulcan_salute_medium_light
+🖖🏽 | vulcan_salute_medium
+🖖🏾 | vulcan_salute_medium_dark
+🖖🏿 | vulcan_salute_dark
+🫱 | rightwards_hand
+🫱🏻 | rightwards_hand_light
+🫱🏼 | rightwards_hand_medium_light
+🫱🏽 | rightwards_hand_medium
+🫱🏾 | rightwards_hand_medium_dark
+🫱🏿 | rightwards_hand_dark
+🫲 | leftwards_hand
+🫲🏻 | leftwards_hand_light
+🫲🏼 | leftwards_hand_medium_light
+🫲🏽 | leftwards_hand_medium
+🫲🏾 | leftwards_hand_medium_dark
+🫲🏿 | leftwards_hand_dark
+🫳 | palm_down_hand
+🫳🏻 | palm_down_hand_light
+🫳🏼 | palm_down_hand_medium_light
+🫳🏽 | palm_down_hand_medium
+🫳🏾 | palm_down_hand_medium_dark
+🫳🏿 | palm_down_hand_dark
+🫴 | palm_up_hand
+🫴🏻 | palm_up_hand_light
+🫴🏼 | palm_up_hand_medium_light
+🫴🏽 | palm_up_hand_medium
+🫴🏾 | palm_up_hand_medium_dark
+🫴🏿 | palm_up_hand_dark
+🫷 | leftwards_pushing_hand
+🫷🏻 | leftwards_pushing_hand_light
+🫷🏼 | leftwards_pushing_hand_medium_light
+🫷🏽 | leftwards_pushing_hand_medium
+🫷🏾 | leftwards_pushing_hand_medium_dark
+🫷🏿 | leftwards_pushing_hand_dark
+🫸 | rightwards_pushing_hand
+🫸🏻 | rightwards_pushing_hand_light
+🫸🏼 | rightwards_pushing_hand_medium_light
+🫸🏽 | rightwards_pushing_hand_medium
+🫸🏾 | rightwards_pushing_hand_medium_dark
+🫸🏿 | rightwards_pushing_hand_dark
+👌 | ok_hand
+👌🏻 | ok_hand_light
+👌🏼 | ok_hand_medium_light
+👌🏽 | ok_hand_medium
+👌🏾 | ok_hand_medium_dark
+👌🏿 | ok_hand_dark
+🤌 | pinched_fingers
+🤌🏻 | pinched_fingers_light
+🤌🏼 | pinched_fingers_medium_light
+🤌🏽 | pinched_fingers_medium
+🤌🏾 | pinched_fingers_medium_dark
+🤌🏿 | pinched_fingers_dark
+🤏 | pinching_hand
+🤏🏻 | pinching_hand_light
+🤏🏼 | pinching_hand_medium_light
+🤏🏽 | pinching_hand_medium
+🤏🏾 | pinching_hand_medium_dark
+🤏🏿 | pinching_hand_dark
+✌️ | victory_hand, v
+✌🏻 | victory_hand_light
+✌🏼 | victory_hand_medium_light
+✌🏽 | victory_hand_medium
+✌🏾 | victory_hand_medium_dark
+✌🏿 | victory_hand_dark
+🤞 | crossed_fingers
+🤞🏻 | crossed_fingers_light
+🤞🏼 | crossed_fingers_medium_light
+🤞🏽 | crossed_fingers_medium
+🤞🏾 | crossed_fingers_medium_dark
+🤞🏿 | crossed_fingers_dark
+🫰 | hand_with_index_finger_and_thumb_crossed
+🫰🏻 | hand_with_index_finger_and_thumb_crossed_light
+🫰🏼 | hand_with_index_finger_and_thumb_crossed_medium_light
+🫰🏽 | hand_with_index_finger_and_thumb_crossed_medium
+🫰🏾 | hand_with_index_finger_and_thumb_crossed_medium_dark
+🫰🏿 | hand_with_index_finger_and_thumb_crossed_dark
+🤟 | love_you_gesture
+🤟🏻 | love_you_gesture_light
+🤟🏼 | love_you_gesture_medium_light
+🤟🏽 | love_you_gesture_medium
+🤟🏾 | love_you_gesture_medium_dark
+🤟🏿 | love_you_gesture_dark
+🤘 | sign_of_the_horns, metal
+🤘🏻 | sign_of_the_horns_light
+🤘🏼 | sign_of_the_horns_medium_light
+🤘🏽 | sign_of_the_horns_medium
+🤘🏾 | sign_of_the_horns_medium_dark
+🤘🏿 | sign_of_the_horns_dark
+🤙 | call_me_hand
+🤙🏻 | call_me_hand_light
+🤙🏼 | call_me_hand_medium_light
+🤙🏽 | call_me_hand_medium
+🤙🏾 | call_me_hand_medium_dark
+🤙🏿 | call_me_hand_dark
+👈 | backhand_index_pointing_left, point_left
+👈🏻 | backhand_index_pointing_left_light
+👈🏼 | backhand_index_pointing_left_medium_light
+👈🏽 | backhand_index_pointing_left_medium
+👈🏾 | backhand_index_pointing_left_medium_dark
+👈🏿 | backhand_index_pointing_left_dark
+👉 | backhand_index_pointing_right, point_right
+👉🏻 | backhand_index_pointing_right_light
+👉🏼 | backhand_index_pointing_right_medium_light
+👉🏽 | backhand_index_pointing_right_medium
+👉🏾 | backhand_index_pointing_right_medium_dark
+👉🏿 | backhand_index_pointing_right_dark
+👆 | backhand_index_pointing_up, point_up_2
+👆🏻 | backhand_index_pointing_up_light
+👆🏼 | backhand_index_pointing_up_medium_light
+👆🏽 | backhand_index_pointing_up_medium
+👆🏾 | backhand_index_pointing_up_medium_dark
+👆🏿 | backhand_index_pointing_up_dark
+🖕 | middle_finger, fu
+🖕🏻 | middle_finger_light
+🖕🏼 | middle_finger_medium_light
+🖕🏽 | middle_finger_medium
+🖕🏾 | middle_finger_medium_dark
+🖕🏿 | middle_finger_dark
+👇 | backhand_index_pointing_down, point_down
+👇🏻 | backhand_index_pointing_down_light
+👇🏼 | backhand_index_pointing_down_medium_light
+👇🏽 | backhand_index_pointing_down_medium
+👇🏾 | backhand_index_pointing_down_medium_dark
+👇🏿 | backhand_index_pointing_down_dark
+☝️ | index_pointing_up, point_up
+☝🏻 | index_pointing_up_light
+☝🏼 | index_pointing_up_medium_light
+☝🏽 | index_pointing_up_medium
+☝🏾 | index_pointing_up_medium_dark
+☝🏿 | index_pointing_up_dark
+🫵 | index_pointing_at_the_viewer
+🫵🏻 | index_pointing_at_the_viewer_light
+🫵🏼 | index_pointing_at_the_viewer_medium_light
+🫵🏽 | index_pointing_at_the_viewer_medium
+🫵🏾 | index_pointing_at_the_viewer_medium_dark
+🫵🏿 | index_pointing_at_the_viewer_dark
+👍 | thumbs_up, +1, thumbsup
+👍🏻 | thumbs_up_light
+👍🏼 | thumbs_up_medium_light
+👍🏽 | thumbs_up_medium
+👍🏾 | thumbs_up_medium_dark
+👍🏿 | thumbs_up_dark
+👎 | thumbs_down, -1, thumbsdown
+👎🏻 | thumbs_down_light
+👎🏼 | thumbs_down_medium_light
+👎🏽 | thumbs_down_medium
+👎🏾 | thumbs_down_medium_dark
+👎🏿 | thumbs_down_dark
+✊ | raised_fist, fist, fist_raised
+✊🏻 | raised_fist_light
+✊🏼 | raised_fist_medium_light
+✊🏽 | raised_fist_medium
+✊🏾 | raised_fist_medium_dark
+✊🏿 | raised_fist_dark
+👊 | oncoming_fist, fist_oncoming, punch, facepunch
+👊🏻 | oncoming_fist_light
+👊🏼 | oncoming_fist_medium_light
+👊🏽 | oncoming_fist_medium
+👊🏾 | oncoming_fist_medium_dark
+👊🏿 | oncoming_fist_dark
+🤛 | left_facing_fist, fist_left
+🤛🏻 | left_facing_fist_light
+🤛🏼 | left_facing_fist_medium_light
+🤛🏽 | left_facing_fist_medium
+🤛🏾 | left_facing_fist_medium_dark
+🤛🏿 | left_facing_fist_dark
+🤜 | right_facing_fist, fist_right
+🤜🏻 | right_facing_fist_light
+🤜🏼 | right_facing_fist_medium_light
+🤜🏽 | right_facing_fist_medium
+🤜🏾 | right_facing_fist_medium_dark
+🤜🏿 | right_facing_fist_dark
+👏 | clapping_hands, clap
+👏🏻 | clapping_hands_light
+👏🏼 | clapping_hands_medium_light
+👏🏽 | clapping_hands_medium
+👏🏾 | clapping_hands_medium_dark
+👏🏿 | clapping_hands_dark
+🙌 | raising_hands, raised_hands
+🙌🏻 | raising_hands_light
+🙌🏼 | raising_hands_medium_light
+🙌🏽 | raising_hands_medium
+🙌🏾 | raising_hands_medium_dark
+🙌🏿 | raising_hands_dark
+🫶 | heart_hands
+🫶🏻 | heart_hands_light
+🫶🏼 | heart_hands_medium_light
+🫶🏽 | heart_hands_medium
+🫶🏾 | heart_hands_medium_dark
+🫶🏿 | heart_hands_dark
+👐 | open_hands
+👐🏻 | open_hands_light
+👐🏼 | open_hands_medium_light
+👐🏽 | open_hands_medium
+👐🏾 | open_hands_medium_dark
+👐🏿 | open_hands_dark
+🤲 | palms_up_together
+🤲🏻 | palms_up_together_light
+🤲🏼 | palms_up_together_medium_light
+🤲🏽 | palms_up_together_medium
+🤲🏾 | palms_up_together_medium_dark
+🤲🏿 | palms_up_together_dark
+🤝 | handshake
+🤝🏻 | handshake_light
+🤝🏼 | handshake_medium_light
+🤝🏽 | handshake_medium
+🤝🏾 | handshake_medium_dark
+🤝🏿 | handshake_dark
+🫱🏻‍🫲🏼 | handshake_light_medium_light
+🫱🏻‍🫲🏽 | handshake_light_medium
+🫱🏻‍🫲🏾 | handshake_light_medium_dark
+🫱🏻‍🫲🏿 | handshake_light_dark
+🫱🏼‍🫲🏻 | handshake_medium_light_light
+🫱🏼‍🫲🏽 | handshake_medium_light_medium
+🫱🏼‍🫲🏾 | handshake_medium_light_medium_dark
+🫱🏼‍🫲🏿 | handshake_medium_light_dark
+🫱🏽‍🫲🏻 | handshake_medium_light
+🫱🏽‍🫲🏼 | handshake_medium_medium_light
+🫱🏽‍🫲🏾 | handshake_medium_medium_dark
+🫱🏽‍🫲🏿 | handshake_medium_dark
+🫱🏾‍🫲🏻 | handshake_medium_dark_light
+🫱🏾‍🫲🏼 | handshake_medium_dark_medium_light
+🫱🏾‍🫲🏽 | handshake_medium_dark_medium
+🫱🏾‍🫲🏿 | handshake_medium_dark_dark
+🫱🏿‍🫲🏻 | handshake_dark_light
+🫱🏿‍🫲🏼 | handshake_dark_medium_light
+🫱🏿‍🫲🏽 | handshake_dark_medium
+🫱🏿‍🫲🏾 | handshake_dark_medium_dark
+🙏 | folded_hands, pray
+🙏🏻 | folded_hands_light
+🙏🏼 | folded_hands_medium_light
+🙏🏽 | folded_hands_medium
+🙏🏾 | folded_hands_medium_dark
+🙏🏿 | folded_hands_dark
+✍️ | writing_hand
+✍🏻 | writing_hand_light
+✍🏼 | writing_hand_medium_light
+✍🏽 | writing_hand_medium
+✍🏾 | writing_hand_medium_dark
+✍🏿 | writing_hand_dark
+💅 | nail_polish, nail_care
+💅🏻 | nail_polish_light
+💅🏼 | nail_polish_medium_light
+💅🏽 | nail_polish_medium
+💅🏾 | nail_polish_medium_dark
+💅🏿 | nail_polish_dark
+🤳 | selfie
+🤳🏻 | selfie_light
+🤳🏼 | selfie_medium_light
+🤳🏽 | selfie_medium
+🤳🏾 | selfie_medium_dark
+🤳🏿 | selfie_dark
+💪 | flexed_biceps, muscle
+💪🏻 | flexed_biceps_light
+💪🏼 | flexed_biceps_medium_light
+💪🏽 | flexed_biceps_medium
+💪🏾 | flexed_biceps_medium_dark
+💪🏿 | flexed_biceps_dark
+🦾 | mechanical_arm
+🦿 | mechanical_leg
+🦵 | leg
+🦵🏻 | leg_light
+🦵🏼 | leg_medium_light
+🦵🏽 | leg_medium
+🦵🏾 | leg_medium_dark
+🦵🏿 | leg_dark
+🦶 | foot
+🦶🏻 | foot_light
+🦶🏼 | foot_medium_light
+🦶🏽 | foot_medium
+🦶🏾 | foot_medium_dark
+🦶🏿 | foot_dark
+👂 | ear
+👂🏻 | ear_light
+👂🏼 | ear_medium_light
+👂🏽 | ear_medium
+👂🏾 | ear_medium_dark
+👂🏿 | ear_dark
+🦻 | ear_with_hearing_aid
+🦻🏻 | ear_with_hearing_aid_light
+🦻🏼 | ear_with_hearing_aid_medium_light
+🦻🏽 | ear_with_hearing_aid_medium
+🦻🏾 | ear_with_hearing_aid_medium_dark
+🦻🏿 | ear_with_hearing_aid_dark
+👃 | nose
+👃🏻 | nose_light
+👃🏼 | nose_medium_light
+👃🏽 | nose_medium
+👃🏾 | nose_medium_dark
+👃🏿 | nose_dark
+🧠 | brain
+🫀 | anatomical_heart
+🫁 | lungs
+🦷 | tooth
+🦴 | bone
+👀 | eyes
+👁️ | eye
+👅 | tongue
+👄 | mouth, lips
+🫦 | biting_lip
+👶 | baby
+👶🏻 | baby_light
+👶🏼 | baby_medium_light
+👶🏽 | baby_medium
+👶🏾 | baby_medium_dark
+👶🏿 | baby_dark
+🧒 | child
+🧒🏻 | child_light
+🧒🏼 | child_medium_light
+🧒🏽 | child_medium
+🧒🏾 | child_medium_dark
+🧒🏿 | child_dark
+👦 | boy
+👦🏻 | boy_light
+👦🏼 | boy_medium_light
+👦🏽 | boy_medium
+👦🏾 | boy_medium_dark
+👦🏿 | boy_dark
+👧 | girl
+👧🏻 | girl_light
+👧🏼 | girl_medium_light
+👧🏽 | girl_medium
+👧🏾 | girl_medium_dark
+👧🏿 | girl_dark
+🧑 | person, adult
+🧑🏻 | person_light
+🧑🏼 | person_medium_light
+🧑🏽 | person_medium
+🧑🏾 | person_medium_dark
+🧑🏿 | person_dark
+👱 | person_blond_hair, blond_haired_person
+👱🏻 | person_light_blond_hair
+👱🏼 | person_medium_light_blond_hair
+👱🏽 | person_medium_blond_hair
+👱🏾 | person_medium_dark_blond_hair
+👱🏿 | person_dark_blond_hair
+👨 | man
+👨🏻 | man_light
+👨🏼 | man_medium_light
+👨🏽 | man_medium
+👨🏾 | man_medium_dark
+👨🏿 | man_dark
+🧔 | person_beard, bearded_person
+🧔🏻 | person_light_beard
+🧔🏼 | person_medium_light_beard
+🧔🏽 | person_medium_beard
+🧔🏾 | person_medium_dark_beard
+🧔🏿 | person_dark_beard
+🧔‍♂️ | man_beard
+🧔🏻‍♂️ | man_light_beard
+🧔🏼‍♂️ | man_medium_light_beard
+🧔🏽‍♂️ | man_medium_beard
+🧔🏾‍♂️ | man_medium_dark_beard
+🧔🏿‍♂️ | man_dark_beard
+🧔‍♀️ | woman_beard
+🧔🏻‍♀️ | woman_light_beard
+🧔🏼‍♀️ | woman_medium_light_beard
+🧔🏽‍♀️ | woman_medium_beard
+🧔🏾‍♀️ | woman_medium_dark_beard
+🧔🏿‍♀️ | woman_dark_beard
+👨‍🦰 | man_red_hair, red_haired_man
+👨🏻‍🦰 | man_light_red_hair
+👨🏼‍🦰 | man_medium_light_red_hair
+👨🏽‍🦰 | man_medium_red_hair
+👨🏾‍🦰 | man_medium_dark_red_hair
+👨🏿‍🦰 | man_dark_red_hair
+👨‍🦱 | man_curly_hair, curly_haired_man
+👨🏻‍🦱 | man_light_curly_hair
+👨🏼‍🦱 | man_medium_light_curly_hair
+👨🏽‍🦱 | man_medium_curly_hair
+👨🏾‍🦱 | man_medium_dark_curly_hair
+👨🏿‍🦱 | man_dark_curly_hair
+👨‍🦳 | man_white_hair, white_haired_man
+👨🏻‍🦳 | man_light_white_hair
+👨🏼‍🦳 | man_medium_light_white_hair
+👨🏽‍🦳 | man_medium_white_hair
+👨🏾‍🦳 | man_medium_dark_white_hair
+👨🏿‍🦳 | man_dark_white_hair
+👨‍🦲 | man_bald, bald_man
+👨🏻‍🦲 | man_light_bald
+👨🏼‍🦲 | man_medium_light_bald
+👨🏽‍🦲 | man_medium_bald
+👨🏾‍🦲 | man_medium_dark_bald
+👨🏿‍🦲 | man_dark_bald
+👩 | woman
+👩🏻 | woman_light
+👩🏼 | woman_medium_light
+👩🏽 | woman_medium
+👩🏾 | woman_medium_dark
+👩🏿 | woman_dark
+👩‍🦰 | woman_red_hair, red_haired_woman
+👩🏻‍🦰 | woman_light_red_hair
+👩🏼‍🦰 | woman_medium_light_red_hair
+👩🏽‍🦰 | woman_medium_red_hair
+👩🏾‍🦰 | woman_medium_dark_red_hair
+👩🏿‍🦰 | woman_dark_red_hair
+🧑‍🦰 | person_red_hair
+🧑🏻‍🦰 | person_light_red_hair
+🧑🏼‍🦰 | person_medium_light_red_hair
+🧑🏽‍🦰 | person_medium_red_hair
+🧑🏾‍🦰 | person_medium_dark_red_hair
+🧑🏿‍🦰 | person_dark_red_hair
+👩‍🦱 | woman_curly_hair, curly_haired_woman
+👩🏻‍🦱 | woman_light_curly_hair
+👩🏼‍🦱 | woman_medium_light_curly_hair
+👩🏽‍🦱 | woman_medium_curly_hair
+👩🏾‍🦱 | woman_medium_dark_curly_hair
+👩🏿‍🦱 | woman_dark_curly_hair
+🧑‍🦱 | person_curly_hair
+🧑🏻‍🦱 | person_light_curly_hair
+🧑🏼‍🦱 | person_medium_light_curly_hair
+🧑🏽‍🦱 | person_medium_curly_hair
+🧑🏾‍🦱 | person_medium_dark_curly_hair
+🧑🏿‍🦱 | person_dark_curly_hair
+👩‍🦳 | woman_white_hair, white_haired_woman
+👩🏻‍🦳 | woman_light_white_hair
+👩🏼‍🦳 | woman_medium_light_white_hair
+👩🏽‍🦳 | woman_medium_white_hair
+👩🏾‍🦳 | woman_medium_dark_white_hair
+👩🏿‍🦳 | woman_dark_white_hair
+🧑‍🦳 | person_white_hair
+🧑🏻‍🦳 | person_light_white_hair
+🧑🏼‍🦳 | person_medium_light_white_hair
+🧑🏽‍🦳 | person_medium_white_hair
+🧑🏾‍🦳 | person_medium_dark_white_hair
+🧑🏿‍🦳 | person_dark_white_hair
+👩‍🦲 | woman_bald, bald_woman
+👩🏻‍🦲 | woman_light_bald
+👩🏼‍🦲 | woman_medium_light_bald
+👩🏽‍🦲 | woman_medium_bald
+👩🏾‍🦲 | woman_medium_dark_bald
+👩🏿‍🦲 | woman_dark_bald
+🧑‍🦲 | person_bald
+🧑🏻‍🦲 | person_light_bald
+🧑🏼‍🦲 | person_medium_light_bald
+🧑🏽‍🦲 | person_medium_bald
+🧑🏾‍🦲 | person_medium_dark_bald
+🧑🏿‍🦲 | person_dark_bald
+👱‍♀️ | woman_blond_hair, blond_haired_woman, blonde_woman
+👱🏻‍♀️ | woman_light_blond_hair
+👱🏼‍♀️ | woman_medium_light_blond_hair
+👱🏽‍♀️ | woman_medium_blond_hair
+👱🏾‍♀️ | woman_medium_dark_blond_hair
+👱🏿‍♀️ | woman_dark_blond_hair
+👱‍♂️ | man_blond_hair, blond_haired_man
+👱🏻‍♂️ | man_light_blond_hair
+👱🏼‍♂️ | man_medium_light_blond_hair
+👱🏽‍♂️ | man_medium_blond_hair
+👱🏾‍♂️ | man_medium_dark_blond_hair
+👱🏿‍♂️ | man_dark_blond_hair
+🧓 | older_person, older_adult
+🧓🏻 | older_person_light
+🧓🏼 | older_person_medium_light
+🧓🏽 | older_person_medium
+🧓🏾 | older_person_medium_dark
+🧓🏿 | older_person_dark
+👴 | old_man, older_man
+👴🏻 | old_man_light
+👴🏼 | old_man_medium_light
+👴🏽 | old_man_medium
+👴🏾 | old_man_medium_dark
+👴🏿 | old_man_dark
+👵 | old_woman, older_woman
+👵🏻 | old_woman_light
+👵🏼 | old_woman_medium_light
+👵🏽 | old_woman_medium
+👵🏾 | old_woman_medium_dark
+👵🏿 | old_woman_dark
+🙍 | person_frowning, frowning_person
+🙍🏻 | person_frowning_light
+🙍🏼 | person_frowning_medium_light
+🙍🏽 | person_frowning_medium
+🙍🏾 | person_frowning_medium_dark
+🙍🏿 | person_frowning_dark
+🙍‍♂️ | man_frowning, frowning_man
+🙍🏻‍♂️ | man_frowning_light
+🙍🏼‍♂️ | man_frowning_medium_light
+🙍🏽‍♂️ | man_frowning_medium
+🙍🏾‍♂️ | man_frowning_medium_dark
+🙍🏿‍♂️ | man_frowning_dark
+🙍‍♀️ | woman_frowning, frowning_woman
+🙍🏻‍♀️ | woman_frowning_light
+🙍🏼‍♀️ | woman_frowning_medium_light
+🙍🏽‍♀️ | woman_frowning_medium
+🙍🏾‍♀️ | woman_frowning_medium_dark
+🙍🏿‍♀️ | woman_frowning_dark
+🙎 | person_pouting, pouting_face
+🙎🏻 | person_pouting_light
+🙎🏼 | person_pouting_medium_light
+🙎🏽 | person_pouting_medium
+🙎🏾 | person_pouting_medium_dark
+🙎🏿 | person_pouting_dark
+🙎‍♂️ | man_pouting, pouting_man
+🙎🏻‍♂️ | man_pouting_light
+🙎🏼‍♂️ | man_pouting_medium_light
+🙎🏽‍♂️ | man_pouting_medium
+🙎🏾‍♂️ | man_pouting_medium_dark
+🙎🏿‍♂️ | man_pouting_dark
+🙎‍♀️ | woman_pouting, pouting_woman
+🙎🏻‍♀️ | woman_pouting_light
+🙎🏼‍♀️ | woman_pouting_medium_light
+🙎🏽‍♀️ | woman_pouting_medium
+🙎🏾‍♀️ | woman_pouting_medium_dark
+🙎🏿‍♀️ | woman_pouting_dark
+🙅 | person_gesturing_no, no_good
+🙅🏻 | person_gesturing_no_light
+🙅🏼 | person_gesturing_no_medium_light
+🙅🏽 | person_gesturing_no_medium
+🙅🏾 | person_gesturing_no_medium_dark
+🙅🏿 | person_gesturing_no_dark
+🙅‍♂️ | man_gesturing_no, ng_man, no_good_man
+🙅🏻‍♂️ | man_gesturing_no_light
+🙅🏼‍♂️ | man_gesturing_no_medium_light
+🙅🏽‍♂️ | man_gesturing_no_medium
+🙅🏾‍♂️ | man_gesturing_no_medium_dark
+🙅🏿‍♂️ | man_gesturing_no_dark
+🙅‍♀️ | woman_gesturing_no, no_good_woman, ng_woman
+🙅🏻‍♀️ | woman_gesturing_no_light
+🙅🏼‍♀️ | woman_gesturing_no_medium_light
+🙅🏽‍♀️ | woman_gesturing_no_medium
+🙅🏾‍♀️ | woman_gesturing_no_medium_dark
+🙅🏿‍♀️ | woman_gesturing_no_dark
+🙆 | person_gesturing_ok, ok_person
+🙆🏻 | person_gesturing_ok_light
+🙆🏼 | person_gesturing_ok_medium_light
+🙆🏽 | person_gesturing_ok_medium
+🙆🏾 | person_gesturing_ok_medium_dark
+🙆🏿 | person_gesturing_ok_dark
+🙆‍♂️ | man_gesturing_ok, ok_man
+🙆🏻‍♂️ | man_gesturing_ok_light
+🙆🏼‍♂️ | man_gesturing_ok_medium_light
+🙆🏽‍♂️ | man_gesturing_ok_medium
+🙆🏾‍♂️ | man_gesturing_ok_medium_dark
+🙆🏿‍♂️ | man_gesturing_ok_dark
+🙆‍♀️ | woman_gesturing_ok, ok_woman
+🙆🏻‍♀️ | woman_gesturing_ok_light
+🙆🏼‍♀️ | woman_gesturing_ok_medium_light
+🙆🏽‍♀️ | woman_gesturing_ok_medium
+🙆🏾‍♀️ | woman_gesturing_ok_medium_dark
+🙆🏿‍♀️ | woman_gesturing_ok_dark
+💁 | person_tipping_hand, tipping_hand_person, information_desk_person
+💁🏻 | person_tipping_hand_light
+💁🏼 | person_tipping_hand_medium_light
+💁🏽 | person_tipping_hand_medium
+💁🏾 | person_tipping_hand_medium_dark
+💁🏿 | person_tipping_hand_dark
+💁‍♂️ | man_tipping_hand, sassy_man, tipping_hand_man
+💁🏻‍♂️ | man_tipping_hand_light
+💁🏼‍♂️ | man_tipping_hand_medium_light
+💁🏽‍♂️ | man_tipping_hand_medium
+💁🏾‍♂️ | man_tipping_hand_medium_dark
+💁🏿‍♂️ | man_tipping_hand_dark
+💁‍♀️ | woman_tipping_hand, sassy_woman, tipping_hand_woman
+💁🏻‍♀️ | woman_tipping_hand_light
+💁🏼‍♀️ | woman_tipping_hand_medium_light
+💁🏽‍♀️ | woman_tipping_hand_medium
+💁🏾‍♀️ | woman_tipping_hand_medium_dark
+💁🏿‍♀️ | woman_tipping_hand_dark
+🙋 | person_raising_hand, raising_hand
+🙋🏻 | person_raising_hand_light
+🙋🏼 | person_raising_hand_medium_light
+🙋🏽 | person_raising_hand_medium
+🙋🏾 | person_raising_hand_medium_dark
+🙋🏿 | person_raising_hand_dark
+🙋‍♂️ | man_raising_hand, raising_hand_man
+🙋🏻‍♂️ | man_raising_hand_light
+🙋🏼‍♂️ | man_raising_hand_medium_light
+🙋🏽‍♂️ | man_raising_hand_medium
+🙋🏾‍♂️ | man_raising_hand_medium_dark
+🙋🏿‍♂️ | man_raising_hand_dark
+🙋‍♀️ | woman_raising_hand, raising_hand_woman
+🙋🏻‍♀️ | woman_raising_hand_light
+🙋🏼‍♀️ | woman_raising_hand_medium_light
+🙋🏽‍♀️ | woman_raising_hand_medium
+🙋🏾‍♀️ | woman_raising_hand_medium_dark
+🙋🏿‍♀️ | woman_raising_hand_dark
+🧏 | deaf_person
+🧏🏻 | deaf_person_light
+🧏🏼 | deaf_person_medium_light
+🧏🏽 | deaf_person_medium
+🧏🏾 | deaf_person_medium_dark
+🧏🏿 | deaf_person_dark
+🧏‍♂️ | deaf_man
+🧏🏻‍♂️ | deaf_man_light
+🧏🏼‍♂️ | deaf_man_medium_light
+🧏🏽‍♂️ | deaf_man_medium
+🧏🏾‍♂️ | deaf_man_medium_dark
+🧏🏿‍♂️ | deaf_man_dark
+🧏‍♀️ | deaf_woman
+🧏🏻‍♀️ | deaf_woman_light
+🧏🏼‍♀️ | deaf_woman_medium_light
+🧏🏽‍♀️ | deaf_woman_medium
+🧏🏾‍♀️ | deaf_woman_medium_dark
+🧏🏿‍♀️ | deaf_woman_dark
+🙇 | person_bowing, bow
+🙇🏻 | person_bowing_light
+🙇🏼 | person_bowing_medium_light
+🙇🏽 | person_bowing_medium
+🙇🏾 | person_bowing_medium_dark
+🙇🏿 | person_bowing_dark
+🙇‍♂️ | man_bowing, bowing_man
+🙇🏻‍♂️ | man_bowing_light
+🙇🏼‍♂️ | man_bowing_medium_light
+🙇🏽‍♂️ | man_bowing_medium
+🙇🏾‍♂️ | man_bowing_medium_dark
+🙇🏿‍♂️ | man_bowing_dark
+🙇‍♀️ | woman_bowing, bowing_woman
+🙇🏻‍♀️ | woman_bowing_light
+🙇🏼‍♀️ | woman_bowing_medium_light
+🙇🏽‍♀️ | woman_bowing_medium
+🙇🏾‍♀️ | woman_bowing_medium_dark
+🙇🏿‍♀️ | woman_bowing_dark
+🤦 | person_facepalming, facepalm
+🤦🏻 | person_facepalming_light
+🤦🏼 | person_facepalming_medium_light
+🤦🏽 | person_facepalming_medium
+🤦🏾 | person_facepalming_medium_dark
+🤦🏿 | person_facepalming_dark
+🤦‍♂️ | man_facepalming
+🤦🏻‍♂️ | man_facepalming_light
+🤦🏼‍♂️ | man_facepalming_medium_light
+🤦🏽‍♂️ | man_facepalming_medium
+🤦🏾‍♂️ | man_facepalming_medium_dark
+🤦🏿‍♂️ | man_facepalming_dark
+🤦‍♀️ | woman_facepalming
+🤦🏻‍♀️ | woman_facepalming_light
+🤦🏼‍♀️ | woman_facepalming_medium_light
+🤦🏽‍♀️ | woman_facepalming_medium
+🤦🏾‍♀️ | woman_facepalming_medium_dark
+🤦🏿‍♀️ | woman_facepalming_dark
+🤷 | person_shrugging, shrug
+🤷🏻 | person_shrugging_light
+🤷🏼 | person_shrugging_medium_light
+🤷🏽 | person_shrugging_medium
+🤷🏾 | person_shrugging_medium_dark
+🤷🏿 | person_shrugging_dark
+🤷‍♂️ | man_shrugging
+🤷🏻‍♂️ | man_shrugging_light
+🤷🏼‍♂️ | man_shrugging_medium_light
+🤷🏽‍♂️ | man_shrugging_medium
+🤷🏾‍♂️ | man_shrugging_medium_dark
+🤷🏿‍♂️ | man_shrugging_dark
+🤷‍♀️ | woman_shrugging
+🤷🏻‍♀️ | woman_shrugging_light
+🤷🏼‍♀️ | woman_shrugging_medium_light
+🤷🏽‍♀️ | woman_shrugging_medium
+🤷🏾‍♀️ | woman_shrugging_medium_dark
+🤷🏿‍♀️ | woman_shrugging_dark
+🧑‍⚕️ | health_worker
+🧑🏻‍⚕️ | health_worker_light
+🧑🏼‍⚕️ | health_worker_medium_light
+🧑🏽‍⚕️ | health_worker_medium
+🧑🏾‍⚕️ | health_worker_medium_dark
+🧑🏿‍⚕️ | health_worker_dark
+👨‍⚕️ | man_health_worker
+👨🏻‍⚕️ | man_health_worker_light
+👨🏼‍⚕️ | man_health_worker_medium_light
+👨🏽‍⚕️ | man_health_worker_medium
+👨🏾‍⚕️ | man_health_worker_medium_dark
+👨🏿‍⚕️ | man_health_worker_dark
+👩‍⚕️ | woman_health_worker
+👩🏻‍⚕️ | woman_health_worker_light
+👩🏼‍⚕️ | woman_health_worker_medium_light
+👩🏽‍⚕️ | woman_health_worker_medium
+👩🏾‍⚕️ | woman_health_worker_medium_dark
+👩🏿‍⚕️ | woman_health_worker_dark
+🧑‍🎓 | student
+🧑🏻‍🎓 | student_light
+🧑🏼‍🎓 | student_medium_light
+🧑🏽‍🎓 | student_medium
+🧑🏾‍🎓 | student_medium_dark
+🧑🏿‍🎓 | student_dark
+👨‍🎓 | man_student
+👨🏻‍🎓 | man_student_light
+👨🏼‍🎓 | man_student_medium_light
+👨🏽‍🎓 | man_student_medium
+👨🏾‍🎓 | man_student_medium_dark
+👨🏿‍🎓 | man_student_dark
+👩‍🎓 | woman_student
+👩🏻‍🎓 | woman_student_light
+👩🏼‍🎓 | woman_student_medium_light
+👩🏽‍🎓 | woman_student_medium
+👩🏾‍🎓 | woman_student_medium_dark
+👩🏿‍🎓 | woman_student_dark
+🧑‍🏫 | teacher
+🧑🏻‍🏫 | teacher_light
+🧑🏼‍🏫 | teacher_medium_light
+🧑🏽‍🏫 | teacher_medium
+🧑🏾‍🏫 | teacher_medium_dark
+🧑🏿‍🏫 | teacher_dark
+👨‍🏫 | man_teacher
+👨🏻‍🏫 | man_teacher_light
+👨🏼‍🏫 | man_teacher_medium_light
+👨🏽‍🏫 | man_teacher_medium
+👨🏾‍🏫 | man_teacher_medium_dark
+👨🏿‍🏫 | man_teacher_dark
+👩‍🏫 | woman_teacher
+👩🏻‍🏫 | woman_teacher_light
+👩🏼‍🏫 | woman_teacher_medium_light
+👩🏽‍🏫 | woman_teacher_medium
+👩🏾‍🏫 | woman_teacher_medium_dark
+👩🏿‍🏫 | woman_teacher_dark
+🧑‍⚖️ | judge
+🧑🏻‍⚖️ | judge_light
+🧑🏼‍⚖️ | judge_medium_light
+🧑🏽‍⚖️ | judge_medium
+🧑🏾‍⚖️ | judge_medium_dark
+🧑🏿‍⚖️ | judge_dark
+👨‍⚖️ | man_judge
+👨🏻‍⚖️ | man_judge_light
+👨🏼‍⚖️ | man_judge_medium_light
+👨🏽‍⚖️ | man_judge_medium
+👨🏾‍⚖️ | man_judge_medium_dark
+👨🏿‍⚖️ | man_judge_dark
+👩‍⚖️ | woman_judge
+👩🏻‍⚖️ | woman_judge_light
+👩🏼‍⚖️ | woman_judge_medium_light
+👩🏽‍⚖️ | woman_judge_medium
+👩🏾‍⚖️ | woman_judge_medium_dark
+👩🏿‍⚖️ | woman_judge_dark
+🧑‍🌾 | farmer
+🧑🏻‍🌾 | farmer_light
+🧑🏼‍🌾 | farmer_medium_light
+🧑🏽‍🌾 | farmer_medium
+🧑🏾‍🌾 | farmer_medium_dark
+🧑🏿‍🌾 | farmer_dark
+👨‍🌾 | man_farmer
+👨🏻‍🌾 | man_farmer_light
+👨🏼‍🌾 | man_farmer_medium_light
+👨🏽‍🌾 | man_farmer_medium
+👨🏾‍🌾 | man_farmer_medium_dark
+👨🏿‍🌾 | man_farmer_dark
+👩‍🌾 | woman_farmer
+👩🏻‍🌾 | woman_farmer_light
+👩🏼‍🌾 | woman_farmer_medium_light
+👩🏽‍🌾 | woman_farmer_medium
+👩🏾‍🌾 | woman_farmer_medium_dark
+👩🏿‍🌾 | woman_farmer_dark
+🧑‍🍳 | cook
+🧑🏻‍🍳 | cook_light
+🧑🏼‍🍳 | cook_medium_light
+🧑🏽‍🍳 | cook_medium
+🧑🏾‍🍳 | cook_medium_dark
+🧑🏿‍🍳 | cook_dark
+👨‍🍳 | man_cook
+👨🏻‍🍳 | man_cook_light
+👨🏼‍🍳 | man_cook_medium_light
+👨🏽‍🍳 | man_cook_medium
+👨🏾‍🍳 | man_cook_medium_dark
+👨🏿‍🍳 | man_cook_dark
+👩‍🍳 | woman_cook
+👩🏻‍🍳 | woman_cook_light
+👩🏼‍🍳 | woman_cook_medium_light
+👩🏽‍🍳 | woman_cook_medium
+👩🏾‍🍳 | woman_cook_medium_dark
+👩🏿‍🍳 | woman_cook_dark
+🧑‍🔧 | mechanic
+🧑🏻‍🔧 | mechanic_light
+🧑🏼‍🔧 | mechanic_medium_light
+🧑🏽‍🔧 | mechanic_medium
+🧑🏾‍🔧 | mechanic_medium_dark
+🧑🏿‍🔧 | mechanic_dark
+👨‍🔧 | man_mechanic
+👨🏻‍🔧 | man_mechanic_light
+👨🏼‍🔧 | man_mechanic_medium_light
+👨🏽‍🔧 | man_mechanic_medium
+👨🏾‍🔧 | man_mechanic_medium_dark
+👨🏿‍🔧 | man_mechanic_dark
+👩‍🔧 | woman_mechanic
+👩🏻‍🔧 | woman_mechanic_light
+👩🏼‍🔧 | woman_mechanic_medium_light
+👩🏽‍🔧 | woman_mechanic_medium
+👩🏾‍🔧 | woman_mechanic_medium_dark
+👩🏿‍🔧 | woman_mechanic_dark
+🧑‍🏭 | factory_worker
+🧑🏻‍🏭 | factory_worker_light
+🧑🏼‍🏭 | factory_worker_medium_light
+🧑🏽‍🏭 | factory_worker_medium
+🧑🏾‍🏭 | factory_worker_medium_dark
+🧑🏿‍🏭 | factory_worker_dark
+👨‍🏭 | man_factory_worker
+👨🏻‍🏭 | man_factory_worker_light
+👨🏼‍🏭 | man_factory_worker_medium_light
+👨🏽‍🏭 | man_factory_worker_medium
+👨🏾‍🏭 | man_factory_worker_medium_dark
+👨🏿‍🏭 | man_factory_worker_dark
+👩‍🏭 | woman_factory_worker
+👩🏻‍🏭 | woman_factory_worker_light
+👩🏼‍🏭 | woman_factory_worker_medium_light
+👩🏽‍🏭 | woman_factory_worker_medium
+👩🏾‍🏭 | woman_factory_worker_medium_dark
+👩🏿‍🏭 | woman_factory_worker_dark
+🧑‍💼 | office_worker
+🧑🏻‍💼 | office_worker_light
+🧑🏼‍💼 | office_worker_medium_light
+🧑🏽‍💼 | office_worker_medium
+🧑🏾‍💼 | office_worker_medium_dark
+🧑🏿‍💼 | office_worker_dark
+👨‍💼 | man_office_worker
+👨🏻‍💼 | man_office_worker_light
+👨🏼‍💼 | man_office_worker_medium_light
+👨🏽‍💼 | man_office_worker_medium
+👨🏾‍💼 | man_office_worker_medium_dark
+👨🏿‍💼 | man_office_worker_dark
+👩‍💼 | woman_office_worker
+👩🏻‍💼 | woman_office_worker_light
+👩🏼‍💼 | woman_office_worker_medium_light
+👩🏽‍💼 | woman_office_worker_medium
+👩🏾‍💼 | woman_office_worker_medium_dark
+👩🏿‍💼 | woman_office_worker_dark
+🧑‍🔬 | scientist
+🧑🏻‍🔬 | scientist_light
+🧑🏼‍🔬 | scientist_medium_light
+🧑🏽‍🔬 | scientist_medium
+🧑🏾‍🔬 | scientist_medium_dark
+🧑🏿‍🔬 | scientist_dark
+👨‍🔬 | man_scientist
+👨🏻‍🔬 | man_scientist_light
+👨🏼‍🔬 | man_scientist_medium_light
+👨🏽‍🔬 | man_scientist_medium
+👨🏾‍🔬 | man_scientist_medium_dark
+👨🏿‍🔬 | man_scientist_dark
+👩‍🔬 | woman_scientist
+👩🏻‍🔬 | woman_scientist_light
+👩🏼‍🔬 | woman_scientist_medium_light
+👩🏽‍🔬 | woman_scientist_medium
+👩🏾‍🔬 | woman_scientist_medium_dark
+👩🏿‍🔬 | woman_scientist_dark
+🧑‍💻 | technologist
+🧑🏻‍💻 | technologist_light
+🧑🏼‍💻 | technologist_medium_light
+🧑🏽‍💻 | technologist_medium
+🧑🏾‍💻 | technologist_medium_dark
+🧑🏿‍💻 | technologist_dark
+👨‍💻 | man_technologist
+👨🏻‍💻 | man_technologist_light
+👨🏼‍💻 | man_technologist_medium_light
+👨🏽‍💻 | man_technologist_medium
+👨🏾‍💻 | man_technologist_medium_dark
+👨🏿‍💻 | man_technologist_dark
+👩‍💻 | woman_technologist
+👩🏻‍💻 | woman_technologist_light
+👩🏼‍💻 | woman_technologist_medium_light
+👩🏽‍💻 | woman_technologist_medium
+👩🏾‍💻 | woman_technologist_medium_dark
+👩🏿‍💻 | woman_technologist_dark
+🧑‍🎤 | singer
+🧑🏻‍🎤 | singer_light
+🧑🏼‍🎤 | singer_medium_light
+🧑🏽‍🎤 | singer_medium
+🧑🏾‍🎤 | singer_medium_dark
+🧑🏿‍🎤 | singer_dark
+👨‍🎤 | man_singer
+👨🏻‍🎤 | man_singer_light
+👨🏼‍🎤 | man_singer_medium_light
+👨🏽‍🎤 | man_singer_medium
+👨🏾‍🎤 | man_singer_medium_dark
+👨🏿‍🎤 | man_singer_dark
+👩‍🎤 | woman_singer
+👩🏻‍🎤 | woman_singer_light
+👩🏼‍🎤 | woman_singer_medium_light
+👩🏽‍🎤 | woman_singer_medium
+👩🏾‍🎤 | woman_singer_medium_dark
+👩🏿‍🎤 | woman_singer_dark
+🧑‍🎨 | artist
+🧑🏻‍🎨 | artist_light
+🧑🏼‍🎨 | artist_medium_light
+🧑🏽‍🎨 | artist_medium
+🧑🏾‍🎨 | artist_medium_dark
+🧑🏿‍🎨 | artist_dark
+👨‍🎨 | man_artist
+👨🏻‍🎨 | man_artist_light
+👨🏼‍🎨 | man_artist_medium_light
+👨🏽‍🎨 | man_artist_medium
+👨🏾‍🎨 | man_artist_medium_dark
+👨🏿‍🎨 | man_artist_dark
+👩‍🎨 | woman_artist
+👩🏻‍🎨 | woman_artist_light
+👩🏼‍🎨 | woman_artist_medium_light
+👩🏽‍🎨 | woman_artist_medium
+👩🏾‍🎨 | woman_artist_medium_dark
+👩🏿‍🎨 | woman_artist_dark
+🧑‍✈️ | pilot
+🧑🏻‍✈️ | pilot_light
+🧑🏼‍✈️ | pilot_medium_light
+🧑🏽‍✈️ | pilot_medium
+🧑🏾‍✈️ | pilot_medium_dark
+🧑🏿‍✈️ | pilot_dark
+👨‍✈️ | man_pilot
+👨🏻‍✈️ | man_pilot_light
+👨🏼‍✈️ | man_pilot_medium_light
+👨🏽‍✈️ | man_pilot_medium
+👨🏾‍✈️ | man_pilot_medium_dark
+👨🏿‍✈️ | man_pilot_dark
+👩‍✈️ | woman_pilot
+👩🏻‍✈️ | woman_pilot_light
+👩🏼‍✈️ | woman_pilot_medium_light
+👩🏽‍✈️ | woman_pilot_medium
+👩🏾‍✈️ | woman_pilot_medium_dark
+👩🏿‍✈️ | woman_pilot_dark
+🧑‍🚀 | astronaut
+🧑🏻‍🚀 | astronaut_light
+🧑🏼‍🚀 | astronaut_medium_light
+🧑🏽‍🚀 | astronaut_medium
+🧑🏾‍🚀 | astronaut_medium_dark
+🧑🏿‍🚀 | astronaut_dark
+👨‍🚀 | man_astronaut
+👨🏻‍🚀 | man_astronaut_light
+👨🏼‍🚀 | man_astronaut_medium_light
+👨🏽‍🚀 | man_astronaut_medium
+👨🏾‍🚀 | man_astronaut_medium_dark
+👨🏿‍🚀 | man_astronaut_dark
+👩‍🚀 | woman_astronaut
+👩🏻‍🚀 | woman_astronaut_light
+👩🏼‍🚀 | woman_astronaut_medium_light
+👩🏽‍🚀 | woman_astronaut_medium
+👩🏾‍🚀 | woman_astronaut_medium_dark
+👩🏿‍🚀 | woman_astronaut_dark
+🧑‍🚒 | firefighter
+🧑🏻‍🚒 | firefighter_light
+🧑🏼‍🚒 | firefighter_medium_light
+🧑🏽‍🚒 | firefighter_medium
+🧑🏾‍🚒 | firefighter_medium_dark
+🧑🏿‍🚒 | firefighter_dark
+👨‍🚒 | man_firefighter
+👨🏻‍🚒 | man_firefighter_light
+👨🏼‍🚒 | man_firefighter_medium_light
+👨🏽‍🚒 | man_firefighter_medium
+👨🏾‍🚒 | man_firefighter_medium_dark
+👨🏿‍🚒 | man_firefighter_dark
+👩‍🚒 | woman_firefighter
+👩🏻‍🚒 | woman_firefighter_light
+👩🏼‍🚒 | woman_firefighter_medium_light
+👩🏽‍🚒 | woman_firefighter_medium
+👩🏾‍🚒 | woman_firefighter_medium_dark
+👩🏿‍🚒 | woman_firefighter_dark
+👮 | police_officer, cop
+👮🏻 | police_officer_light
+👮🏼 | police_officer_medium_light
+👮🏽 | police_officer_medium
+👮🏾 | police_officer_medium_dark
+👮🏿 | police_officer_dark
+👮‍♂️ | man_police_officer, policeman
+👮🏻‍♂️ | man_police_officer_light
+👮🏼‍♂️ | man_police_officer_medium_light
+👮🏽‍♂️ | man_police_officer_medium
+👮🏾‍♂️ | man_police_officer_medium_dark
+👮🏿‍♂️ | man_police_officer_dark
+👮‍♀️ | woman_police_officer, policewoman
+👮🏻‍♀️ | woman_police_officer_light
+👮🏼‍♀️ | woman_police_officer_medium_light
+👮🏽‍♀️ | woman_police_officer_medium
+👮🏾‍♀️ | woman_police_officer_medium_dark
+👮🏿‍♀️ | woman_police_officer_dark
+🕵️ | detective
+🕵🏻 | detective_light
+🕵🏼 | detective_medium_light
+🕵🏽 | detective_medium
+🕵🏾 | detective_medium_dark
+🕵🏿 | detective_dark
+🕵️‍♂️ | man_detective, male_detective
+🕵🏻‍♂️ | man_detective_light
+🕵🏼‍♂️ | man_detective_medium_light
+🕵🏽‍♂️ | man_detective_medium
+🕵🏾‍♂️ | man_detective_medium_dark
+🕵🏿‍♂️ | man_detective_dark
+🕵️‍♀️ | woman_detective, female_detective
+🕵🏻‍♀️ | woman_detective_light
+🕵🏼‍♀️ | woman_detective_medium_light
+🕵🏽‍♀️ | woman_detective_medium
+🕵🏾‍♀️ | woman_detective_medium_dark
+🕵🏿‍♀️ | woman_detective_dark
+💂 | guard
+💂🏻 | guard_light
+💂🏼 | guard_medium_light
+💂🏽 | guard_medium
+💂🏾 | guard_medium_dark
+💂🏿 | guard_dark
+💂‍♂️ | man_guard, guardsman
+💂🏻‍♂️ | man_guard_light
+💂🏼‍♂️ | man_guard_medium_light
+💂🏽‍♂️ | man_guard_medium
+💂🏾‍♂️ | man_guard_medium_dark
+💂🏿‍♂️ | man_guard_dark
+💂‍♀️ | woman_guard, guardswoman
+💂🏻‍♀️ | woman_guard_light
+💂🏼‍♀️ | woman_guard_medium_light
+💂🏽‍♀️ | woman_guard_medium
+💂🏾‍♀️ | woman_guard_medium_dark
+💂🏿‍♀️ | woman_guard_dark
+🥷 | ninja
+🥷🏻 | ninja_light
+🥷🏼 | ninja_medium_light
+🥷🏽 | ninja_medium
+🥷🏾 | ninja_medium_dark
+🥷🏿 | ninja_dark
+👷 | construction_worker
+👷🏻 | construction_worker_light
+👷🏼 | construction_worker_medium_light
+👷🏽 | construction_worker_medium
+👷🏾 | construction_worker_medium_dark
+👷🏿 | construction_worker_dark
+👷‍♂️ | man_construction_worker, construction_worker_man
+👷🏻‍♂️ | man_construction_worker_light
+👷🏼‍♂️ | man_construction_worker_medium_light
+👷🏽‍♂️ | man_construction_worker_medium
+👷🏾‍♂️ | man_construction_worker_medium_dark
+👷🏿‍♂️ | man_construction_worker_dark
+👷‍♀️ | woman_construction_worker, construction_worker_woman
+👷🏻‍♀️ | woman_construction_worker_light
+👷🏼‍♀️ | woman_construction_worker_medium_light
+👷🏽‍♀️ | woman_construction_worker_medium
+👷🏾‍♀️ | woman_construction_worker_medium_dark
+👷🏿‍♀️ | woman_construction_worker_dark
+🫅 | person_with_crown
+🫅🏻 | person_with_crown_light
+🫅🏼 | person_with_crown_medium_light
+🫅🏽 | person_with_crown_medium
+🫅🏾 | person_with_crown_medium_dark
+🫅🏿 | person_with_crown_dark
+🤴 | prince
+🤴🏻 | prince_light
+🤴🏼 | prince_medium_light
+🤴🏽 | prince_medium
+🤴🏾 | prince_medium_dark
+🤴🏿 | prince_dark
+👸 | princess
+👸🏻 | princess_light
+👸🏼 | princess_medium_light
+👸🏽 | princess_medium
+👸🏾 | princess_medium_dark
+👸🏿 | princess_dark
+👳 | person_wearing_turban, person_with_turban
+👳🏻 | person_wearing_turban_light
+👳🏼 | person_wearing_turban_medium_light
+👳🏽 | person_wearing_turban_medium
+👳🏾 | person_wearing_turban_medium_dark
+👳🏿 | person_wearing_turban_dark
+👳‍♂️ | man_wearing_turban, man_with_turban
+👳🏻‍♂️ | man_wearing_turban_light
+👳🏼‍♂️ | man_wearing_turban_medium_light
+👳🏽‍♂️ | man_wearing_turban_medium
+👳🏾‍♂️ | man_wearing_turban_medium_dark
+👳🏿‍♂️ | man_wearing_turban_dark
+👳‍♀️ | woman_wearing_turban, woman_with_turban
+👳🏻‍♀️ | woman_wearing_turban_light
+👳🏼‍♀️ | woman_wearing_turban_medium_light
+👳🏽‍♀️ | woman_wearing_turban_medium
+👳🏾‍♀️ | woman_wearing_turban_medium_dark
+👳🏿‍♀️ | woman_wearing_turban_dark
+👲 | person_with_skullcap, man_with_gua_pi_mao
+👲🏻 | person_with_skullcap_light
+👲🏼 | person_with_skullcap_medium_light
+👲🏽 | person_with_skullcap_medium
+👲🏾 | person_with_skullcap_medium_dark
+👲🏿 | person_with_skullcap_dark
+🧕 | woman_with_headscarf
+🧕🏻 | woman_with_headscarf_light
+🧕🏼 | woman_with_headscarf_medium_light
+🧕🏽 | woman_with_headscarf_medium
+🧕🏾 | woman_with_headscarf_medium_dark
+🧕🏿 | woman_with_headscarf_dark
+🤵 | person_in_tuxedo
+🤵🏻 | person_in_tuxedo_light
+🤵🏼 | person_in_tuxedo_medium_light
+🤵🏽 | person_in_tuxedo_medium
+🤵🏾 | person_in_tuxedo_medium_dark
+🤵🏿 | person_in_tuxedo_dark
+🤵‍♂️ | man_in_tuxedo
+🤵🏻‍♂️ | man_in_tuxedo_light
+🤵🏼‍♂️ | man_in_tuxedo_medium_light
+🤵🏽‍♂️ | man_in_tuxedo_medium
+🤵🏾‍♂️ | man_in_tuxedo_medium_dark
+🤵🏿‍♂️ | man_in_tuxedo_dark
+🤵‍♀️ | woman_in_tuxedo
+🤵🏻‍♀️ | woman_in_tuxedo_light
+🤵🏼‍♀️ | woman_in_tuxedo_medium_light
+🤵🏽‍♀️ | woman_in_tuxedo_medium
+🤵🏾‍♀️ | woman_in_tuxedo_medium_dark
+🤵🏿‍♀️ | woman_in_tuxedo_dark
+👰 | person_with_veil
+👰🏻 | person_with_veil_light
+👰🏼 | person_with_veil_medium_light
+👰🏽 | person_with_veil_medium
+👰🏾 | person_with_veil_medium_dark
+👰🏿 | person_with_veil_dark
+👰‍♂️ | man_with_veil
+👰🏻‍♂️ | man_with_veil_light
+👰🏼‍♂️ | man_with_veil_medium_light
+👰🏽‍♂️ | man_with_veil_medium
+👰🏾‍♂️ | man_with_veil_medium_dark
+👰🏿‍♂️ | man_with_veil_dark
+👰‍♀️ | woman_with_veil, bride_with_veil
+👰🏻‍♀️ | woman_with_veil_light
+👰🏼‍♀️ | woman_with_veil_medium_light
+👰🏽‍♀️ | woman_with_veil_medium
+👰🏾‍♀️ | woman_with_veil_medium_dark
+👰🏿‍♀️ | woman_with_veil_dark
+🤰 | pregnant_woman
+🤰🏻 | pregnant_woman_light
+🤰🏼 | pregnant_woman_medium_light
+🤰🏽 | pregnant_woman_medium
+🤰🏾 | pregnant_woman_medium_dark
+🤰🏿 | pregnant_woman_dark
+🫃 | pregnant_man
+🫃🏻 | pregnant_man_light
+🫃🏼 | pregnant_man_medium_light
+🫃🏽 | pregnant_man_medium
+🫃🏾 | pregnant_man_medium_dark
+🫃🏿 | pregnant_man_dark
+🫄 | pregnant_person
+🫄🏻 | pregnant_person_light
+🫄🏼 | pregnant_person_medium_light
+🫄🏽 | pregnant_person_medium
+🫄🏾 | pregnant_person_medium_dark
+🫄🏿 | pregnant_person_dark
+🤱 | breast_feeding
+🤱🏻 | breast_feeding_light
+🤱🏼 | breast_feeding_medium_light
+🤱🏽 | breast_feeding_medium
+🤱🏾 | breast_feeding_medium_dark
+🤱🏿 | breast_feeding_dark
+👩‍🍼 | woman_feeding_baby
+👩🏻‍🍼 | woman_feeding_baby_light
+👩🏼‍🍼 | woman_feeding_baby_medium_light
+👩🏽‍🍼 | woman_feeding_baby_medium
+👩🏾‍🍼 | woman_feeding_baby_medium_dark
+👩🏿‍🍼 | woman_feeding_baby_dark
+👨‍🍼 | man_feeding_baby
+👨🏻‍🍼 | man_feeding_baby_light
+👨🏼‍🍼 | man_feeding_baby_medium_light
+👨🏽‍🍼 | man_feeding_baby_medium
+👨🏾‍🍼 | man_feeding_baby_medium_dark
+👨🏿‍🍼 | man_feeding_baby_dark
+🧑‍🍼 | person_feeding_baby
+🧑🏻‍🍼 | person_feeding_baby_light
+🧑🏼‍🍼 | person_feeding_baby_medium_light
+🧑🏽‍🍼 | person_feeding_baby_medium
+🧑🏾‍🍼 | person_feeding_baby_medium_dark
+🧑🏿‍🍼 | person_feeding_baby_dark
+👼 | baby_angel, angel
+👼🏻 | baby_angel_light
+👼🏼 | baby_angel_medium_light
+👼🏽 | baby_angel_medium
+👼🏾 | baby_angel_medium_dark
+👼🏿 | baby_angel_dark
+🎅 | santa_claus, santa
+🎅🏻 | santa_claus_light
+🎅🏼 | santa_claus_medium_light
+🎅🏽 | santa_claus_medium
+🎅🏾 | santa_claus_medium_dark
+🎅🏿 | santa_claus_dark
+🤶 | mrs_claus
+🤶🏻 | mrs_claus_light
+🤶🏼 | mrs_claus_medium_light
+🤶🏽 | mrs_claus_medium
+🤶🏾 | mrs_claus_medium_dark
+🤶🏿 | mrs_claus_dark
+🧑‍🎄 | mx_claus
+🧑🏻‍🎄 | mx_claus_light
+🧑🏼‍🎄 | mx_claus_medium_light
+🧑🏽‍🎄 | mx_claus_medium
+🧑🏾‍🎄 | mx_claus_medium_dark
+🧑🏿‍🎄 | mx_claus_dark
+🦸 | superhero
+🦸🏻 | superhero_light
+🦸🏼 | superhero_medium_light
+🦸🏽 | superhero_medium
+🦸🏾 | superhero_medium_dark
+🦸🏿 | superhero_dark
+🦸‍♂️ | man_superhero, superhero_man
+🦸🏻‍♂️ | man_superhero_light
+🦸🏼‍♂️ | man_superhero_medium_light
+🦸🏽‍♂️ | man_superhero_medium
+🦸🏾‍♂️ | man_superhero_medium_dark
+🦸🏿‍♂️ | man_superhero_dark
+🦸‍♀️ | woman_superhero, superhero_woman
+🦸🏻‍♀️ | woman_superhero_light
+🦸🏼‍♀️ | woman_superhero_medium_light
+🦸🏽‍♀️ | woman_superhero_medium
+🦸🏾‍♀️ | woman_superhero_medium_dark
+🦸🏿‍♀️ | woman_superhero_dark
+🦹 | supervillain
+🦹🏻 | supervillain_light
+🦹🏼 | supervillain_medium_light
+🦹🏽 | supervillain_medium
+🦹🏾 | supervillain_medium_dark
+🦹🏿 | supervillain_dark
+🦹‍♂️ | man_supervillain, supervillain_man
+🦹🏻‍♂️ | man_supervillain_light
+🦹🏼‍♂️ | man_supervillain_medium_light
+🦹🏽‍♂️ | man_supervillain_medium
+🦹🏾‍♂️ | man_supervillain_medium_dark
+🦹🏿‍♂️ | man_supervillain_dark
+🦹‍♀️ | woman_supervillain, supervillain_woman
+🦹🏻‍♀️ | woman_supervillain_light
+🦹🏼‍♀️ | woman_supervillain_medium_light
+🦹🏽‍♀️ | woman_supervillain_medium
+🦹🏾‍♀️ | woman_supervillain_medium_dark
+🦹🏿‍♀️ | woman_supervillain_dark
+🧙 | mage
+🧙🏻 | mage_light
+🧙🏼 | mage_medium_light
+🧙🏽 | mage_medium
+🧙🏾 | mage_medium_dark
+🧙🏿 | mage_dark
+🧙‍♂️ | man_mage, mage_man
+🧙🏻‍♂️ | man_mage_light
+🧙🏼‍♂️ | man_mage_medium_light
+🧙🏽‍♂️ | man_mage_medium
+🧙🏾‍♂️ | man_mage_medium_dark
+🧙🏿‍♂️ | man_mage_dark
+🧙‍♀️ | woman_mage, mage_woman
+🧙🏻‍♀️ | woman_mage_light
+🧙🏼‍♀️ | woman_mage_medium_light
+🧙🏽‍♀️ | woman_mage_medium
+🧙🏾‍♀️ | woman_mage_medium_dark
+🧙🏿‍♀️ | woman_mage_dark
+🧚 | fairy
+🧚🏻 | fairy_light
+🧚🏼 | fairy_medium_light
+🧚🏽 | fairy_medium
+🧚🏾 | fairy_medium_dark
+🧚🏿 | fairy_dark
+🧚‍♂️ | man_fairy, fairy_man
+🧚🏻‍♂️ | man_fairy_light
+🧚🏼‍♂️ | man_fairy_medium_light
+🧚🏽‍♂️ | man_fairy_medium
+🧚🏾‍♂️ | man_fairy_medium_dark
+🧚🏿‍♂️ | man_fairy_dark
+🧚‍♀️ | woman_fairy, fairy_woman
+🧚🏻‍♀️ | woman_fairy_light
+🧚🏼‍♀️ | woman_fairy_medium_light
+🧚🏽‍♀️ | woman_fairy_medium
+🧚🏾‍♀️ | woman_fairy_medium_dark
+🧚🏿‍♀️ | woman_fairy_dark
+🧛 | vampire
+🧛🏻 | vampire_light
+🧛🏼 | vampire_medium_light
+🧛🏽 | vampire_medium
+🧛🏾 | vampire_medium_dark
+🧛🏿 | vampire_dark
+🧛‍♂️ | man_vampire, vampire_man
+🧛🏻‍♂️ | man_vampire_light
+🧛🏼‍♂️ | man_vampire_medium_light
+🧛🏽‍♂️ | man_vampire_medium
+🧛🏾‍♂️ | man_vampire_medium_dark
+🧛🏿‍♂️ | man_vampire_dark
+🧛‍♀️ | woman_vampire, vampire_woman
+🧛🏻‍♀️ | woman_vampire_light
+🧛🏼‍♀️ | woman_vampire_medium_light
+🧛🏽‍♀️ | woman_vampire_medium
+🧛🏾‍♀️ | woman_vampire_medium_dark
+🧛🏿‍♀️ | woman_vampire_dark
+🧜 | merperson
+🧜🏻 | merperson_light
+🧜🏼 | merperson_medium_light
+🧜🏽 | merperson_medium
+🧜🏾 | merperson_medium_dark
+🧜🏿 | merperson_dark
+🧜‍♂️ | merman
+🧜🏻‍♂️ | merman_light
+🧜🏼‍♂️ | merman_medium_light
+🧜🏽‍♂️ | merman_medium
+🧜🏾‍♂️ | merman_medium_dark
+🧜🏿‍♂️ | merman_dark
+🧜‍♀️ | mermaid
+🧜🏻‍♀️ | mermaid_light
+🧜🏼‍♀️ | mermaid_medium_light
+🧜🏽‍♀️ | mermaid_medium
+🧜🏾‍♀️ | mermaid_medium_dark
+🧜🏿‍♀️ | mermaid_dark
+🧝 | elf
+🧝🏻 | elf_light
+🧝🏼 | elf_medium_light
+🧝🏽 | elf_medium
+🧝🏾 | elf_medium_dark
+🧝🏿 | elf_dark
+🧝‍♂️ | man_elf, elf_man
+🧝🏻‍♂️ | man_elf_light
+🧝🏼‍♂️ | man_elf_medium_light
+🧝🏽‍♂️ | man_elf_medium
+🧝🏾‍♂️ | man_elf_medium_dark
+🧝🏿‍♂️ | man_elf_dark
+🧝‍♀️ | woman_elf, elf_woman
+🧝🏻‍♀️ | woman_elf_light
+🧝🏼‍♀️ | woman_elf_medium_light
+🧝🏽‍♀️ | woman_elf_medium
+🧝🏾‍♀️ | woman_elf_medium_dark
+🧝🏿‍♀️ | woman_elf_dark
+🧞 | genie
+🧞‍♂️ | man_genie, genie_man
+🧞‍♀️ | woman_genie, genie_woman
+🧟 | zombie
+🧟‍♂️ | man_zombie, zombie_man
+🧟‍♀️ | woman_zombie, zombie_woman
+🧌 | troll
+💆 | person_getting_massage, massage
+💆🏻 | person_getting_massage_light
+💆🏼 | person_getting_massage_medium_light
+💆🏽 | person_getting_massage_medium
+💆🏾 | person_getting_massage_medium_dark
+💆🏿 | person_getting_massage_dark
+💆‍♂️ | man_getting_massage, massage_man
+💆🏻‍♂️ | man_getting_massage_light
+💆🏼‍♂️ | man_getting_massage_medium_light
+💆🏽‍♂️ | man_getting_massage_medium
+💆🏾‍♂️ | man_getting_massage_medium_dark
+💆🏿‍♂️ | man_getting_massage_dark
+💆‍♀️ | woman_getting_massage, massage_woman
+💆🏻‍♀️ | woman_getting_massage_light
+💆🏼‍♀️ | woman_getting_massage_medium_light
+💆🏽‍♀️ | woman_getting_massage_medium
+💆🏾‍♀️ | woman_getting_massage_medium_dark
+💆🏿‍♀️ | woman_getting_massage_dark
+💇 | person_getting_haircut, haircut
+💇🏻 | person_getting_haircut_light
+💇🏼 | person_getting_haircut_medium_light
+💇🏽 | person_getting_haircut_medium
+💇🏾 | person_getting_haircut_medium_dark
+💇🏿 | person_getting_haircut_dark
+💇‍♂️ | man_getting_haircut, haircut_man
+💇🏻‍♂️ | man_getting_haircut_light
+💇🏼‍♂️ | man_getting_haircut_medium_light
+💇🏽‍♂️ | man_getting_haircut_medium
+💇🏾‍♂️ | man_getting_haircut_medium_dark
+💇🏿‍♂️ | man_getting_haircut_dark
+💇‍♀️ | woman_getting_haircut, haircut_woman
+💇🏻‍♀️ | woman_getting_haircut_light
+💇🏼‍♀️ | woman_getting_haircut_medium_light
+💇🏽‍♀️ | woman_getting_haircut_medium
+💇🏾‍♀️ | woman_getting_haircut_medium_dark
+💇🏿‍♀️ | woman_getting_haircut_dark
+🚶 | person_walking, walking
+🚶🏻 | person_walking_light
+🚶🏼 | person_walking_medium_light
+🚶🏽 | person_walking_medium
+🚶🏾 | person_walking_medium_dark
+🚶🏿 | person_walking_dark
+🚶‍♂️ | man_walking, walking_man
+🚶🏻‍♂️ | man_walking_light
+🚶🏼‍♂️ | man_walking_medium_light
+🚶🏽‍♂️ | man_walking_medium
+🚶🏾‍♂️ | man_walking_medium_dark
+🚶🏿‍♂️ | man_walking_dark
+🚶‍♀️ | woman_walking, walking_woman
+🚶🏻‍♀️ | woman_walking_light
+🚶🏼‍♀️ | woman_walking_medium_light
+🚶🏽‍♀️ | woman_walking_medium
+🚶🏾‍♀️ | woman_walking_medium_dark
+🚶🏿‍♀️ | woman_walking_dark
+🚶‍➡️ | person_walking_facing_right
+🚶🏻‍➡️ | person_walking_facing_right_light
+🚶🏼‍➡️ | person_walking_facing_right_medium_light
+🚶🏽‍➡️ | person_walking_facing_right_medium
+🚶🏾‍➡️ | person_walking_facing_right_medium_dark
+🚶🏿‍➡️ | person_walking_facing_right_dark
+🚶‍♀️‍➡️ | woman_walking_facing_right
+🚶🏻‍♀️‍➡️ | woman_walking_facing_right_light
+🚶🏼‍♀️‍➡️ | woman_walking_facing_right_medium_light
+🚶🏽‍♀️‍➡️ | woman_walking_facing_right_medium
+🚶🏾‍♀️‍➡️ | woman_walking_facing_right_medium_dark
+🚶🏿‍♀️‍➡️ | woman_walking_facing_right_dark
+🚶‍♂️‍➡️ | man_walking_facing_right
+🚶🏻‍♂️‍➡️ | man_walking_facing_right_light
+🚶🏼‍♂️‍➡️ | man_walking_facing_right_medium_light
+🚶🏽‍♂️‍➡️ | man_walking_facing_right_medium
+🚶🏾‍♂️‍➡️ | man_walking_facing_right_medium_dark
+🚶🏿‍♂️‍➡️ | man_walking_facing_right_dark
+🧍 | person_standing, standing_person
+🧍🏻 | person_standing_light
+🧍🏼 | person_standing_medium_light
+🧍🏽 | person_standing_medium
+🧍🏾 | person_standing_medium_dark
+🧍🏿 | person_standing_dark
+🧍‍♂️ | man_standing, standing_man
+🧍🏻‍♂️ | man_standing_light
+🧍🏼‍♂️ | man_standing_medium_light
+🧍🏽‍♂️ | man_standing_medium
+🧍🏾‍♂️ | man_standing_medium_dark
+🧍🏿‍♂️ | man_standing_dark
+🧍‍♀️ | woman_standing, standing_woman
+🧍🏻‍♀️ | woman_standing_light
+🧍🏼‍♀️ | woman_standing_medium_light
+🧍🏽‍♀️ | woman_standing_medium
+🧍🏾‍♀️ | woman_standing_medium_dark
+🧍🏿‍♀️ | woman_standing_dark
+🧎 | person_kneeling, kneeling_person
+🧎🏻 | person_kneeling_light
+🧎🏼 | person_kneeling_medium_light
+🧎🏽 | person_kneeling_medium
+🧎🏾 | person_kneeling_medium_dark
+🧎🏿 | person_kneeling_dark
+🧎‍♂️ | man_kneeling, kneeling_man
+🧎🏻‍♂️ | man_kneeling_light
+🧎🏼‍♂️ | man_kneeling_medium_light
+🧎🏽‍♂️ | man_kneeling_medium
+🧎🏾‍♂️ | man_kneeling_medium_dark
+🧎🏿‍♂️ | man_kneeling_dark
+🧎‍♀️ | woman_kneeling, kneeling_woman
+🧎🏻‍♀️ | woman_kneeling_light
+🧎🏼‍♀️ | woman_kneeling_medium_light
+🧎🏽‍♀️ | woman_kneeling_medium
+🧎🏾‍♀️ | woman_kneeling_medium_dark
+🧎🏿‍♀️ | woman_kneeling_dark
+🧎‍➡️ | person_kneeling_facing_right
+🧎🏻‍➡️ | person_kneeling_facing_right_light
+🧎🏼‍➡️ | person_kneeling_facing_right_medium_light
+🧎🏽‍➡️ | person_kneeling_facing_right_medium
+🧎🏾‍➡️ | person_kneeling_facing_right_medium_dark
+🧎🏿‍➡️ | person_kneeling_facing_right_dark
+🧎‍♀️‍➡️ | woman_kneeling_facing_right
+🧎🏻‍♀️‍➡️ | woman_kneeling_facing_right_light
+🧎🏼‍♀️‍➡️ | woman_kneeling_facing_right_medium_light
+🧎🏽‍♀️‍➡️ | woman_kneeling_facing_right_medium
+🧎🏾‍♀️‍➡️ | woman_kneeling_facing_right_medium_dark
+🧎🏿‍♀️‍➡️ | woman_kneeling_facing_right_dark
+🧎‍♂️‍➡️ | man_kneeling_facing_right
+🧎🏻‍♂️‍➡️ | man_kneeling_facing_right_light
+🧎🏼‍♂️‍➡️ | man_kneeling_facing_right_medium_light
+🧎🏽‍♂️‍➡️ | man_kneeling_facing_right_medium
+🧎🏾‍♂️‍➡️ | man_kneeling_facing_right_medium_dark
+🧎🏿‍♂️‍➡️ | man_kneeling_facing_right_dark
+🧑‍🦯 | person_with_white_cane, person_with_probing_cane
+🧑🏻‍🦯 | person_with_white_cane_light
+🧑🏼‍🦯 | person_with_white_cane_medium_light
+🧑🏽‍🦯 | person_with_white_cane_medium
+🧑🏾‍🦯 | person_with_white_cane_medium_dark
+🧑🏿‍🦯 | person_with_white_cane_dark
+🧑‍🦯‍➡️ | person_with_white_cane_facing_right
+🧑🏻‍🦯‍➡️ | person_with_white_cane_facing_right_light
+🧑🏼‍🦯‍➡️ | person_with_white_cane_facing_right_medium_light
+🧑🏽‍🦯‍➡️ | person_with_white_cane_facing_right_medium
+🧑🏾‍🦯‍➡️ | person_with_white_cane_facing_right_medium_dark
+🧑🏿‍🦯‍➡️ | person_with_white_cane_facing_right_dark
+👨‍🦯 | man_with_white_cane, man_with_probing_cane
+👨🏻‍🦯 | man_with_white_cane_light
+👨🏼‍🦯 | man_with_white_cane_medium_light
+👨🏽‍🦯 | man_with_white_cane_medium
+👨🏾‍🦯 | man_with_white_cane_medium_dark
+👨🏿‍🦯 | man_with_white_cane_dark
+👨‍🦯‍➡️ | man_with_white_cane_facing_right
+👨🏻‍🦯‍➡️ | man_with_white_cane_facing_right_light
+👨🏼‍🦯‍➡️ | man_with_white_cane_facing_right_medium_light
+👨🏽‍🦯‍➡️ | man_with_white_cane_facing_right_medium
+👨🏾‍🦯‍➡️ | man_with_white_cane_facing_right_medium_dark
+👨🏿‍🦯‍➡️ | man_with_white_cane_facing_right_dark
+👩‍🦯 | woman_with_white_cane, woman_with_probing_cane
+👩🏻‍🦯 | woman_with_white_cane_light
+👩🏼‍🦯 | woman_with_white_cane_medium_light
+👩🏽‍🦯 | woman_with_white_cane_medium
+👩🏾‍🦯 | woman_with_white_cane_medium_dark
+👩🏿‍🦯 | woman_with_white_cane_dark
+👩‍🦯‍➡️ | woman_with_white_cane_facing_right
+👩🏻‍🦯‍➡️ | woman_with_white_cane_facing_right_light
+👩🏼‍🦯‍➡️ | woman_with_white_cane_facing_right_medium_light
+👩🏽‍🦯‍➡️ | woman_with_white_cane_facing_right_medium
+👩🏾‍🦯‍➡️ | woman_with_white_cane_facing_right_medium_dark
+👩🏿‍🦯‍➡️ | woman_with_white_cane_facing_right_dark
+🧑‍🦼 | person_in_motorized_wheelchair
+🧑🏻‍🦼 | person_in_motorized_wheelchair_light
+🧑🏼‍🦼 | person_in_motorized_wheelchair_medium_light
+🧑🏽‍🦼 | person_in_motorized_wheelchair_medium
+🧑🏾‍🦼 | person_in_motorized_wheelchair_medium_dark
+🧑🏿‍🦼 | person_in_motorized_wheelchair_dark
+🧑‍🦼‍➡️ | person_in_motorized_wheelchair_facing_right
+🧑🏻‍🦼‍➡️ | person_in_motorized_wheelchair_facing_right_light
+🧑🏼‍🦼‍➡️ | person_in_motorized_wheelchair_facing_right_medium_light
+🧑🏽‍🦼‍➡️ | person_in_motorized_wheelchair_facing_right_medium
+🧑🏾‍🦼‍➡️ | person_in_motorized_wheelchair_facing_right_medium_dark
+🧑🏿‍🦼‍➡️ | person_in_motorized_wheelchair_facing_right_dark
+👨‍🦼 | man_in_motorized_wheelchair
+👨🏻‍🦼 | man_in_motorized_wheelchair_light
+👨🏼‍🦼 | man_in_motorized_wheelchair_medium_light
+👨🏽‍🦼 | man_in_motorized_wheelchair_medium
+👨🏾‍🦼 | man_in_motorized_wheelchair_medium_dark
+👨🏿‍🦼 | man_in_motorized_wheelchair_dark
+👨‍🦼‍➡️ | man_in_motorized_wheelchair_facing_right
+👨🏻‍🦼‍➡️ | man_in_motorized_wheelchair_facing_right_light
+👨🏼‍🦼‍➡️ | man_in_motorized_wheelchair_facing_right_medium_light
+👨🏽‍🦼‍➡️ | man_in_motorized_wheelchair_facing_right_medium
+👨🏾‍🦼‍➡️ | man_in_motorized_wheelchair_facing_right_medium_dark
+👨🏿‍🦼‍➡️ | man_in_motorized_wheelchair_facing_right_dark
+👩‍🦼 | woman_in_motorized_wheelchair
+👩🏻‍🦼 | woman_in_motorized_wheelchair_light
+👩🏼‍🦼 | woman_in_motorized_wheelchair_medium_light
+👩🏽‍🦼 | woman_in_motorized_wheelchair_medium
+👩🏾‍🦼 | woman_in_motorized_wheelchair_medium_dark
+👩🏿‍🦼 | woman_in_motorized_wheelchair_dark
+👩‍🦼‍➡️ | woman_in_motorized_wheelchair_facing_right
+👩🏻‍🦼‍➡️ | woman_in_motorized_wheelchair_facing_right_light
+👩🏼‍🦼‍➡️ | woman_in_motorized_wheelchair_facing_right_medium_light
+👩🏽‍🦼‍➡️ | woman_in_motorized_wheelchair_facing_right_medium
+👩🏾‍🦼‍➡️ | woman_in_motorized_wheelchair_facing_right_medium_dark
+👩🏿‍🦼‍➡️ | woman_in_motorized_wheelchair_facing_right_dark
+🧑‍🦽 | person_in_manual_wheelchair
+🧑🏻‍🦽 | person_in_manual_wheelchair_light
+🧑🏼‍🦽 | person_in_manual_wheelchair_medium_light
+🧑🏽‍🦽 | person_in_manual_wheelchair_medium
+🧑🏾‍🦽 | person_in_manual_wheelchair_medium_dark
+🧑🏿‍🦽 | person_in_manual_wheelchair_dark
+🧑‍🦽‍➡️ | person_in_manual_wheelchair_facing_right
+🧑🏻‍🦽‍➡️ | person_in_manual_wheelchair_facing_right_light
+🧑🏼‍🦽‍➡️ | person_in_manual_wheelchair_facing_right_medium_light
+🧑🏽‍🦽‍➡️ | person_in_manual_wheelchair_facing_right_medium
+🧑🏾‍🦽‍➡️ | person_in_manual_wheelchair_facing_right_medium_dark
+🧑🏿‍🦽‍➡️ | person_in_manual_wheelchair_facing_right_dark
+👨‍🦽 | man_in_manual_wheelchair
+👨🏻‍🦽 | man_in_manual_wheelchair_light
+👨🏼‍🦽 | man_in_manual_wheelchair_medium_light
+👨🏽‍🦽 | man_in_manual_wheelchair_medium
+👨🏾‍🦽 | man_in_manual_wheelchair_medium_dark
+👨🏿‍🦽 | man_in_manual_wheelchair_dark
+👨‍🦽‍➡️ | man_in_manual_wheelchair_facing_right
+👨🏻‍🦽‍➡️ | man_in_manual_wheelchair_facing_right_light
+👨🏼‍🦽‍➡️ | man_in_manual_wheelchair_facing_right_medium_light
+👨🏽‍🦽‍➡️ | man_in_manual_wheelchair_facing_right_medium
+👨🏾‍🦽‍➡️ | man_in_manual_wheelchair_facing_right_medium_dark
+👨🏿‍🦽‍➡️ | man_in_manual_wheelchair_facing_right_dark
+👩‍🦽 | woman_in_manual_wheelchair
+👩🏻‍🦽 | woman_in_manual_wheelchair_light
+👩🏼‍🦽 | woman_in_manual_wheelchair_medium_light
+👩🏽‍🦽 | woman_in_manual_wheelchair_medium
+👩🏾‍🦽 | woman_in_manual_wheelchair_medium_dark
+👩🏿‍🦽 | woman_in_manual_wheelchair_dark
+👩‍🦽‍➡️ | woman_in_manual_wheelchair_facing_right
+👩🏻‍🦽‍➡️ | woman_in_manual_wheelchair_facing_right_light
+👩🏼‍🦽‍➡️ | woman_in_manual_wheelchair_facing_right_medium_light
+👩🏽‍🦽‍➡️ | woman_in_manual_wheelchair_facing_right_medium
+👩🏾‍🦽‍➡️ | woman_in_manual_wheelchair_facing_right_medium_dark
+👩🏿‍🦽‍➡️ | woman_in_manual_wheelchair_facing_right_dark
+🏃 | person_running, running, runner
+🏃🏻 | person_running_light
+🏃🏼 | person_running_medium_light
+🏃🏽 | person_running_medium
+🏃🏾 | person_running_medium_dark
+🏃🏿 | person_running_dark
+🏃‍♂️ | man_running, running_man
+🏃🏻‍♂️ | man_running_light
+🏃🏼‍♂️ | man_running_medium_light
+🏃🏽‍♂️ | man_running_medium
+🏃🏾‍♂️ | man_running_medium_dark
+🏃🏿‍♂️ | man_running_dark
+🏃‍♀️ | woman_running, running_woman
+🏃🏻‍♀️ | woman_running_light
+🏃🏼‍♀️ | woman_running_medium_light
+🏃🏽‍♀️ | woman_running_medium
+🏃🏾‍♀️ | woman_running_medium_dark
+🏃🏿‍♀️ | woman_running_dark
+🏃‍➡️ | person_running_facing_right
+🏃🏻‍➡️ | person_running_facing_right_light
+🏃🏼‍➡️ | person_running_facing_right_medium_light
+🏃🏽‍➡️ | person_running_facing_right_medium
+🏃🏾‍➡️ | person_running_facing_right_medium_dark
+🏃🏿‍➡️ | person_running_facing_right_dark
+🏃‍♀️‍➡️ | woman_running_facing_right
+🏃🏻‍♀️‍➡️ | woman_running_facing_right_light
+🏃🏼‍♀️‍➡️ | woman_running_facing_right_medium_light
+🏃🏽‍♀️‍➡️ | woman_running_facing_right_medium
+🏃🏾‍♀️‍➡️ | woman_running_facing_right_medium_dark
+🏃🏿‍♀️‍➡️ | woman_running_facing_right_dark
+🏃‍♂️‍➡️ | man_running_facing_right
+🏃🏻‍♂️‍➡️ | man_running_facing_right_light
+🏃🏼‍♂️‍➡️ | man_running_facing_right_medium_light
+🏃🏽‍♂️‍➡️ | man_running_facing_right_medium
+🏃🏾‍♂️‍➡️ | man_running_facing_right_medium_dark
+🏃🏿‍♂️‍➡️ | man_running_facing_right_dark
+💃 | woman_dancing, dancer
+💃🏻 | woman_dancing_light
+💃🏼 | woman_dancing_medium_light
+💃🏽 | woman_dancing_medium
+💃🏾 | woman_dancing_medium_dark
+💃🏿 | woman_dancing_dark
+🕺 | man_dancing
+🕺🏻 | man_dancing_light
+🕺🏼 | man_dancing_medium_light
+🕺🏽 | man_dancing_medium
+🕺🏾 | man_dancing_medium_dark
+🕺🏿 | man_dancing_dark
+🕴️ | person_in_suit_levitating, business_suit_levitating
+🕴🏻 | person_in_suit_levitating_light
+🕴🏼 | person_in_suit_levitating_medium_light
+🕴🏽 | person_in_suit_levitating_medium
+🕴🏾 | person_in_suit_levitating_medium_dark
+🕴🏿 | person_in_suit_levitating_dark
+👯 | people_with_bunny_ears, dancers
+👯‍♂️ | men_with_bunny_ears, dancing_men
+👯‍♀️ | women_with_bunny_ears, dancing_women
+🧖 | person_in_steamy_room, sauna_person
+🧖🏻 | person_in_steamy_room_light
+🧖🏼 | person_in_steamy_room_medium_light
+🧖🏽 | person_in_steamy_room_medium
+🧖🏾 | person_in_steamy_room_medium_dark
+🧖🏿 | person_in_steamy_room_dark
+🧖‍♂️ | man_in_steamy_room, sauna_man
+🧖🏻‍♂️ | man_in_steamy_room_light
+🧖🏼‍♂️ | man_in_steamy_room_medium_light
+🧖🏽‍♂️ | man_in_steamy_room_medium
+🧖🏾‍♂️ | man_in_steamy_room_medium_dark
+🧖🏿‍♂️ | man_in_steamy_room_dark
+🧖‍♀️ | woman_in_steamy_room, sauna_woman
+🧖🏻‍♀️ | woman_in_steamy_room_light
+🧖🏼‍♀️ | woman_in_steamy_room_medium_light
+🧖🏽‍♀️ | woman_in_steamy_room_medium
+🧖🏾‍♀️ | woman_in_steamy_room_medium_dark
+🧖🏿‍♀️ | woman_in_steamy_room_dark
+🧗 | person_climbing, climbing
+🧗🏻 | person_climbing_light
+🧗🏼 | person_climbing_medium_light
+🧗🏽 | person_climbing_medium
+🧗🏾 | person_climbing_medium_dark
+🧗🏿 | person_climbing_dark
+🧗‍♂️ | man_climbing, climbing_man
+🧗🏻‍♂️ | man_climbing_light
+🧗🏼‍♂️ | man_climbing_medium_light
+🧗🏽‍♂️ | man_climbing_medium
+🧗🏾‍♂️ | man_climbing_medium_dark
+🧗🏿‍♂️ | man_climbing_dark
+🧗‍♀️ | woman_climbing, climbing_woman
+🧗🏻‍♀️ | woman_climbing_light
+🧗🏼‍♀️ | woman_climbing_medium_light
+🧗🏽‍♀️ | woman_climbing_medium
+🧗🏾‍♀️ | woman_climbing_medium_dark
+🧗🏿‍♀️ | woman_climbing_dark
+🤺 | person_fencing
+🏇 | horse_racing
+🏇🏻 | horse_racing_light
+🏇🏼 | horse_racing_medium_light
+🏇🏽 | horse_racing_medium
+🏇🏾 | horse_racing_medium_dark
+🏇🏿 | horse_racing_dark
+⛷️ | skier
+🏂 | snowboarder
+🏂🏻 | snowboarder_light
+🏂🏼 | snowboarder_medium_light
+🏂🏽 | snowboarder_medium
+🏂🏾 | snowboarder_medium_dark
+🏂🏿 | snowboarder_dark
+🏌️ | person_golfing, golfing
+🏌🏻 | person_golfing_light
+🏌🏼 | person_golfing_medium_light
+🏌🏽 | person_golfing_medium
+🏌🏾 | person_golfing_medium_dark
+🏌🏿 | person_golfing_dark
+🏌️‍♂️ | man_golfing, golfing_man
+🏌🏻‍♂️ | man_golfing_light
+🏌🏼‍♂️ | man_golfing_medium_light
+🏌🏽‍♂️ | man_golfing_medium
+🏌🏾‍♂️ | man_golfing_medium_dark
+🏌🏿‍♂️ | man_golfing_dark
+🏌️‍♀️ | woman_golfing, golfing_woman
+🏌🏻‍♀️ | woman_golfing_light
+🏌🏼‍♀️ | woman_golfing_medium_light
+🏌🏽‍♀️ | woman_golfing_medium
+🏌🏾‍♀️ | woman_golfing_medium_dark
+🏌🏿‍♀️ | woman_golfing_dark
+🏄 | person_surfing, surfer
+🏄🏻 | person_surfing_light
+🏄🏼 | person_surfing_medium_light
+🏄🏽 | person_surfing_medium
+🏄🏾 | person_surfing_medium_dark
+🏄🏿 | person_surfing_dark
+🏄‍♂️ | man_surfing, surfing_man
+🏄🏻‍♂️ | man_surfing_light
+🏄🏼‍♂️ | man_surfing_medium_light
+🏄🏽‍♂️ | man_surfing_medium
+🏄🏾‍♂️ | man_surfing_medium_dark
+🏄🏿‍♂️ | man_surfing_dark
+🏄‍♀️ | woman_surfing, surfing_woman
+🏄🏻‍♀️ | woman_surfing_light
+🏄🏼‍♀️ | woman_surfing_medium_light
+🏄🏽‍♀️ | woman_surfing_medium
+🏄🏾‍♀️ | woman_surfing_medium_dark
+🏄🏿‍♀️ | woman_surfing_dark
+🚣 | person_rowing_boat, rowboat
+🚣🏻 | person_rowing_boat_light
+🚣🏼 | person_rowing_boat_medium_light
+🚣🏽 | person_rowing_boat_medium
+🚣🏾 | person_rowing_boat_medium_dark
+🚣🏿 | person_rowing_boat_dark
+🚣‍♂️ | man_rowing_boat, rowing_man
+🚣🏻‍♂️ | man_rowing_boat_light
+🚣🏼‍♂️ | man_rowing_boat_medium_light
+🚣🏽‍♂️ | man_rowing_boat_medium
+🚣🏾‍♂️ | man_rowing_boat_medium_dark
+🚣🏿‍♂️ | man_rowing_boat_dark
+🚣‍♀️ | woman_rowing_boat, rowing_woman
+🚣🏻‍♀️ | woman_rowing_boat_light
+🚣🏼‍♀️ | woman_rowing_boat_medium_light
+🚣🏽‍♀️ | woman_rowing_boat_medium
+🚣🏾‍♀️ | woman_rowing_boat_medium_dark
+🚣🏿‍♀️ | woman_rowing_boat_dark
+🏊 | person_swimming, swimmer
+🏊🏻 | person_swimming_light
+🏊🏼 | person_swimming_medium_light
+🏊🏽 | person_swimming_medium
+🏊🏾 | person_swimming_medium_dark
+🏊🏿 | person_swimming_dark
+🏊‍♂️ | man_swimming, swimming_man
+🏊🏻‍♂️ | man_swimming_light
+🏊🏼‍♂️ | man_swimming_medium_light
+🏊🏽‍♂️ | man_swimming_medium
+🏊🏾‍♂️ | man_swimming_medium_dark
+🏊🏿‍♂️ | man_swimming_dark
+🏊‍♀️ | woman_swimming, swimming_woman
+🏊🏻‍♀️ | woman_swimming_light
+🏊🏼‍♀️ | woman_swimming_medium_light
+🏊🏽‍♀️ | woman_swimming_medium
+🏊🏾‍♀️ | woman_swimming_medium_dark
+🏊🏿‍♀️ | woman_swimming_dark
+⛹️ | person_bouncing_ball, bouncing_ball_person
+⛹🏻 | person_bouncing_ball_light
+⛹🏼 | person_bouncing_ball_medium_light
+⛹🏽 | person_bouncing_ball_medium
+⛹🏾 | person_bouncing_ball_medium_dark
+⛹🏿 | person_bouncing_ball_dark
+⛹️‍♂️ | man_bouncing_ball, basketball_man, bouncing_ball_man
+⛹🏻‍♂️ | man_bouncing_ball_light
+⛹🏼‍♂️ | man_bouncing_ball_medium_light
+⛹🏽‍♂️ | man_bouncing_ball_medium
+⛹🏾‍♂️ | man_bouncing_ball_medium_dark
+⛹🏿‍♂️ | man_bouncing_ball_dark
+⛹️‍♀️ | woman_bouncing_ball, basketball_woman, bouncing_ball_woman
+⛹🏻‍♀️ | woman_bouncing_ball_light
+⛹🏼‍♀️ | woman_bouncing_ball_medium_light
+⛹🏽‍♀️ | woman_bouncing_ball_medium
+⛹🏾‍♀️ | woman_bouncing_ball_medium_dark
+⛹🏿‍♀️ | woman_bouncing_ball_dark
+🏋️ | person_lifting_weights, weight_lifting
+🏋🏻 | person_lifting_weights_light
+🏋🏼 | person_lifting_weights_medium_light
+🏋🏽 | person_lifting_weights_medium
+🏋🏾 | person_lifting_weights_medium_dark
+🏋🏿 | person_lifting_weights_dark
+🏋️‍♂️ | man_lifting_weights, weight_lifting_man
+🏋🏻‍♂️ | man_lifting_weights_light
+🏋🏼‍♂️ | man_lifting_weights_medium_light
+🏋🏽‍♂️ | man_lifting_weights_medium
+🏋🏾‍♂️ | man_lifting_weights_medium_dark
+🏋🏿‍♂️ | man_lifting_weights_dark
+🏋️‍♀️ | woman_lifting_weights, weight_lifting_woman
+🏋🏻‍♀️ | woman_lifting_weights_light
+🏋🏼‍♀️ | woman_lifting_weights_medium_light
+🏋🏽‍♀️ | woman_lifting_weights_medium
+🏋🏾‍♀️ | woman_lifting_weights_medium_dark
+🏋🏿‍♀️ | woman_lifting_weights_dark
+🚴 | person_biking, bicyclist
+🚴🏻 | person_biking_light
+🚴🏼 | person_biking_medium_light
+🚴🏽 | person_biking_medium
+🚴🏾 | person_biking_medium_dark
+🚴🏿 | person_biking_dark
+🚴‍♂️ | man_biking, biking_man
+🚴🏻‍♂️ | man_biking_light
+🚴🏼‍♂️ | man_biking_medium_light
+🚴🏽‍♂️ | man_biking_medium
+🚴🏾‍♂️ | man_biking_medium_dark
+🚴🏿‍♂️ | man_biking_dark
+🚴‍♀️ | woman_biking, biking_woman
+🚴🏻‍♀️ | woman_biking_light
+🚴🏼‍♀️ | woman_biking_medium_light
+🚴🏽‍♀️ | woman_biking_medium
+🚴🏾‍♀️ | woman_biking_medium_dark
+🚴🏿‍♀️ | woman_biking_dark
+🚵 | person_mountain_biking, mountain_bicyclist
+🚵🏻 | person_mountain_biking_light
+🚵🏼 | person_mountain_biking_medium_light
+🚵🏽 | person_mountain_biking_medium
+🚵🏾 | person_mountain_biking_medium_dark
+🚵🏿 | person_mountain_biking_dark
+🚵‍♂️ | man_mountain_biking, mountain_biking_man
+🚵🏻‍♂️ | man_mountain_biking_light
+🚵🏼‍♂️ | man_mountain_biking_medium_light
+🚵🏽‍♂️ | man_mountain_biking_medium
+🚵🏾‍♂️ | man_mountain_biking_medium_dark
+🚵🏿‍♂️ | man_mountain_biking_dark
+🚵‍♀️ | woman_mountain_biking, mountain_biking_woman
+🚵🏻‍♀️ | woman_mountain_biking_light
+🚵🏼‍♀️ | woman_mountain_biking_medium_light
+🚵🏽‍♀️ | woman_mountain_biking_medium
+🚵🏾‍♀️ | woman_mountain_biking_medium_dark
+🚵🏿‍♀️ | woman_mountain_biking_dark
+🤸 | person_cartwheeling, cartwheeling
+🤸🏻 | person_cartwheeling_light
+🤸🏼 | person_cartwheeling_medium_light
+🤸🏽 | person_cartwheeling_medium
+🤸🏾 | person_cartwheeling_medium_dark
+🤸🏿 | person_cartwheeling_dark
+🤸‍♂️ | man_cartwheeling
+🤸🏻‍♂️ | man_cartwheeling_light
+🤸🏼‍♂️ | man_cartwheeling_medium_light
+🤸🏽‍♂️ | man_cartwheeling_medium
+🤸🏾‍♂️ | man_cartwheeling_medium_dark
+🤸🏿‍♂️ | man_cartwheeling_dark
+🤸‍♀️ | woman_cartwheeling
+🤸🏻‍♀️ | woman_cartwheeling_light
+🤸🏼‍♀️ | woman_cartwheeling_medium_light
+🤸🏽‍♀️ | woman_cartwheeling_medium
+🤸🏾‍♀️ | woman_cartwheeling_medium_dark
+🤸🏿‍♀️ | woman_cartwheeling_dark
+🤼 | people_wrestling, wrestling
+🤼‍♂️ | men_wrestling
+🤼‍♀️ | women_wrestling
+🤽 | person_playing_water_polo, water_polo
+🤽🏻 | person_playing_water_polo_light
+🤽🏼 | person_playing_water_polo_medium_light
+🤽🏽 | person_playing_water_polo_medium
+🤽🏾 | person_playing_water_polo_medium_dark
+🤽🏿 | person_playing_water_polo_dark
+🤽‍♂️ | man_playing_water_polo
+🤽🏻‍♂️ | man_playing_water_polo_light
+🤽🏼‍♂️ | man_playing_water_polo_medium_light
+🤽🏽‍♂️ | man_playing_water_polo_medium
+🤽🏾‍♂️ | man_playing_water_polo_medium_dark
+🤽🏿‍♂️ | man_playing_water_polo_dark
+🤽‍♀️ | woman_playing_water_polo
+🤽🏻‍♀️ | woman_playing_water_polo_light
+🤽🏼‍♀️ | woman_playing_water_polo_medium_light
+🤽🏽‍♀️ | woman_playing_water_polo_medium
+🤽🏾‍♀️ | woman_playing_water_polo_medium_dark
+🤽🏿‍♀️ | woman_playing_water_polo_dark
+🤾 | person_playing_handball, handball_person
+🤾🏻 | person_playing_handball_light
+🤾🏼 | person_playing_handball_medium_light
+🤾🏽 | person_playing_handball_medium
+🤾🏾 | person_playing_handball_medium_dark
+🤾🏿 | person_playing_handball_dark
+🤾‍♂️ | man_playing_handball
+🤾🏻‍♂️ | man_playing_handball_light
+🤾🏼‍♂️ | man_playing_handball_medium_light
+🤾🏽‍♂️ | man_playing_handball_medium
+🤾🏾‍♂️ | man_playing_handball_medium_dark
+🤾🏿‍♂️ | man_playing_handball_dark
+🤾‍♀️ | woman_playing_handball
+🤾🏻‍♀️ | woman_playing_handball_light
+🤾🏼‍♀️ | woman_playing_handball_medium_light
+🤾🏽‍♀️ | woman_playing_handball_medium
+🤾🏾‍♀️ | woman_playing_handball_medium_dark
+🤾🏿‍♀️ | woman_playing_handball_dark
+🤹 | person_juggling, juggling_person
+🤹🏻 | person_juggling_light
+🤹🏼 | person_juggling_medium_light
+🤹🏽 | person_juggling_medium
+🤹🏾 | person_juggling_medium_dark
+🤹🏿 | person_juggling_dark
+🤹‍♂️ | man_juggling
+🤹🏻‍♂️ | man_juggling_light
+🤹🏼‍♂️ | man_juggling_medium_light
+🤹🏽‍♂️ | man_juggling_medium
+🤹🏾‍♂️ | man_juggling_medium_dark
+🤹🏿‍♂️ | man_juggling_dark
+🤹‍♀️ | woman_juggling
+🤹🏻‍♀️ | woman_juggling_light
+🤹🏼‍♀️ | woman_juggling_medium_light
+🤹🏽‍♀️ | woman_juggling_medium
+🤹🏾‍♀️ | woman_juggling_medium_dark
+🤹🏿‍♀️ | woman_juggling_dark
+🧘 | person_in_lotus_position, lotus_position
+🧘🏻 | person_in_lotus_position_light
+🧘🏼 | person_in_lotus_position_medium_light
+🧘🏽 | person_in_lotus_position_medium
+🧘🏾 | person_in_lotus_position_medium_dark
+🧘🏿 | person_in_lotus_position_dark
+🧘‍♂️ | man_in_lotus_position, lotus_position_man
+🧘🏻‍♂️ | man_in_lotus_position_light
+🧘🏼‍♂️ | man_in_lotus_position_medium_light
+🧘🏽‍♂️ | man_in_lotus_position_medium
+🧘🏾‍♂️ | man_in_lotus_position_medium_dark
+🧘🏿‍♂️ | man_in_lotus_position_dark
+🧘‍♀️ | woman_in_lotus_position, lotus_position_woman
+🧘🏻‍♀️ | woman_in_lotus_position_light
+🧘🏼‍♀️ | woman_in_lotus_position_medium_light
+🧘🏽‍♀️ | woman_in_lotus_position_medium
+🧘🏾‍♀️ | woman_in_lotus_position_medium_dark
+🧘🏿‍♀️ | woman_in_lotus_position_dark
+🛀 | person_taking_bath, bath
+🛀🏻 | person_taking_bath_light
+🛀🏼 | person_taking_bath_medium_light
+🛀🏽 | person_taking_bath_medium
+🛀🏾 | person_taking_bath_medium_dark
+🛀🏿 | person_taking_bath_dark
+🛌 | person_in_bed, sleeping_bed
+🛌🏻 | person_in_bed_light
+🛌🏼 | person_in_bed_medium_light
+🛌🏽 | person_in_bed_medium
+🛌🏾 | person_in_bed_medium_dark
+🛌🏿 | person_in_bed_dark
+🧑‍🤝‍🧑 | people_holding_hands
+🧑🏻‍🤝‍🧑🏻 | people_holding_hands_light
+🧑🏻‍🤝‍🧑🏼 | people_holding_hands_light_medium_light
+🧑🏻‍🤝‍🧑🏽 | people_holding_hands_light_medium
+🧑🏻‍🤝‍🧑🏾 | people_holding_hands_light_medium_dark
+🧑🏻‍🤝‍🧑🏿 | people_holding_hands_light_dark
+🧑🏼‍🤝‍🧑🏻 | people_holding_hands_medium_light_light
+🧑🏼‍🤝‍🧑🏼 | people_holding_hands_medium_light
+🧑🏼‍🤝‍🧑🏽 | people_holding_hands_medium_light_medium
+🧑🏼‍🤝‍🧑🏾 | people_holding_hands_medium_light_medium_dark
+🧑🏼‍🤝‍🧑🏿 | people_holding_hands_medium_light_dark
+🧑🏽‍🤝‍🧑🏻 | people_holding_hands_medium_light
+🧑🏽‍🤝‍🧑🏼 | people_holding_hands_medium_medium_light
+🧑🏽‍🤝‍🧑🏽 | people_holding_hands_medium
+🧑🏽‍🤝‍🧑🏾 | people_holding_hands_medium_medium_dark
+🧑🏽‍🤝‍🧑🏿 | people_holding_hands_medium_dark
+🧑🏾‍🤝‍🧑🏻 | people_holding_hands_medium_dark_light
+🧑🏾‍🤝‍🧑🏼 | people_holding_hands_medium_dark_medium_light
+🧑🏾‍🤝‍🧑🏽 | people_holding_hands_medium_dark_medium
+🧑🏾‍🤝‍🧑🏾 | people_holding_hands_medium_dark
+🧑🏾‍🤝‍🧑🏿 | people_holding_hands_medium_dark_dark
+🧑🏿‍🤝‍🧑🏻 | people_holding_hands_dark_light
+🧑🏿‍🤝‍🧑🏼 | people_holding_hands_dark_medium_light
+🧑🏿‍🤝‍🧑🏽 | people_holding_hands_dark_medium
+🧑🏿‍🤝‍🧑🏾 | people_holding_hands_dark_medium_dark
+🧑🏿‍🤝‍🧑🏿 | people_holding_hands_dark
+👭 | women_holding_hands, two_women_holding_hands
+👭🏻 | women_holding_hands_light
+👩🏻‍🤝‍👩🏼 | women_holding_hands_light_medium_light
+👩🏻‍🤝‍👩🏽 | women_holding_hands_light_medium
+👩🏻‍🤝‍👩🏾 | women_holding_hands_light_medium_dark
+👩🏻‍🤝‍👩🏿 | women_holding_hands_light_dark
+👩🏼‍🤝‍👩🏻 | women_holding_hands_medium_light_light
+👭🏼 | women_holding_hands_medium_light
+👩🏼‍🤝‍👩🏽 | women_holding_hands_medium_light_medium
+👩🏼‍🤝‍👩🏾 | women_holding_hands_medium_light_medium_dark
+👩🏼‍🤝‍👩🏿 | women_holding_hands_medium_light_dark
+👩🏽‍🤝‍👩🏻 | women_holding_hands_medium_light
+👩🏽‍🤝‍👩🏼 | women_holding_hands_medium_medium_light
+👭🏽 | women_holding_hands_medium
+👩🏽‍🤝‍👩🏾 | women_holding_hands_medium_medium_dark
+👩🏽‍🤝‍👩🏿 | women_holding_hands_medium_dark
+👩🏾‍🤝‍👩🏻 | women_holding_hands_medium_dark_light
+👩🏾‍🤝‍👩🏼 | women_holding_hands_medium_dark_medium_light
+👩🏾‍🤝‍👩🏽 | women_holding_hands_medium_dark_medium
+👭🏾 | women_holding_hands_medium_dark
+👩🏾‍🤝‍👩🏿 | women_holding_hands_medium_dark_dark
+👩🏿‍🤝‍👩🏻 | women_holding_hands_dark_light
+👩🏿‍🤝‍👩🏼 | women_holding_hands_dark_medium_light
+👩🏿‍🤝‍👩🏽 | women_holding_hands_dark_medium
+👩🏿‍🤝‍👩🏾 | women_holding_hands_dark_medium_dark
+👭🏿 | women_holding_hands_dark
+👫 | woman_and_man_holding_hands, couple
+👫🏻 | woman_and_man_holding_hands_light
+👩🏻‍🤝‍👨🏼 | woman_and_man_holding_hands_light_medium_light
+👩🏻‍🤝‍👨🏽 | woman_and_man_holding_hands_light_medium
+👩🏻‍🤝‍👨🏾 | woman_and_man_holding_hands_light_medium_dark
+👩🏻‍🤝‍👨🏿 | woman_and_man_holding_hands_light_dark
+👩🏼‍🤝‍👨🏻 | woman_and_man_holding_hands_medium_light_light
+👫🏼 | woman_and_man_holding_hands_medium_light
+👩🏼‍🤝‍👨🏽 | woman_and_man_holding_hands_medium_light_medium
+👩🏼‍🤝‍👨🏾 | woman_and_man_holding_hands_medium_light_medium_dark
+👩🏼‍🤝‍👨🏿 | woman_and_man_holding_hands_medium_light_dark
+👩🏽‍🤝‍👨🏻 | woman_and_man_holding_hands_medium_light
+👩🏽‍🤝‍👨🏼 | woman_and_man_holding_hands_medium_medium_light
+👫🏽 | woman_and_man_holding_hands_medium
+👩🏽‍🤝‍👨🏾 | woman_and_man_holding_hands_medium_medium_dark
+👩🏽‍🤝‍👨🏿 | woman_and_man_holding_hands_medium_dark
+👩🏾‍🤝‍👨🏻 | woman_and_man_holding_hands_medium_dark_light
+👩🏾‍🤝‍👨🏼 | woman_and_man_holding_hands_medium_dark_medium_light
+👩🏾‍🤝‍👨🏽 | woman_and_man_holding_hands_medium_dark_medium
+👫🏾 | woman_and_man_holding_hands_medium_dark
+👩🏾‍🤝‍👨🏿 | woman_and_man_holding_hands_medium_dark_dark
+👩🏿‍🤝‍👨🏻 | woman_and_man_holding_hands_dark_light
+👩🏿‍🤝‍👨🏼 | woman_and_man_holding_hands_dark_medium_light
+👩🏿‍🤝‍👨🏽 | woman_and_man_holding_hands_dark_medium
+👩🏿‍🤝‍👨🏾 | woman_and_man_holding_hands_dark_medium_dark
+👫🏿 | woman_and_man_holding_hands_dark
+👬 | men_holding_hands, two_men_holding_hands
+👬🏻 | men_holding_hands_light
+👨🏻‍🤝‍👨🏼 | men_holding_hands_light_medium_light
+👨🏻‍🤝‍👨🏽 | men_holding_hands_light_medium
+👨🏻‍🤝‍👨🏾 | men_holding_hands_light_medium_dark
+👨🏻‍🤝‍👨🏿 | men_holding_hands_light_dark
+👨🏼‍🤝‍👨🏻 | men_holding_hands_medium_light_light
+👬🏼 | men_holding_hands_medium_light
+👨🏼‍🤝‍👨🏽 | men_holding_hands_medium_light_medium
+👨🏼‍🤝‍👨🏾 | men_holding_hands_medium_light_medium_dark
+👨🏼‍🤝‍👨🏿 | men_holding_hands_medium_light_dark
+👨🏽‍🤝‍👨🏻 | men_holding_hands_medium_light
+👨🏽‍🤝‍👨🏼 | men_holding_hands_medium_medium_light
+👬🏽 | men_holding_hands_medium
+👨🏽‍🤝‍👨🏾 | men_holding_hands_medium_medium_dark
+👨🏽‍🤝‍👨🏿 | men_holding_hands_medium_dark
+👨🏾‍🤝‍👨🏻 | men_holding_hands_medium_dark_light
+👨🏾‍🤝‍👨🏼 | men_holding_hands_medium_dark_medium_light
+👨🏾‍🤝‍👨🏽 | men_holding_hands_medium_dark_medium
+👬🏾 | men_holding_hands_medium_dark
+👨🏾‍🤝‍👨🏿 | men_holding_hands_medium_dark_dark
+👨🏿‍🤝‍👨🏻 | men_holding_hands_dark_light
+👨🏿‍🤝‍👨🏼 | men_holding_hands_dark_medium_light
+👨🏿‍🤝‍👨🏽 | men_holding_hands_dark_medium
+👨🏿‍🤝‍👨🏾 | men_holding_hands_dark_medium_dark
+👬🏿 | men_holding_hands_dark
+💏 | kiss, couplekiss
+💏🏻 | kiss_light
+💏🏼 | kiss_medium_light
+💏🏽 | kiss_medium
+💏🏾 | kiss_medium_dark
+💏🏿 | kiss_dark
+🧑🏻‍❤️‍💋‍🧑🏼 | kiss_person_person_light_medium_light
+🧑🏻‍❤️‍💋‍🧑🏽 | kiss_person_person_light_medium
+🧑🏻‍❤️‍💋‍🧑🏾 | kiss_person_person_light_medium_dark
+🧑🏻‍❤️‍💋‍🧑🏿 | kiss_person_person_light_dark
+🧑🏼‍❤️‍💋‍🧑🏻 | kiss_person_person_medium_light_light
+🧑🏼‍❤️‍💋‍🧑🏽 | kiss_person_person_medium_light_medium
+🧑🏼‍❤️‍💋‍🧑🏾 | kiss_person_person_medium_light_medium_dark
+🧑🏼‍❤️‍💋‍🧑🏿 | kiss_person_person_medium_light_dark
+🧑🏽‍❤️‍💋‍🧑🏻 | kiss_person_person_medium_light
+🧑🏽‍❤️‍💋‍🧑🏼 | kiss_person_person_medium_medium_light
+🧑🏽‍❤️‍💋‍🧑🏾 | kiss_person_person_medium_medium_dark
+🧑🏽‍❤️‍💋‍🧑🏿 | kiss_person_person_medium_dark
+🧑🏾‍❤️‍💋‍🧑🏻 | kiss_person_person_medium_dark_light
+🧑🏾‍❤️‍💋‍🧑🏼 | kiss_person_person_medium_dark_medium_light
+🧑🏾‍❤️‍💋‍🧑🏽 | kiss_person_person_medium_dark_medium
+🧑🏾‍❤️‍💋‍🧑🏿 | kiss_person_person_medium_dark_dark
+🧑🏿‍❤️‍💋‍🧑🏻 | kiss_person_person_dark_light
+🧑🏿‍❤️‍💋‍🧑🏼 | kiss_person_person_dark_medium_light
+🧑🏿‍❤️‍💋‍🧑🏽 | kiss_person_person_dark_medium
+🧑🏿‍❤️‍💋‍🧑🏾 | kiss_person_person_dark_medium_dark
+👩‍❤️‍💋‍👨 | kiss_woman_man, couplekiss_man_woman
+👩🏻‍❤️‍💋‍👨🏻 | kiss_woman_man_light
+👩🏻‍❤️‍💋‍👨🏼 | kiss_woman_man_light_medium_light
+👩🏻‍❤️‍💋‍👨🏽 | kiss_woman_man_light_medium
+👩🏻‍❤️‍💋‍👨🏾 | kiss_woman_man_light_medium_dark
+👩🏻‍❤️‍💋‍👨🏿 | kiss_woman_man_light_dark
+👩🏼‍❤️‍💋‍👨🏻 | kiss_woman_man_medium_light_light
+👩🏼‍❤️‍💋‍👨🏼 | kiss_woman_man_medium_light
+👩🏼‍❤️‍💋‍👨🏽 | kiss_woman_man_medium_light_medium
+👩🏼‍❤️‍💋‍👨🏾 | kiss_woman_man_medium_light_medium_dark
+👩🏼‍❤️‍💋‍👨🏿 | kiss_woman_man_medium_light_dark
+👩🏽‍❤️‍💋‍👨🏻 | kiss_woman_man_medium_light
+👩🏽‍❤️‍💋‍👨🏼 | kiss_woman_man_medium_medium_light
+👩🏽‍❤️‍💋‍👨🏽 | kiss_woman_man_medium
+👩🏽‍❤️‍💋‍👨🏾 | kiss_woman_man_medium_medium_dark
+👩🏽‍❤️‍💋‍👨🏿 | kiss_woman_man_medium_dark
+👩🏾‍❤️‍💋‍👨🏻 | kiss_woman_man_medium_dark_light
+👩🏾‍❤️‍💋‍👨🏼 | kiss_woman_man_medium_dark_medium_light
+👩🏾‍❤️‍💋‍👨🏽 | kiss_woman_man_medium_dark_medium
+👩🏾‍❤️‍💋‍👨🏾 | kiss_woman_man_medium_dark
+👩🏾‍❤️‍💋‍👨🏿 | kiss_woman_man_medium_dark_dark
+👩🏿‍❤️‍💋‍👨🏻 | kiss_woman_man_dark_light
+👩🏿‍❤️‍💋‍👨🏼 | kiss_woman_man_dark_medium_light
+👩🏿‍❤️‍💋‍👨🏽 | kiss_woman_man_dark_medium
+👩🏿‍❤️‍💋‍👨🏾 | kiss_woman_man_dark_medium_dark
+👩🏿‍❤️‍💋‍👨🏿 | kiss_woman_man_dark
+👨‍❤️‍💋‍👨 | kiss_man_man, couplekiss_man_man
+👨🏻‍❤️‍💋‍👨🏻 | kiss_man_man_light
+👨🏻‍❤️‍💋‍👨🏼 | kiss_man_man_light_medium_light
+👨🏻‍❤️‍💋‍👨🏽 | kiss_man_man_light_medium
+👨🏻‍❤️‍💋‍👨🏾 | kiss_man_man_light_medium_dark
+👨🏻‍❤️‍💋‍👨🏿 | kiss_man_man_light_dark
+👨🏼‍❤️‍💋‍👨🏻 | kiss_man_man_medium_light_light
+👨🏼‍❤️‍💋‍👨🏼 | kiss_man_man_medium_light
+👨🏼‍❤️‍💋‍👨🏽 | kiss_man_man_medium_light_medium
+👨🏼‍❤️‍💋‍👨🏾 | kiss_man_man_medium_light_medium_dark
+👨🏼‍❤️‍💋‍👨🏿 | kiss_man_man_medium_light_dark
+👨🏽‍❤️‍💋‍👨🏻 | kiss_man_man_medium_light
+👨🏽‍❤️‍💋‍👨🏼 | kiss_man_man_medium_medium_light
+👨🏽‍❤️‍💋‍👨🏽 | kiss_man_man_medium
+👨🏽‍❤️‍💋‍👨🏾 | kiss_man_man_medium_medium_dark
+👨🏽‍❤️‍💋‍👨🏿 | kiss_man_man_medium_dark
+👨🏾‍❤️‍💋‍👨🏻 | kiss_man_man_medium_dark_light
+👨🏾‍❤️‍💋‍👨🏼 | kiss_man_man_medium_dark_medium_light
+👨🏾‍❤️‍💋‍👨🏽 | kiss_man_man_medium_dark_medium
+👨🏾‍❤️‍💋‍👨🏾 | kiss_man_man_medium_dark
+👨🏾‍❤️‍💋‍👨🏿 | kiss_man_man_medium_dark_dark
+👨🏿‍❤️‍💋‍👨🏻 | kiss_man_man_dark_light
+👨🏿‍❤️‍💋‍👨🏼 | kiss_man_man_dark_medium_light
+👨🏿‍❤️‍💋‍👨🏽 | kiss_man_man_dark_medium
+👨🏿‍❤️‍💋‍👨🏾 | kiss_man_man_dark_medium_dark
+👨🏿‍❤️‍💋‍👨🏿 | kiss_man_man_dark
+👩‍❤️‍💋‍👩 | kiss_woman_woman, couplekiss_woman_woman
+👩🏻‍❤️‍💋‍👩🏻 | kiss_woman_woman_light
+👩🏻‍❤️‍💋‍👩🏼 | kiss_woman_woman_light_medium_light
+👩🏻‍❤️‍💋‍👩🏽 | kiss_woman_woman_light_medium
+👩🏻‍❤️‍💋‍👩🏾 | kiss_woman_woman_light_medium_dark
+👩🏻‍❤️‍💋‍👩🏿 | kiss_woman_woman_light_dark
+👩🏼‍❤️‍💋‍👩🏻 | kiss_woman_woman_medium_light_light
+👩🏼‍❤️‍💋‍👩🏼 | kiss_woman_woman_medium_light
+👩🏼‍❤️‍💋‍👩🏽 | kiss_woman_woman_medium_light_medium
+👩🏼‍❤️‍💋‍👩🏾 | kiss_woman_woman_medium_light_medium_dark
+👩🏼‍❤️‍💋‍👩🏿 | kiss_woman_woman_medium_light_dark
+👩🏽‍❤️‍💋‍👩🏻 | kiss_woman_woman_medium_light
+👩🏽‍❤️‍💋‍👩🏼 | kiss_woman_woman_medium_medium_light
+👩🏽‍❤️‍💋‍👩🏽 | kiss_woman_woman_medium
+👩🏽‍❤️‍💋‍👩🏾 | kiss_woman_woman_medium_medium_dark
+👩🏽‍❤️‍💋‍👩🏿 | kiss_woman_woman_medium_dark
+👩🏾‍❤️‍💋‍👩🏻 | kiss_woman_woman_medium_dark_light
+👩🏾‍❤️‍💋‍👩🏼 | kiss_woman_woman_medium_dark_medium_light
+👩🏾‍❤️‍💋‍👩🏽 | kiss_woman_woman_medium_dark_medium
+👩🏾‍❤️‍💋‍👩🏾 | kiss_woman_woman_medium_dark
+👩🏾‍❤️‍💋‍👩🏿 | kiss_woman_woman_medium_dark_dark
+👩🏿‍❤️‍💋‍👩🏻 | kiss_woman_woman_dark_light
+👩🏿‍❤️‍💋‍👩🏼 | kiss_woman_woman_dark_medium_light
+👩🏿‍❤️‍💋‍👩🏽 | kiss_woman_woman_dark_medium
+👩🏿‍❤️‍💋‍👩🏾 | kiss_woman_woman_dark_medium_dark
+👩🏿‍❤️‍💋‍👩🏿 | kiss_woman_woman_dark
+💑 | couple_with_heart
+💑🏻 | couple_with_heart_light
+💑🏼 | couple_with_heart_medium_light
+💑🏽 | couple_with_heart_medium
+💑🏾 | couple_with_heart_medium_dark
+💑🏿 | couple_with_heart_dark
+🧑🏻‍❤️‍🧑🏼 | couple_with_heart_person_person_light_medium_light
+🧑🏻‍❤️‍🧑🏽 | couple_with_heart_person_person_light_medium
+🧑🏻‍❤️‍🧑🏾 | couple_with_heart_person_person_light_medium_dark
+🧑🏻‍❤️‍🧑🏿 | couple_with_heart_person_person_light_dark
+🧑🏼‍❤️‍🧑🏻 | couple_with_heart_person_person_medium_light_light
+🧑🏼‍❤️‍🧑🏽 | couple_with_heart_person_person_medium_light_medium
+🧑🏼‍❤️‍🧑🏾 | couple_with_heart_person_person_medium_light_medium_dark
+🧑🏼‍❤️‍🧑🏿 | couple_with_heart_person_person_medium_light_dark
+🧑🏽‍❤️‍🧑🏻 | couple_with_heart_person_person_medium_light
+🧑🏽‍❤️‍🧑🏼 | couple_with_heart_person_person_medium_medium_light
+🧑🏽‍❤️‍🧑🏾 | couple_with_heart_person_person_medium_medium_dark
+🧑🏽‍❤️‍🧑🏿 | couple_with_heart_person_person_medium_dark
+🧑🏾‍❤️‍🧑🏻 | couple_with_heart_person_person_medium_dark_light
+🧑🏾‍❤️‍🧑🏼 | couple_with_heart_person_person_medium_dark_medium_light
+🧑🏾‍❤️‍🧑🏽 | couple_with_heart_person_person_medium_dark_medium
+🧑🏾‍❤️‍🧑🏿 | couple_with_heart_person_person_medium_dark_dark
+🧑🏿‍❤️‍🧑🏻 | couple_with_heart_person_person_dark_light
+🧑🏿‍❤️‍🧑🏼 | couple_with_heart_person_person_dark_medium_light
+🧑🏿‍❤️‍🧑🏽 | couple_with_heart_person_person_dark_medium
+🧑🏿‍❤️‍🧑🏾 | couple_with_heart_person_person_dark_medium_dark
+👩‍❤️‍👨 | couple_with_heart_woman_man
+👩🏻‍❤️‍👨🏻 | couple_with_heart_woman_man_light
+👩🏻‍❤️‍👨🏼 | couple_with_heart_woman_man_light_medium_light
+👩🏻‍❤️‍👨🏽 | couple_with_heart_woman_man_light_medium
+👩🏻‍❤️‍👨🏾 | couple_with_heart_woman_man_light_medium_dark
+👩🏻‍❤️‍👨🏿 | couple_with_heart_woman_man_light_dark
+👩🏼‍❤️‍👨🏻 | couple_with_heart_woman_man_medium_light_light
+👩🏼‍❤️‍👨🏼 | couple_with_heart_woman_man_medium_light
+👩🏼‍❤️‍👨🏽 | couple_with_heart_woman_man_medium_light_medium
+👩🏼‍❤️‍👨🏾 | couple_with_heart_woman_man_medium_light_medium_dark
+👩🏼‍❤️‍👨🏿 | couple_with_heart_woman_man_medium_light_dark
+👩🏽‍❤️‍👨🏻 | couple_with_heart_woman_man_medium_light
+👩🏽‍❤️‍👨🏼 | couple_with_heart_woman_man_medium_medium_light
+👩🏽‍❤️‍👨🏽 | couple_with_heart_woman_man_medium
+👩🏽‍❤️‍👨🏾 | couple_with_heart_woman_man_medium_medium_dark
+👩🏽‍❤️‍👨🏿 | couple_with_heart_woman_man_medium_dark
+👩🏾‍❤️‍👨🏻 | couple_with_heart_woman_man_medium_dark_light
+👩🏾‍❤️‍👨🏼 | couple_with_heart_woman_man_medium_dark_medium_light
+👩🏾‍❤️‍👨🏽 | couple_with_heart_woman_man_medium_dark_medium
+👩🏾‍❤️‍👨🏾 | couple_with_heart_woman_man_medium_dark
+👩🏾‍❤️‍👨🏿 | couple_with_heart_woman_man_medium_dark_dark
+👩🏿‍❤️‍👨🏻 | couple_with_heart_woman_man_dark_light
+👩🏿‍❤️‍👨🏼 | couple_with_heart_woman_man_dark_medium_light
+👩🏿‍❤️‍👨🏽 | couple_with_heart_woman_man_dark_medium
+👩🏿‍❤️‍👨🏾 | couple_with_heart_woman_man_dark_medium_dark
+👩🏿‍❤️‍👨🏿 | couple_with_heart_woman_man_dark
+👨‍❤️‍👨 | couple_with_heart_man_man
+👨🏻‍❤️‍👨🏻 | couple_with_heart_man_man_light
+👨🏻‍❤️‍👨🏼 | couple_with_heart_man_man_light_medium_light
+👨🏻‍❤️‍👨🏽 | couple_with_heart_man_man_light_medium
+👨🏻‍❤️‍👨🏾 | couple_with_heart_man_man_light_medium_dark
+👨🏻‍❤️‍👨🏿 | couple_with_heart_man_man_light_dark
+👨🏼‍❤️‍👨🏻 | couple_with_heart_man_man_medium_light_light
+👨🏼‍❤️‍👨🏼 | couple_with_heart_man_man_medium_light
+👨🏼‍❤️‍👨🏽 | couple_with_heart_man_man_medium_light_medium
+👨🏼‍❤️‍👨🏾 | couple_with_heart_man_man_medium_light_medium_dark
+👨🏼‍❤️‍👨🏿 | couple_with_heart_man_man_medium_light_dark
+👨🏽‍❤️‍👨🏻 | couple_with_heart_man_man_medium_light
+👨🏽‍❤️‍👨🏼 | couple_with_heart_man_man_medium_medium_light
+👨🏽‍❤️‍👨🏽 | couple_with_heart_man_man_medium
+👨🏽‍❤️‍👨🏾 | couple_with_heart_man_man_medium_medium_dark
+👨🏽‍❤️‍👨🏿 | couple_with_heart_man_man_medium_dark
+👨🏾‍❤️‍👨🏻 | couple_with_heart_man_man_medium_dark_light
+👨🏾‍❤️‍👨🏼 | couple_with_heart_man_man_medium_dark_medium_light
+👨🏾‍❤️‍👨🏽 | couple_with_heart_man_man_medium_dark_medium
+👨🏾‍❤️‍👨🏾 | couple_with_heart_man_man_medium_dark
+👨🏾‍❤️‍👨🏿 | couple_with_heart_man_man_medium_dark_dark
+👨🏿‍❤️‍👨🏻 | couple_with_heart_man_man_dark_light
+👨🏿‍❤️‍👨🏼 | couple_with_heart_man_man_dark_medium_light
+👨🏿‍❤️‍👨🏽 | couple_with_heart_man_man_dark_medium
+👨🏿‍❤️‍👨🏾 | couple_with_heart_man_man_dark_medium_dark
+👨🏿‍❤️‍👨🏿 | couple_with_heart_man_man_dark
+👩‍❤️‍👩 | couple_with_heart_woman_woman
+👩🏻‍❤️‍👩🏻 | couple_with_heart_woman_woman_light
+👩🏻‍❤️‍👩🏼 | couple_with_heart_woman_woman_light_medium_light
+👩🏻‍❤️‍👩🏽 | couple_with_heart_woman_woman_light_medium
+👩🏻‍❤️‍👩🏾 | couple_with_heart_woman_woman_light_medium_dark
+👩🏻‍❤️‍👩🏿 | couple_with_heart_woman_woman_light_dark
+👩🏼‍❤️‍👩🏻 | couple_with_heart_woman_woman_medium_light_light
+👩🏼‍❤️‍👩🏼 | couple_with_heart_woman_woman_medium_light
+👩🏼‍❤️‍👩🏽 | couple_with_heart_woman_woman_medium_light_medium
+👩🏼‍❤️‍👩🏾 | couple_with_heart_woman_woman_medium_light_medium_dark
+👩🏼‍❤️‍👩🏿 | couple_with_heart_woman_woman_medium_light_dark
+👩🏽‍❤️‍👩🏻 | couple_with_heart_woman_woman_medium_light
+👩🏽‍❤️‍👩🏼 | couple_with_heart_woman_woman_medium_medium_light
+👩🏽‍❤️‍👩🏽 | couple_with_heart_woman_woman_medium
+👩🏽‍❤️‍👩🏾 | couple_with_heart_woman_woman_medium_medium_dark
+👩🏽‍❤️‍👩🏿 | couple_with_heart_woman_woman_medium_dark
+👩🏾‍❤️‍👩🏻 | couple_with_heart_woman_woman_medium_dark_light
+👩🏾‍❤️‍👩🏼 | couple_with_heart_woman_woman_medium_dark_medium_light
+👩🏾‍❤️‍👩🏽 | couple_with_heart_woman_woman_medium_dark_medium
+👩🏾‍❤️‍👩🏾 | couple_with_heart_woman_woman_medium_dark
+👩🏾‍❤️‍👩🏿 | couple_with_heart_woman_woman_medium_dark_dark
+👩🏿‍❤️‍👩🏻 | couple_with_heart_woman_woman_dark_light
+👩🏿‍❤️‍👩🏼 | couple_with_heart_woman_woman_dark_medium_light
+👩🏿‍❤️‍👩🏽 | couple_with_heart_woman_woman_dark_medium
+👩🏿‍❤️‍👩🏾 | couple_with_heart_woman_woman_dark_medium_dark
+👩🏿‍❤️‍👩🏿 | couple_with_heart_woman_woman_dark
+👨‍👩‍👦 | family_man_woman_boy
+👨‍👩‍👧 | family_man_woman_girl
+👨‍👩‍👧‍👦 | family_man_woman_girl_boy
+👨‍👩‍👦‍👦 | family_man_woman_boy_boy
+👨‍👩‍👧‍👧 | family_man_woman_girl_girl
+👨‍👨‍👦 | family_man_man_boy
+👨‍👨‍👧 | family_man_man_girl
+👨‍👨‍👧‍👦 | family_man_man_girl_boy
+👨‍👨‍👦‍👦 | family_man_man_boy_boy
+👨‍👨‍👧‍👧 | family_man_man_girl_girl
+👩‍👩‍👦 | family_woman_woman_boy
+👩‍👩‍👧 | family_woman_woman_girl
+👩‍👩‍👧‍👦 | family_woman_woman_girl_boy
+👩‍👩‍👦‍👦 | family_woman_woman_boy_boy
+👩‍👩‍👧‍👧 | family_woman_woman_girl_girl
+👨‍👦 | family_man_boy
+👨‍👦‍👦 | family_man_boy_boy
+👨‍👧 | family_man_girl
+👨‍👧‍👦 | family_man_girl_boy
+👨‍👧‍👧 | family_man_girl_girl
+👩‍👦 | family_woman_boy
+👩‍👦‍👦 | family_woman_boy_boy
+👩‍👧 | family_woman_girl
+👩‍👧‍👦 | family_woman_girl_boy
+👩‍👧‍👧 | family_woman_girl_girl
+🗣️ | speaking_head
+👤 | bust_in_silhouette
+👥 | busts_in_silhouette
+🫂 | people_hugging
+👪 | family
+🧑‍🧑‍🧒 | family_adult_adult_child
+🧑‍🧑‍🧒‍🧒 | family_adult_adult_child_child
+🧑‍🧒 | family_adult_child
+🧑‍🧒‍🧒 | family_adult_child_child
+👣 | footprints
+🐵 | monkey_face
+🐒 | monkey
+🦍 | gorilla
+🦧 | orangutan
+🐶 | dog_face, dog
+🐕 | dog, dog2
+🦮 | guide_dog
+🐕‍🦺 | service_dog
+🐩 | poodle
+🐺 | wolf
+🦊 | fox, fox_face
+🦝 | raccoon
+🐱 | cat_face, cat
+🐈 | cat, cat2
+🐈‍⬛ | black_cat
+🦁 | lion
+🐯 | tiger_face, tiger
+🐅 | tiger, tiger2
+🐆 | leopard
+🐴 | horse_face, horse
+🫎 | moose
+🫏 | donkey
+🐎 | horse, racehorse
+🦄 | unicorn
+🦓 | zebra
+🦌 | deer
+🦬 | bison
+🐮 | cow_face, cow
+🐂 | ox
+🐃 | water_buffalo
+🐄 | cow, cow2
+🐷 | pig_face, pig
+🐖 | pig, pig2
+🐗 | boar
+🐽 | pig_nose
+🐏 | ram
+🐑 | ewe, sheep
+🐐 | goat
+🐪 | camel, dromedary_camel
+🐫 | two_hump_camel, camel
+🦙 | llama
+🦒 | giraffe
+🐘 | elephant
+🦣 | mammoth
+🦏 | rhinoceros
+🦛 | hippopotamus
+🐭 | mouse_face, mouse
+🐁 | mouse, mouse2
+🐀 | rat
+🐹 | hamster
+🐰 | rabbit_face, rabbit
+🐇 | rabbit, rabbit2
+🐿️ | chipmunk
+🦫 | beaver
+🦔 | hedgehog
+🦇 | bat
+🐻 | bear
+🐻‍❄️ | polar_bear
+🐨 | koala
+🐼 | panda, panda_face
+🦥 | sloth
+🦦 | otter
+🦨 | skunk
+🦘 | kangaroo
+🦡 | badger
+🐾 | paw_prints, feet
+🦃 | turkey
+🐔 | chicken
+🐓 | rooster
+🐣 | hatching_chick
+🐤 | baby_chick
+🐥 | front_facing_baby_chick, hatched_chick
+🐦 | bird
+🐧 | penguin
+🕊️ | dove
+🦅 | eagle
+🦆 | duck
+🦢 | swan
+🦉 | owl
+🦤 | dodo
+🪶 | feather
+🦩 | flamingo
+🦚 | peacock
+🦜 | parrot
+🪽 | wing
+🐦‍⬛ | black_bird
+🪿 | goose
+🐦‍🔥 | phoenix
+🐸 | frog
+🐊 | crocodile
+🐢 | turtle
+🦎 | lizard
+🐍 | snake
+🐲 | dragon_face
+🐉 | dragon
+🦕 | sauropod
+🦖 | t_rex, t-rex
+🐳 | spouting_whale, whale
+🐋 | whale, whale2
+🐬 | dolphin, flipper
+🦭 | seal
+🐟 | fish
+🐠 | tropical_fish
+🐡 | blowfish
+🦈 | shark
+🐙 | octopus
+🐚 | spiral_shell, shell
+🪸 | coral
+🪼 | jellyfish
+🦀 | crab
+🦞 | lobster
+🦐 | shrimp
+🦑 | squid
+🦪 | oyster
+🐌 | snail
+🦋 | butterfly
+🐛 | bug
+🐜 | ant
+🐝 | honeybee, bee
+🪲 | beetle
+🐞 | lady_beetle
+🦗 | cricket
+🪳 | cockroach
+🕷️ | spider
+🕸️ | spider_web
+🦂 | scorpion
+🦟 | mosquito
+🪰 | fly
+🪱 | worm
+🦠 | microbe
+💐 | bouquet
+🌸 | cherry_blossom
+💮 | white_flower
+🪷 | lotus
+🏵️ | rosette
+🌹 | rose
+🥀 | wilted_flower
+🌺 | hibiscus
+🌻 | sunflower
+🌼 | blossom
+🌷 | tulip
+🪻 | hyacinth
+🌱 | seedling
+🪴 | potted_plant
+🌲 | evergreen_tree
+🌳 | deciduous_tree
+🌴 | palm_tree
+🌵 | cactus
+🌾 | sheaf_of_rice, ear_of_rice
+🌿 | herb
+☘️ | shamrock
+🍀 | four_leaf_clover
+🍁 | maple_leaf
+🍂 | fallen_leaf
+🍃 | leaf_fluttering_in_wind, leaves
+🪹 | empty_nest
+🪺 | nest_with_eggs
+🍄 | mushroom
+🍇 | grapes
+🍈 | melon
+🍉 | watermelon
+🍊 | tangerine, orange, mandarin
+🍋 | lemon
+🍋‍🟩 | lime
+🍌 | banana
+🍍 | pineapple
+🥭 | mango
+🍎 | red_apple, apple
+🍏 | green_apple
+🍐 | pear
+🍑 | peach
+🍒 | cherries
+🍓 | strawberry
+🫐 | blueberries
+🥝 | kiwi_fruit
+🍅 | tomato
+🫒 | olive
+🥥 | coconut
+🥑 | avocado
+🍆 | eggplant
+🥔 | potato
+🥕 | carrot
+🌽 | ear_of_corn, corn
+🌶️ | hot_pepper
+🫑 | bell_pepper
+🥒 | cucumber
+🥬 | leafy_green
+🥦 | broccoli
+🧄 | garlic
+🧅 | onion
+🥜 | peanuts
+🫘 | beans
+🌰 | chestnut
+🫚 | ginger_root
+🫛 | pea_pod
+🍄‍🟫 | brown_mushroom
+🍞 | bread
+🥐 | croissant
+🥖 | baguette_bread
+🫓 | flatbread
+🥨 | pretzel
+🥯 | bagel
+🥞 | pancakes
+🧇 | waffle
+🧀 | cheese_wedge, cheese
+🍖 | meat_on_bone
+🍗 | poultry_leg
+🥩 | cut_of_meat
+🥓 | bacon
+🍔 | hamburger
+🍟 | french_fries, fries
+🍕 | pizza
+🌭 | hot_dog, hotdog
+🥪 | sandwich
+🌮 | taco
+🌯 | burrito
+🫔 | tamale
+🥙 | stuffed_flatbread
+🧆 | falafel
+🥚 | egg
+🍳 | cooking, fried_egg
+🥘 | shallow_pan_of_food
+🍲 | pot_of_food, stew
+🫕 | fondue
+🥣 | bowl_with_spoon
+🥗 | green_salad
+🍿 | popcorn
+🧈 | butter
+🧂 | salt
+🥫 | canned_food
+🍱 | bento_box, bento
+🍘 | rice_cracker
+🍙 | rice_ball
+🍚 | cooked_rice, rice
+🍛 | curry_rice, curry
+🍜 | steaming_bowl, ramen
+🍝 | spaghetti
+🍠 | roasted_sweet_potato, sweet_potato
+🍢 | oden
+🍣 | sushi
+🍤 | fried_shrimp
+🍥 | fish_cake_with_swirl, fish_cake
+🥮 | moon_cake
+🍡 | dango
+🥟 | dumpling
+🥠 | fortune_cookie
+🥡 | takeout_box
+🍦 | soft_ice_cream, icecream
+🍧 | shaved_ice
+🍨 | ice_cream
+🍩 | doughnut
+🍪 | cookie
+🎂 | birthday_cake, birthday
+🍰 | shortcake, cake
+🧁 | cupcake
+🥧 | pie
+🍫 | chocolate_bar
+🍬 | candy
+🍭 | lollipop
+🍮 | custard
+🍯 | honey_pot
+🍼 | baby_bottle
+🥛 | glass_of_milk, milk_glass
+☕ | hot_beverage, coffee
+🫖 | teapot
+🍵 | teacup_without_handle, tea
+🍶 | sake
+🍾 | bottle_with_popping_cork, champagne
+🍷 | wine_glass
+🍸 | cocktail_glass, cocktail
+🍹 | tropical_drink
+🍺 | beer_mug, beer
+🍻 | clinking_beer_mugs, beers
+🥂 | clinking_glasses
+🥃 | tumbler_glass
+🫗 | pouring_liquid
+🥤 | cup_with_straw
+🧋 | bubble_tea
+🧃 | beverage_box
+🧉 | mate
+🧊 | ice, ice_cube
+🥢 | chopsticks
+🍽️ | fork_and_knife_with_plate, plate_with_cutlery
+🍴 | fork_and_knife
+🥄 | spoon
+🔪 | kitchen_knife, hocho, knife
+🫙 | jar
+🏺 | amphora
+🌍 | globe_showing_europe_africa, earth_africa
+🌎 | globe_showing_americas, earth_americas
+🌏 | globe_showing_asia_australia, earth_asia
+🌐 | globe_with_meridians
+🗺️ | world_map
+🗾 | map_of_japan, japan
+🧭 | compass
+🏔️ | snow_capped_mountain, mountain_snow
+⛰️ | mountain
+🌋 | volcano
+🗻 | mount_fuji
+🏕️ | camping
+🏖️ | beach_with_umbrella, beach_umbrella
+🏜️ | desert
+🏝️ | desert_island
+🏞️ | national_park
+🏟️ | stadium
+🏛️ | classical_building
+🏗️ | building_construction
+🧱 | brick, bricks
+🪨 | rock
+🪵 | wood
+🛖 | hut
+🏘️ | houses
+🏚️ | derelict_house
+🏠 | house
+🏡 | house_with_garden
+🏢 | office_building, office
+🏣 | japanese_post_office, post_office
+🏤 | post_office, european_post_office
+🏥 | hospital
+🏦 | bank
+🏨 | hotel
+🏩 | love_hotel
+🏪 | convenience_store
+🏫 | school
+🏬 | department_store
+🏭 | factory
+🏯 | japanese_castle
+🏰 | castle, european_castle
+💒 | wedding
+🗼 | tokyo_tower
+🗽 | statue_of_liberty
+⛪ | church
+🕌 | mosque
+🛕 | hindu_temple
+🕍 | synagogue
+⛩️ | shinto_shrine
+🕋 | kaaba
+⛲ | fountain
+⛺ | tent
+🌁 | foggy
+🌃 | night_with_stars
+🏙️ | cityscape
+🌄 | sunrise_over_mountains
+🌅 | sunrise
+🌆 | cityscape_at_dusk, city_sunset
+🌇 | sunset, city_sunrise
+🌉 | bridge_at_night
+♨️ | hot_springs, hotsprings
+🎠 | carousel_horse
+🛝 | playground_slide
+🎡 | ferris_wheel
+🎢 | roller_coaster
+💈 | barber_pole, barber
+🎪 | circus_tent
+🚂 | locomotive, steam_locomotive
+🚃 | railway_car
+🚄 | high_speed_train, bullettrain_side
+🚅 | bullet_train, bullettrain_front
+🚆 | train, train2
+🚇 | metro
+🚈 | light_rail
+🚉 | station
+🚊 | tram
+🚝 | monorail
+🚞 | mountain_railway
+🚋 | tram_car, train
+🚌 | bus
+🚍 | oncoming_bus
+🚎 | trolleybus
+🚐 | minibus
+🚑 | ambulance
+🚒 | fire_engine
+🚓 | police_car
+🚔 | oncoming_police_car
+🚕 | taxi
+🚖 | oncoming_taxi
+🚗 | automobile, car, red_car
+🚘 | oncoming_automobile
+🚙 | sport_utility_vehicle, blue_car
+🛻 | pickup_truck
+🚚 | delivery_truck, truck
+🚛 | articulated_lorry
+🚜 | tractor
+🏎️ | racing_car
+🏍️ | motorcycle
+🛵 | motor_scooter
+🦽 | manual_wheelchair
+🦼 | motorized_wheelchair
+🛺 | auto_rickshaw
+🚲 | bicycle, bike
+🛴 | kick_scooter
+🛹 | skateboard
+🛼 | roller_skate
+🚏 | bus_stop, busstop
+🛣️ | motorway
+🛤️ | railway_track
+🛢️ | oil_drum
+⛽ | fuel_pump, fuelpump
+🛞 | wheel
+🚨 | police_car_light, rotating_light
+🚥 | horizontal_traffic_light, traffic_light
+🚦 | vertical_traffic_light
+🛑 | stop_sign
+🚧 | construction
+⚓ | anchor
+🛟 | ring_buoy
+⛵ | sailboat, boat
+🛶 | canoe
+🚤 | speedboat
+🛳️ | passenger_ship
+⛴️ | ferry
+🛥️ | motor_boat
+🚢 | ship
+✈️ | airplane
+🛩️ | small_airplane
+🛫 | airplane_departure, flight_departure
+🛬 | airplane_arrival, flight_arrival
+🪂 | parachute
+💺 | seat
+🚁 | helicopter
+🚟 | suspension_railway
+🚠 | mountain_cableway
+🚡 | aerial_tramway
+🛰️ | satellite, artificial_satellite
+🚀 | rocket
+🛸 | flying_saucer
+🛎️ | bellhop_bell
+🧳 | luggage
+⌛ | hourglass_done, hourglass
+⏳ | hourglass_not_done, hourglass_flowing_sand
+⌚ | watch
+⏰ | alarm_clock
+⏱️ | stopwatch
+⏲️ | timer_clock
+🕰️ | mantelpiece_clock
+🕛 | twelve_o_clock, clock12
+🕧 | twelve_thirty, clock1230
+🕐 | one_o_clock, clock1
+🕜 | one_thirty, clock130
+🕑 | two_o_clock, clock2
+🕝 | two_thirty, clock230
+🕒 | three_o_clock, clock3
+🕞 | three_thirty, clock330
+🕓 | four_o_clock, clock4
+🕟 | four_thirty, clock430
+🕔 | five_o_clock, clock5
+🕠 | five_thirty, clock530
+🕕 | six_o_clock, clock6
+🕡 | six_thirty, clock630
+🕖 | seven_o_clock, clock7
+🕢 | seven_thirty, clock730
+🕗 | eight_o_clock, clock8
+🕣 | eight_thirty, clock830
+🕘 | nine_o_clock, clock9
+🕤 | nine_thirty, clock930
+🕙 | ten_o_clock, clock10
+🕥 | ten_thirty, clock1030
+🕚 | eleven_o_clock, clock11
+🕦 | eleven_thirty, clock1130
+🌑 | new_moon
+🌒 | waxing_crescent_moon
+🌓 | first_quarter_moon
+🌔 | waxing_gibbous_moon, moon
+🌕 | full_moon
+🌖 | waning_gibbous_moon
+🌗 | last_quarter_moon
+🌘 | waning_crescent_moon
+🌙 | crescent_moon
+🌚 | new_moon_face, new_moon_with_face
+🌛 | first_quarter_moon_face, first_quarter_moon_with_face
+🌜 | last_quarter_moon_face, last_quarter_moon_with_face
+🌡️ | thermometer
+☀️ | sun, sunny
+🌝 | full_moon_face, full_moon_with_face
+🌞 | sun_with_face
+🪐 | ringed_planet
+⭐ | star
+🌟 | glowing_star, star2
+🌠 | shooting_star, stars
+🌌 | milky_way
+☁️ | cloud
+⛅ | sun_behind_cloud, partly_sunny
+⛈️ | cloud_with_lightning_and_rain
+🌤️ | sun_behind_small_cloud
+🌥️ | sun_behind_large_cloud
+🌦️ | sun_behind_rain_cloud
+🌧️ | cloud_with_rain
+🌨️ | cloud_with_snow
+🌩️ | cloud_with_lightning
+🌪️ | tornado
+🌫️ | fog
+🌬️ | wind_face
+🌀 | cyclone
+🌈 | rainbow
+🌂 | closed_umbrella
+☂️ | umbrella, open_umbrella
+☔ | umbrella_with_rain_drops, umbrella
+⛱️ | umbrella_on_ground, parasol_on_ground
+⚡ | high_voltage, zap
+❄️ | snowflake
+☃️ | snowman, snowman_with_snow
+⛄ | snowman_without_snow, snowman
+☄️ | comet
+🔥 | fire
+💧 | droplet
+🌊 | water_wave, ocean
+🎃 | jack_o_lantern
+🎄 | christmas_tree
+🎆 | fireworks
+🎇 | sparkler
+🧨 | firecracker
+✨ | sparkles
+🎈 | balloon
+🎉 | party_popper, tada
+🎊 | confetti_ball
+🎋 | tanabata_tree
+🎍 | pine_decoration, bamboo
+🎎 | japanese_dolls, dolls
+🎏 | carp_streamer, flags
+🎐 | wind_chime
+🎑 | moon_viewing_ceremony, rice_scene
+🧧 | red_envelope
+🎀 | ribbon
+🎁 | wrapped_gift, gift
+🎗️ | reminder_ribbon
+🎟️ | admission_tickets, tickets
+🎫 | ticket
+🎖️ | military_medal, medal_military
+🏆 | trophy
+🏅 | sports_medal, medal_sports
+🥇 | 1st_place_medal
+🥈 | 2nd_place_medal
+🥉 | 3rd_place_medal
+⚽ | soccer_ball, soccer
+⚾ | baseball
+🥎 | softball
+🏀 | basketball
+🏐 | volleyball
+🏈 | american_football, football
+🏉 | rugby_football
+🎾 | tennis
+🥏 | flying_disc
+🎳 | bowling
+🏏 | cricket_game
+🏑 | field_hockey
+🏒 | ice_hockey
+🥍 | lacrosse
+🏓 | ping_pong
+🏸 | badminton
+🥊 | boxing_glove
+🥋 | martial_arts_uniform
+🥅 | goal_net
+⛳ | flag_in_hole, golf
+⛸️ | ice_skate
+🎣 | fishing_pole, fishing_pole_and_fish
+🤿 | diving_mask
+🎽 | running_shirt, running_shirt_with_sash
+🎿 | skis, ski
+🛷 | sled
+🥌 | curling_stone
+🎯 | bullseye, dart
+🪀 | yo_yo
+🪁 | kite
+🔫 | water_pistol, gun
+🎱 | pool_8_ball, 8ball
+🔮 | crystal_ball
+🪄 | magic_wand
+🎮 | video_game
+🕹️ | joystick
+🎰 | slot_machine
+🎲 | game_die
+🧩 | puzzle_piece, jigsaw
+🧸 | teddy_bear
+🪅 | pinata
+🪩 | mirror_ball
+🪆 | nesting_dolls
+♠️ | spade_suit, spades
+♥️ | heart_suit, hearts
+♦️ | diamond_suit, diamonds
+♣️ | club_suit, clubs
+♟️ | chess_pawn
+🃏 | joker, black_joker
+🀄 | mahjong_red_dragon, mahjong
+🎴 | flower_playing_cards
+🎭 | performing_arts
+🖼️ | framed_picture
+🎨 | artist_palette, art
+🧵 | thread
+🪡 | sewing_needle
+🧶 | yarn
+🪢 | knot
+👓 | glasses, eyeglasses
+🕶️ | sunglasses, dark_sunglasses
+🥽 | goggles
+🥼 | lab_coat
+🦺 | safety_vest
+👔 | necktie
+👕 | t_shirt, tshirt, shirt
+👖 | jeans
+🧣 | scarf
+🧤 | gloves
+🧥 | coat
+🧦 | socks
+👗 | dress
+👘 | kimono
+🥻 | sari
+🩱 | one_piece_swimsuit
+🩲 | briefs, swim_brief
+🩳 | shorts
+👙 | bikini
+👚 | womans_clothes
+🪭 | folding_hand_fan
+👛 | purse
+👜 | handbag
+👝 | clutch_bag, pouch
+🛍️ | shopping_bags, shopping
+🎒 | backpack, school_satchel
+🩴 | thong_sandal
+👞 | mans_shoe, shoe
+👟 | running_shoe, athletic_shoe
+🥾 | hiking_boot
+🥿 | flat_shoe
+👠 | high_heeled_shoe, high_heel
+👡 | womans_sandal, sandal
+🩰 | ballet_shoes
+👢 | womans_boot, boot
+🪮 | hair_pick
+👑 | crown
+👒 | womans_hat
+🎩 | top_hat, tophat
+🎓 | graduation_cap, mortar_board
+🧢 | billed_cap
+🪖 | military_helmet
+⛑️ | rescue_workers_helmet, rescue_worker_helmet
+📿 | prayer_beads
+💄 | lipstick
+💍 | ring
+💎 | gem_stone, gem
+🔇 | muted_speaker, mute
+🔈 | speaker_low_volume, speaker
+🔉 | speaker_medium_volume, sound
+🔊 | speaker_high_volume, loud_sound
+📢 | loudspeaker
+📣 | megaphone, mega
+📯 | postal_horn
+🔔 | bell
+🔕 | bell_with_slash, no_bell
+🎼 | musical_score
+🎵 | musical_note
+🎶 | musical_notes, notes
+🎙️ | studio_microphone
+🎚️ | level_slider
+🎛️ | control_knobs
+🎤 | microphone
+🎧 | headphone, headphones
+📻 | radio
+🎷 | saxophone
+🪗 | accordion
+🎸 | guitar
+🎹 | musical_keyboard
+🎺 | trumpet
+🎻 | violin
+🪕 | banjo
+🥁 | drum
+🪘 | long_drum
+🪇 | maracas
+🪈 | flute
+📱 | mobile_phone, iphone
+📲 | mobile_phone_with_arrow, calling
+☎️ | telephone, phone
+📞 | telephone_receiver
+📟 | pager
+📠 | fax_machine, fax
+🔋 | battery
+🪫 | low_battery
+🔌 | electric_plug
+💻 | laptop, computer
+🖥️ | desktop_computer
+🖨️ | printer
+⌨️ | keyboard
+🖱️ | computer_mouse
+🖲️ | trackball
+💽 | computer_disk, minidisc
+💾 | floppy_disk
+💿 | optical_disk, cd
+📀 | dvd
+🧮 | abacus
+🎥 | movie_camera
+🎞️ | film_frames, film_strip
+📽️ | film_projector
+🎬 | clapper_board, clapper
+📺 | television, tv
+📷 | camera
+📸 | camera_with_flash, camera_flash
+📹 | video_camera
+📼 | videocassette, vhs
+🔍 | magnifying_glass_tilted_left, mag
+🔎 | magnifying_glass_tilted_right, mag_right
+🕯️ | candle
+💡 | light_bulb, bulb
+🔦 | flashlight
+🏮 | red_paper_lantern, izakaya_lantern, lantern
+🪔 | diya_lamp
+📔 | notebook_with_decorative_cover
+📕 | closed_book
+📖 | open_book, book
+📗 | green_book
+📘 | blue_book
+📙 | orange_book
+📚 | books
+📓 | notebook
+📒 | ledger
+📃 | page_with_curl
+📜 | scroll
+📄 | page_facing_up
+📰 | newspaper
+🗞️ | rolled_up_newspaper, newspaper_roll
+📑 | bookmark_tabs
+🔖 | bookmark
+🏷️ | label
+💰 | money_bag, moneybag
+🪙 | coin
+💴 | yen_banknote, yen
+💵 | dollar_banknote, dollar
+💶 | euro_banknote, euro
+💷 | pound_banknote, pound
+💸 | money_with_wings
+💳 | credit_card
+🧾 | receipt
+💹 | chart_increasing_with_yen, chart
+✉️ | envelope
+📧 | e_mail, e-mail, email
+📨 | incoming_envelope
+📩 | envelope_with_arrow
+📤 | outbox_tray
+📥 | inbox_tray
+📦 | package
+📫 | closed_mailbox_with_raised_flag, mailbox
+📪 | closed_mailbox_with_lowered_flag, mailbox_closed
+📬 | open_mailbox_with_raised_flag, mailbox_with_mail
+📭 | open_mailbox_with_lowered_flag, mailbox_with_no_mail
+📮 | postbox
+🗳️ | ballot_box_with_ballot, ballot_box
+✏️ | pencil, pencil2
+✒️ | black_nib
+🖋️ | fountain_pen
+🖊️ | pen
+🖌️ | paintbrush
+🖍️ | crayon
+📝 | memo, pencil
+💼 | briefcase
+📁 | file_folder
+📂 | open_file_folder
+🗂️ | card_index_dividers
+📅 | calendar, date
+📆 | tear_off_calendar, calendar
+🗒️ | spiral_notepad
+🗓️ | spiral_calendar
+📇 | card_index
+📈 | chart_increasing, chart_with_upwards_trend
+📉 | chart_decreasing, chart_with_downwards_trend
+📊 | bar_chart
+📋 | clipboard
+📌 | pushpin
+📍 | round_pushpin
+📎 | paperclip
+🖇️ | linked_paperclips, paperclips
+📏 | straight_ruler
+📐 | triangular_ruler
+✂️ | scissors
+🗃️ | card_file_box
+🗄️ | file_cabinet
+🗑️ | wastebasket
+🔒 | locked, lock
+🔓 | unlocked, unlock
+🔏 | locked_with_pen, lock_with_ink_pen
+🔐 | locked_with_key, closed_lock_with_key
+🔑 | key
+🗝️ | old_key
+🔨 | hammer
+🪓 | axe
+⛏️ | pick
+⚒️ | hammer_and_pick
+🛠️ | hammer_and_wrench
+🗡️ | dagger
+⚔️ | crossed_swords
+💣 | bomb
+🪃 | boomerang
+🏹 | bow_and_arrow
+🛡️ | shield
+🪚 | carpentry_saw
+🔧 | wrench
+🪛 | screwdriver
+🔩 | nut_and_bolt
+⚙️ | gear
+🗜️ | clamp
+⚖️ | balance_scale
+🦯 | white_cane, probing_cane
+🔗 | link
+⛓️‍💥 | broken_chain
+⛓️ | chains
+🪝 | hook
+🧰 | toolbox
+🧲 | magnet
+🪜 | ladder
+⚗️ | alembic
+🧪 | test_tube
+🧫 | petri_dish
+🧬 | dna
+🔬 | microscope
+🔭 | telescope
+📡 | satellite_antenna, satellite
+💉 | syringe
+🩸 | drop_of_blood
+💊 | pill
+🩹 | adhesive_bandage
+🩼 | crutch
+🩺 | stethoscope
+🩻 | x_ray
+🚪 | door
+🛗 | elevator
+🪞 | mirror
+🪟 | window
+🛏️ | bed
+🛋️ | couch_and_lamp
+🪑 | chair
+🚽 | toilet
+🪠 | plunger
+🚿 | shower
+🛁 | bathtub
+🪤 | mouse_trap
+🪒 | razor
+🧴 | lotion_bottle
+🧷 | safety_pin
+🧹 | broom
+🧺 | basket
+🧻 | roll_of_paper
+🪣 | bucket
+🧼 | soap
+🫧 | bubbles
+🪥 | toothbrush
+🧽 | sponge
+🧯 | fire_extinguisher
+🛒 | shopping_cart
+🚬 | cigarette, smoking
+⚰️ | coffin
+🪦 | headstone
+⚱️ | funeral_urn
+🧿 | nazar_amulet
+🪬 | hamsa
+🗿 | moai, moyai
+🪧 | placard
+🪪 | identification_card
+🏧 | atm_sign, atm
+🚮 | litter_in_bin_sign, put_litter_in_its_place
+🚰 | potable_water
+♿ | wheelchair_symbol, wheelchair
+🚹 | mens_room, mens
+🚺 | womens_room, womens
+🚻 | restroom
+🚼 | baby_symbol
+🚾 | water_closet, wc
+🛂 | passport_control
+🛃 | customs
+🛄 | baggage_claim
+🛅 | left_luggage
+⚠️ | warning
+🚸 | children_crossing
+⛔ | no_entry
+🚫 | prohibited, no_entry_sign
+🚳 | no_bicycles
+🚭 | no_smoking
+🚯 | no_littering, do_not_litter
+🚱 | non_potable_water, non-potable_water
+🚷 | no_pedestrians
+📵 | no_mobile_phones
+🔞 | no_one_under_eighteen, underage
+☢️ | radioactive
+☣️ | biohazard
+⬆️ | up_arrow, arrow_up
+↗️ | up_right_arrow, arrow_upper_right
+➡️ | right_arrow, arrow_right
+↘️ | down_right_arrow, arrow_lower_right
+⬇️ | down_arrow, arrow_down
+↙️ | down_left_arrow, arrow_lower_left
+⬅️ | left_arrow, arrow_left
+↖️ | up_left_arrow, arrow_upper_left
+↕️ | up_down_arrow, arrow_up_down
+↔️ | left_right_arrow
+↩️ | right_arrow_curving_left, leftwards_arrow_with_hook
+↪️ | left_arrow_curving_right, arrow_right_hook
+⤴️ | right_arrow_curving_up, arrow_heading_up
+⤵️ | right_arrow_curving_down, arrow_heading_down
+🔃 | clockwise_vertical_arrows, arrows_clockwise
+🔄 | counterclockwise_arrows_button, arrows_counterclockwise
+🔙 | back_arrow, back
+🔚 | end_arrow, end
+🔛 | on_arrow, on
+🔜 | soon_arrow, soon
+🔝 | top_arrow, top
+🛐 | place_of_worship
+⚛️ | atom_symbol
+🕉️ | om
+✡️ | star_of_david
+☸️ | wheel_of_dharma
+☯️ | yin_yang
+✝️ | latin_cross
+☦️ | orthodox_cross
+☪️ | star_and_crescent
+☮️ | peace_symbol
+🕎 | menorah
+🔯 | dotted_six_pointed_star, six_pointed_star
+🪯 | khanda
+♈ | aries
+♉ | taurus
+♊ | gemini
+♋ | cancer
+♌ | leo
+♍ | virgo
+♎ | libra
+♏ | scorpio, scorpius
+♐ | sagittarius
+♑ | capricorn
+♒ | aquarius
+♓ | pisces
+⛎ | ophiuchus
+🔀 | shuffle_tracks_button, twisted_rightwards_arrows
+🔁 | repeat_button, repeat
+🔂 | repeat_single_button, repeat_one
+▶️ | play_button, arrow_forward
+⏩ | fast_forward_button, fast_forward
+⏭️ | next_track_button
+⏯️ | play_or_pause_button
+◀️ | reverse_button, arrow_backward
+⏪ | fast_reverse_button, rewind
+⏮️ | last_track_button, previous_track_button
+🔼 | upwards_button, arrow_up_small
+⏫ | fast_up_button, arrow_double_up
+🔽 | downwards_button, arrow_down_small
+⏬ | fast_down_button, arrow_double_down
+⏸️ | pause_button
+⏹️ | stop_button
+⏺️ | record_button
+⏏️ | eject_button
+🎦 | cinema
+🔅 | dim_button, low_brightness
+🔆 | bright_button, high_brightness
+📶 | antenna_bars, signal_strength
+🛜 | wireless
+📳 | vibration_mode
+📴 | mobile_phone_off
+♀️ | female_sign
+♂️ | male_sign
+⚧️ | transgender_symbol
+✖️ | multiply, heavy_multiplication_x
+➕ | plus, heavy_plus_sign
+➖ | minus, heavy_minus_sign
+➗ | divide, heavy_division_sign
+🟰 | heavy_equals_sign
+♾️ | infinity
+‼️ | double_exclamation_mark, bangbang
+⁉️ | exclamation_question_mark, interrobang
+❓ | red_question_mark, question
+❔ | white_question_mark, grey_question
+❕ | white_exclamation_mark, grey_exclamation
+❗ | red_exclamation_mark, heavy_exclamation_mark, exclamation
+〰️ | wavy_dash
+💱 | currency_exchange
+💲 | heavy_dollar_sign
+⚕️ | medical_symbol
+♻️ | recycling_symbol, recycle
+⚜️ | fleur_de_lis
+🔱 | trident_emblem, trident
+📛 | name_badge
+🔰 | japanese_symbol_for_beginner, beginner
+⭕ | hollow_red_circle, o
+✅ | check_mark_button, white_check_mark
+☑️ | check_box_with_check, ballot_box_with_check
+✔️ | check_mark, heavy_check_mark
+❌ | cross_mark, x
+❎ | cross_mark_button, negative_squared_cross_mark
+➰ | curly_loop
+➿ | double_curly_loop, loop
+〽️ | part_alternation_mark
+✳️ | eight_spoked_asterisk
+✴️ | eight_pointed_star, eight_pointed_black_star
+❇️ | sparkle
+©️ | copyright
+®️ | registered
+™️ | trade_mark, tm
+#️⃣ | #, hash
+*️⃣ | *, asterisk
+0️⃣ | 0, zero
+1️⃣ | 1, one
+2️⃣ | 2, two
+3️⃣ | 3, three
+4️⃣ | 4, four
+5️⃣ | 5, five
+6️⃣ | 6, six
+7️⃣ | 7, seven
+8️⃣ | 8, eight
+9️⃣ | 9, nine
+🔟 | 10, keycap_ten
+🔠 | input_latin_uppercase, capital_abcd
+🔡 | input_latin_lowercase, abcd
+🔢 | input_numbers, 1234
+🔣 | input_symbols, symbols
+🔤 | input_latin_letters, abc
+🅰️ | a_button_blood_type, a
+🆎 | ab_button_blood_type, ab
+🅱️ | b_button_blood_type, b
+🆑 | cl_button, cl
+🆒 | cool_button, cool
+🆓 | free_button, free
+ℹ️ | information, information_source
+🆔 | id_button, id
+Ⓜ️ | circled_m, m
+🆕 | new_button, new
+🆖 | ng_button, ng
+🅾️ | o_button_blood_type, o2
+🆗 | ok_button, ok
+🅿️ | p_button, parking
+🆘 | sos_button, sos
+🆙 | up_button, up
+🆚 | vs_button, vs
+🈁 | japanese_here_button, koko
+🈂️ | japanese_service_charge_button, sa
+🈷️ | japanese_monthly_amount_button, u6708
+🈶 | japanese_not_free_of_charge_button, u6709
+🈯 | japanese_reserved_button, u6307
+🉐 | japanese_bargain_button, ideograph_advantage
+🈹 | japanese_discount_button, u5272
+🈚 | japanese_free_of_charge_button, u7121
+🈲 | japanese_prohibited_button, u7981
+🉑 | japanese_acceptable_button, accept
+🈸 | japanese_application_button, u7533
+🈴 | japanese_passing_grade_button, u5408
+🈳 | japanese_vacancy_button, u7a7a
+㊗️ | japanese_congratulations_button, congratulations
+㊙️ | japanese_secret_button, secret
+🈺 | japanese_open_for_business_button, u55b6
+🈵 | japanese_no_vacancy_button, u6e80
+🔴 | red_circle
+🟠 | orange_circle
+🟡 | yellow_circle
+🟢 | green_circle
+🔵 | blue_circle, large_blue_circle
+🟣 | purple_circle
+🟤 | brown_circle
+⚫ | black_circle
+⚪ | white_circle
+🟥 | red_square
+🟧 | orange_square
+🟨 | yellow_square
+🟩 | green_square
+🟦 | blue_square
+🟪 | purple_square
+🟫 | brown_square
+⬛ | black_large_square
+⬜ | white_large_square
+◼️ | black_medium_square
+◻️ | white_medium_square
+◾ | black_medium_small_square
+◽ | white_medium_small_square
+▪️ | black_small_square
+▫️ | white_small_square
+🔶 | large_orange_diamond
+🔷 | large_blue_diamond
+🔸 | small_orange_diamond
+🔹 | small_blue_diamond
+🔺 | red_triangle_pointed_up, small_red_triangle
+🔻 | red_triangle_pointed_down, small_red_triangle_down
+💠 | diamond_with_a_dot, diamond_shape_with_a_dot_inside
+🔘 | radio_button
+🔳 | white_square_button
+🔲 | black_square_button
+🏁 | chequered_flag, checkered_flag
+🚩 | triangular_flag, triangular_flag_on_post
+🎌 | crossed_flags
+🏴 | black_flag
+🏳️ | white_flag
+🏳️‍🌈 | rainbow_flag
+🏳️‍⚧️ | transgender_flag
+🏴‍☠️ | pirate_flag
+🇦🇨 | ascension_island
+🇦🇩 | andorra
+🇦🇪 | united_arab_emirates, flag-ae
+🇦🇫 | afghanistan, flag-af
+🇦🇬 | antigua_barbuda, flag-ag
+🇦🇮 | anguilla, flag-ai
+🇦🇱 | albania, flag-al
+🇦🇲 | armenia, flag-am
+🇦🇴 | angola, flag-ao
+🇦🇶 | antarctica, flag-aq
+🇦🇷 | argentina, flag-ar
+🇦🇸 | american_samoa, flag-as
+🇦🇹 | austria, flag-at
+🇦🇺 | australia, flag-au
+🇦🇼 | aruba, flag-aw
+🇦🇽 | aland_islands, flag-ax
+🇦🇿 | azerbaijan
+🇧🇦 | bosnia_herzegovina
+🇧🇧 | barbados
+🇧🇩 | bangladesh
+🇧🇪 | belgium
+🇧🇫 | burkina_faso
+🇧🇬 | bulgaria
+🇧🇭 | bahrain
+🇧🇮 | burundi
+🇧🇯 | benin
+🇧🇱 | st_barthelemy
+🇧🇲 | bermuda
+🇧🇳 | brunei
+🇧🇴 | bolivia
+🇧🇶 | caribbean_netherlands
+🇧🇷 | brazil
+🇧🇸 | bahamas
+🇧🇹 | bhutan
+🇧🇻 | bouvet_island
+🇧🇼 | botswana
+🇧🇾 | belarus
+🇧🇿 | belize
+🇨🇦 | canada
+🇨🇨 | cocos_keeling_islands, cocos_islands
+🇨🇩 | congo_kinshasa
+🇨🇫 | central_african_republic
+🇨🇬 | congo_brazzaville
+🇨🇭 | switzerland
+🇨🇮 | cote_divoire
+🇨🇰 | cook_islands
+🇨🇱 | chile
+🇨🇲 | cameroon
+🇨🇳 | china, cn
+🇨🇴 | colombia
+🇨🇵 | clipperton_island
+🇨🇷 | costa_rica
+🇨🇺 | cuba
+🇨🇻 | cape_verde
+🇨🇼 | curacao
+🇨🇽 | christmas_island
+🇨🇾 | cyprus
+🇨🇿 | czechia, czech_republic
+🇩🇪 | germany, de
+🇩🇬 | diego_garcia
+🇩🇯 | djibouti
+🇩🇰 | denmark
+🇩🇲 | dominica
+🇩🇴 | dominican_republic
+🇩🇿 | algeria
+🇪🇦 | ceuta_melilla
+🇪🇨 | ecuador
+🇪🇪 | estonia
+🇪🇬 | egypt
+🇪🇭 | western_sahara
+🇪🇷 | eritrea
+🇪🇸 | spain, es
+🇪🇹 | ethiopia
+🇪🇺 | european_union, eu
+🇫🇮 | finland
+🇫🇯 | fiji
+🇫🇰 | falkland_islands
+🇫🇲 | micronesia
+🇫🇴 | faroe_islands
+🇫🇷 | france, fr
+🇬🇦 | gabon
+🇬🇧 | united_kingdom, gb, uk
+🇬🇩 | grenada
+🇬🇪 | georgia
+🇬🇫 | french_guiana
+🇬🇬 | guernsey
+🇬🇭 | ghana
+🇬🇮 | gibraltar
+🇬🇱 | greenland
+🇬🇲 | gambia
+🇬🇳 | guinea
+🇬🇵 | guadeloupe
+🇬🇶 | equatorial_guinea
+🇬🇷 | greece
+🇬🇸 | south_georgia_south_sandwich_islands
+🇬🇹 | guatemala
+🇬🇺 | guam
+🇬🇼 | guinea_bissau
+🇬🇾 | guyana
+🇭🇰 | hong_kong
+🇭🇲 | heard_mcdonald_islands
+🇭🇳 | honduras
+🇭🇷 | croatia
+🇭🇹 | haiti
+🇭🇺 | hungary
+🇮🇨 | canary_islands
+🇮🇩 | indonesia
+🇮🇪 | ireland
+🇮🇱 | israel
+🇮🇲 | isle_of_man
+🇮🇳 | india
+🇮🇴 | british_indian_ocean_territory
+🇮🇶 | iraq
+🇮🇷 | iran
+🇮🇸 | iceland
+🇮🇹 | italy, it
+🇯🇪 | jersey
+🇯🇲 | jamaica
+🇯🇴 | jordan
+🇯🇵 | japan, jp
+🇰🇪 | kenya
+🇰🇬 | kyrgyzstan
+🇰🇭 | cambodia
+🇰🇮 | kiribati
+🇰🇲 | comoros
+🇰🇳 | st_kitts_nevis
+🇰🇵 | north_korea
+🇰🇷 | south_korea, kr
+🇰🇼 | kuwait
+🇰🇾 | cayman_islands
+🇰🇿 | kazakhstan
+🇱🇦 | laos
+🇱🇧 | lebanon
+🇱🇨 | st_lucia
+🇱🇮 | liechtenstein
+🇱🇰 | sri_lanka
+🇱🇷 | liberia
+🇱🇸 | lesotho
+🇱🇹 | lithuania
+🇱🇺 | luxembourg
+🇱🇻 | latvia
+🇱🇾 | libya
+🇲🇦 | morocco
+🇲🇨 | monaco
+🇲🇩 | moldova
+🇲🇪 | montenegro
+🇲🇫 | st_martin
+🇲🇬 | madagascar
+🇲🇭 | marshall_islands
+🇲🇰 | north_macedonia, macedonia
+🇲🇱 | mali
+🇲🇲 | myanmar_burma, myanmar
+🇲🇳 | mongolia
+🇲🇴 | macao, macau
+🇲🇵 | northern_mariana_islands
+🇲🇶 | martinique
+🇲🇷 | mauritania
+🇲🇸 | montserrat
+🇲🇹 | malta
+🇲🇺 | mauritius
+🇲🇻 | maldives
+🇲🇼 | malawi
+🇲🇽 | mexico
+🇲🇾 | malaysia
+🇲🇿 | mozambique
+🇳🇦 | namibia
+🇳🇨 | new_caledonia
+🇳🇪 | niger
+🇳🇫 | norfolk_island
+🇳🇬 | nigeria
+🇳🇮 | nicaragua
+🇳🇱 | netherlands
+🇳🇴 | norway
+🇳🇵 | nepal
+🇳🇷 | nauru
+🇳🇺 | niue
+🇳🇿 | new_zealand
+🇴🇲 | oman
+🇵🇦 | panama
+🇵🇪 | peru
+🇵🇫 | french_polynesia
+🇵🇬 | papua_new_guinea
+🇵🇭 | philippines
+🇵🇰 | pakistan
+🇵🇱 | poland
+🇵🇲 | st_pierre_miquelon
+🇵🇳 | pitcairn_islands
+🇵🇷 | puerto_rico
+🇵🇸 | palestinian_territories
+🇵🇹 | portugal
+🇵🇼 | palau
+🇵🇾 | paraguay
+🇶🇦 | qatar
+🇷🇪 | reunion
+🇷🇴 | romania
+🇷🇸 | serbia
+🇷🇺 | russia, ru
+🇷🇼 | rwanda
+🇸🇦 | saudi_arabia
+🇸🇧 | solomon_islands
+🇸🇨 | seychelles
+🇸🇩 | sudan
+🇸🇪 | sweden
+🇸🇬 | singapore
+🇸🇭 | st_helena
+🇸🇮 | slovenia
+🇸🇯 | svalbard_jan_mayen
+🇸🇰 | slovakia
+🇸🇱 | sierra_leone
+🇸🇲 | san_marino
+🇸🇳 | senegal
+🇸🇴 | somalia
+🇸🇷 | suriname
+🇸🇸 | south_sudan
+🇸🇹 | sao_tome_principe
+🇸🇻 | el_salvador
+🇸🇽 | sint_maarten
+🇸🇾 | syria
+🇸🇿 | eswatini, swaziland
+🇹🇦 | tristan_da_cunha
+🇹🇨 | turks_caicos_islands
+🇹🇩 | chad
+🇹🇫 | french_southern_territories
+🇹🇬 | togo
+🇹🇭 | thailand
+🇹🇯 | tajikistan
+🇹🇰 | tokelau
+🇹🇱 | timor_leste
+🇹🇲 | turkmenistan
+🇹🇳 | tunisia
+🇹🇴 | tonga
+🇹🇷 | turkiye, tr
+🇹🇹 | trinidad_tobago
+🇹🇻 | tuvalu
+🇹🇼 | taiwan
+🇹🇿 | tanzania
+🇺🇦 | ukraine
+🇺🇬 | uganda
+🇺🇲 | us_outlying_islands
+🇺🇳 | united_nations
+🇺🇸 | united_states, us
+🇺🇾 | uruguay
+🇺🇿 | uzbekistan
+🇻🇦 | vatican_city
+🇻🇨 | st_vincent_grenadines
+🇻🇪 | venezuela
+🇻🇬 | british_virgin_islands
+🇻🇮 | us_virgin_islands
+🇻🇳 | vietnam
+🇻🇺 | vanuatu
+🇼🇫 | wallis_futuna
+🇼🇸 | samoa
+🇽🇰 | kosovo
+🇾🇪 | yemen
+🇾🇹 | mayotte
+🇿🇦 | south_africa
+🇿🇲 | zambia
+🇿🇼 | zimbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 | england
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 | scotland
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 | wales
