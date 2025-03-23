@@ -14,7 +14,7 @@ Scripts:
   - /static/scripts/copy-code.js
 ---
 
-# GitHub Pages workflow
+# {{.Title}}
 
 This is a basic GitHub Pages workflow that builds and deploys a static site using GitHub Actions. This workflow is used on this site and is a good starting point for a simple static site.
 
