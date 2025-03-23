@@ -27,7 +27,7 @@ func (m *MinifyTransformer) getMinifier() *minify.M {
 	return m.minifier
 }
 
-func (m *MinifyTransformer) Transform(asset *Asset, _ map[string]any) error {
+func (m *MinifyTransformer) Transform(asset *Asset) error {
 	fileType := path.Ext(asset.Path)
 	mimeType := mime.TypeByExtension(fileType)
 

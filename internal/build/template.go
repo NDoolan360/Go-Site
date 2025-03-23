@@ -9,6 +9,7 @@ import (
 )
 
 type TemplateTransformer struct {
+	GlobalData      map[string]any
 	WrapperTemplate *WrapperTemplate
 	Components      map[string]*Asset
 }
@@ -18,7 +19,7 @@ type WrapperTemplate struct {
 	ChildBlockName string
 }
 
-func (t TemplateTransformer) Transform(asset *Asset, params map[string]any) error {
+func (t TemplateTransformer) Transform(asset *Asset) error {
 	if asset.Path == "/base_template.html" {
 		for name, component := range t.Components {
 			fmt.Println(component.Path, name)
@@ -28,7 +29,7 @@ func (t TemplateTransformer) Transform(asset *Asset, params map[string]any) erro
 
 	var primarySource []byte
 	templateMeta := map[string]any{
-		"Global": params,
+		"Global": t.GlobalData,
 		"Asset":  asset.Meta,
 	}
 

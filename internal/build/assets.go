@@ -17,15 +17,15 @@ type Asset struct {
 type Assets []*Asset
 
 type Transformer interface {
-	Transform(*Asset, map[string]any) error
+	Transform(*Asset) error
 }
 
 type Filter func(Asset) bool
 
-func (assets Assets) Transform(params map[string]any, transformers ...Transformer) error {
+func (assets Assets) Transform(transformers ...Transformer) error {
 	for _, transformer := range transformers {
 		for _, asset := range assets {
-			if err := transformer.Transform(asset, params); err != nil {
+			if err := transformer.Transform(asset); err != nil {
 				return err
 			}
 		}

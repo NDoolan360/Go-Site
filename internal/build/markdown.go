@@ -52,7 +52,7 @@ func (MarkdownTransformer) newGoldmark(root string) goldmark.Markdown {
 	)
 }
 
-func (p MarkdownTransformer) Transform(asset *Asset, _ map[string]any) error {
+func (p MarkdownTransformer) Transform(asset *Asset) error {
 	if path.Ext(asset.Path) != ".md" {
 		return nil
 	}
