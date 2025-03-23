@@ -165,6 +165,8 @@ img {
   display: block;
   margin: var(--space-md) auto;
   max-width: 100%;
+  background-image: url('/static/images/default.webp');
+  background-size: cover;
 }
 
 p,
