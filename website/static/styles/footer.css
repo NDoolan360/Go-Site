@@ -1,0 +1,31 @@
+footer,
+#footer {
+  display: flex;
+  flex-flow: row-reverse wrap;
+  justify-content: space-around;
+  gap: var(--space-xs) var(--space-lg);
+
+  font-size: 15px;
+
+  --foreground: var(--comment);
+
+  p,
+  ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 0 var(--space-sm);
+
+    &,
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      border-bottom: none;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+  }
+}
