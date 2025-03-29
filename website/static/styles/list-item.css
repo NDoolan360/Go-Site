@@ -106,6 +106,7 @@ ul:has(.list-item) {
         border: 1px solid var(--comment);
         padding: var(--space-xs) var(--space-sm);
         font-size: 12px;
+        line-height: 1rem;
         font-weight: 500;
         max-height: 1.6rem;
         max-width: 100%;
