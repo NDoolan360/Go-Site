@@ -2,7 +2,6 @@ package build
 
 import (
 	"bytes"
-	"fmt"
 	"maps"
 	"path"
 	"text/template"
@@ -21,9 +20,6 @@ type WrapperTemplate struct {
 
 func (t TemplateTransformer) Transform(asset *Asset) error {
 	if asset.Path == "/base_template.html" {
-		for name, component := range t.Components {
-			fmt.Println(component.Path, name)
-		}
 		return nil
 	}
 

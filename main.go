@@ -15,8 +15,18 @@ var files embed.FS
 
 func main() {
 	site := build.Build{}
-	site.WalkDir(files, "website")
+	site.WalkDir(files, "website", false)
 	site.Transform(build.CollectFrontMatter{})
+
+	// Add flash-cards tool to the site from git repository
+	if err := site.FromGit(
+		"https://github.com/NDoolan360/flash-cards",
+		"main",
+		"tools/flash-cards",
+	); err != nil {
+		panic(err)
+	}
+	site.Filter(withParentDir("/tools/flash-cards")).AddToMeta("HideSocialLinks", "true").AddToMeta("IsDraft", "true")
 
 	params := map[string]any{
 		"PublishTime": time.Now(),
@@ -83,7 +93,7 @@ func main() {
 
 	// Write to dir "build"
 	os.RemoveAll("build")
-	site.Write("build")
+	site.Filter(withoutMeta("IsDraft")).Write("build")
 
 	if os.Getenv("ENV") == "dev" {
 		devServer("8888", "build")

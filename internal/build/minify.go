@@ -18,7 +18,7 @@ type MinifyTransformer struct {
 func (m *MinifyTransformer) getMinifier() *minify.M {
 	if m.minifier == nil {
 		m.minifier = minify.New()
-		m.minifier.Add("text/html", &html.Minifier{})
+		m.minifier.Add("text/html", &html.Minifier{KeepEndTags: true})
 		m.minifier.Add("text/css", &css.Minifier{})
 		m.minifier.Add("text/javascript", &js.Minifier{})
 		m.minifier.Add("image/svg+xml", &svg.Minifier{})

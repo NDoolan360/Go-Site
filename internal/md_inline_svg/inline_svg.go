@@ -126,12 +126,12 @@ func (r *inlineSvgRenderer) renderImage(w util.BufWriter, source []byte, node as
 		split := bytes.Split(src, []byte("<svg"))
 		_, _ = w.Write(split[0])
 		_, _ = w.WriteString("<svg")
-		r.applyAttributes(w, n, source)
+		r.applyAttributes(w, n, source, true)
 		_, _ = w.Write(split[1])
 	} else {
 		_, _ = w.WriteString(`<img`)
 		r.writeSource(w, n, src, err)
-		r.applyAttributes(w, n, source)
+		r.applyAttributes(w, n, source, false)
 		if r.XHTML {
 			_, _ = w.WriteString(" />")
 		} else {
@@ -156,10 +156,12 @@ func (r *inlineSvgRenderer) writeSource(w util.BufWriter, n *ast.Image, src []by
 }
 
 // applyAttributes writes attributes of the image element
-func (r *inlineSvgRenderer) applyAttributes(w util.BufWriter, n *ast.Image, source []byte) {
-	_, _ = w.WriteString(` alt="`)
-	_, _ = w.Write(nodeToHTMLText(n, source))
-	_ = w.WriteByte('"')
+func (r *inlineSvgRenderer) applyAttributes(w util.BufWriter, n *ast.Image, source []byte, exclAlt bool) {
+	if !exclAlt {
+		_, _ = w.WriteString(` alt="`)
+		_, _ = w.Write(nodeToHTMLText(n, source))
+		_ = w.WriteByte('"')
+	}
 	if n.Title != nil {
 		_, _ = w.WriteString(` title="`)
 		r.Writer.Write(w, n.Title)
