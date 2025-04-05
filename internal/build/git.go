@@ -22,39 +22,4 @@ func (build *Build) FromGit(url string, branch string, outDir string) error {
 	}
 
 	return build.WalkDir(os.DirFS("tmp"), outDir, true)
-
-	// wt, err := repo.Worktree()
-	// if err != nil {
-	// 	return fmt.Errorf("could not get worktree: %v", err)
-	// }
-
-	// if err := wt.Checkout(&git.CheckoutOptions{
-	// 	Branch: plumbing.NewBranchReferenceName(branch),
-	// }); err != nil {
-	// 	return fmt.Errorf("could not checkout tag: %v", err)
-	// }
-
-	// // Walk the file system and add files to the build
-	// return util.Walk(wt.Filesystem, ".",
-	// 	func(filepath string, file fs.FileInfo, err error) error {
-	// 		if file.IsDir() {
-	// 			return nil
-	// 		}
-
-	// 		// Get the file content
-	// 		content, err := util.ReadFile(wt.Filesystem, filepath)
-	// 		if err != nil {
-	// 			return fmt.Errorf("could not read git worktree file %s: %v", filepath, err)
-	// 		}
-
-	// 		// Add the file to the build
-	// 		build.Assets = append(build.Assets, &Asset{
-	// 			Path: "/" + outDir + "/" + filepath,
-	// 			Meta: map[string]any{},
-	// 			Data: bytes.TrimSpace(content),
-	// 		})
-
-	// 		return nil
-	// 	},
-	// )
 }
