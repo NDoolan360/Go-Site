@@ -2,16 +2,7 @@
 
 My custom site and static site generator.
 
-## TODO
-
-- Move to different Markdown parser or find a way to have
-  text/template strings persist after transformation
-
-- Deploy to a hosting service
-  - e.g. Netlify, Github pages, Cloudflare, ...
-   - https://github.com/emad-elsaid/xlog/blob/master/tutorials/Create%20your%20own%20digital%20garden%20on%20Github.md
-- Add build badges to README
-- Move build tooling to it's own repo
+[![Build and Deploy](https://github.com/NDoolan360/Go-Site/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/NDoolan360/Go-Site/actions/workflows/deploy.yml)
 
 ## Environment Variables
 
@@ -27,3 +18,14 @@ My custom site and static site generator.
 ```bash
 docker-compose up
 ```
+
+## Roadmap
+
+- [x] Add Docker support
+- [x] Add Github Actions deployment
+- [ ] Add Github Actions automated testing
+- [ ] Add RSS feed
+- [ ] Add article/project pagination
+- [ ] Add article/project search
+- [ ] Add cron to refresh data from external sources
+- [ ] Build a custom markdown parser

@@ -11,10 +11,9 @@ IsStatic: true
 - [About](/about.html)
 - [Articles](/articles.html)
 - [Projects](/projects.html)
-- [Source](https://github.com/NDoolan360/Go-Site/tree/main/website)
 
   </nav>
 
-© {{.}} Nathan Doolan
+© {{.Global.PublishTime.Year}} Nathan Doolan
 
 </footer>

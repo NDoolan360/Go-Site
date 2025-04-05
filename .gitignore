@@ -8,7 +8,6 @@ logs
 *.env*
 !.env.example
 .DS_Store
-tmp
 
 # Go files
 go.work
@@ -18,3 +17,4 @@ go.work.sum
 
 # Build artifacts
 /build
+/tmp

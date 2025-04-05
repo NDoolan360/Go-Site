@@ -1,5 +1,5 @@
 ---
-Title: Emojis, Shortcodes and Zero Width Joiners
+Title: Emojis, shortcodes and zero width joiners
 Description:
   Thoughts on working with emojis and zero width joiners as runes in go.
 Created: 2025-03-08
@@ -16,7 +16,7 @@ Scripts:
 
 ![{{.Image.Alt}}]({{.Image.Src}})
 
-# Emojis, Shortcodes and Zero Width Joiners
+# {{.Title}}
 
 This site uses the [goldmark markdown emoji extension][goldmark-emoji-extension] to render the markdown files into html. The goldmark markdown processor uses Github's markdown shortcodes to render emojis in the markdown files. Unfortunately, the shortcodes provided by Github are out of date and don't include all the emojis that unicode has to offer. Naturally, I wanted to have them all, so I set out to add the full list of unicode emojis and their shortcodes to my site.
 

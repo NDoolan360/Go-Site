@@ -15,13 +15,13 @@
     <link rel="stylesheet" href="/static/styles/header.css">
     <link rel="stylesheet" href="/static/styles/footer.css">
     {{range .Asset.Styles}}<link rel="stylesheet" href="{{.}}">{{end}}
-    {{range .Asset.Scripts}}<script defer src="{{.}}"></script>{{end}}
+    {{range .Asset.Scripts}}<script defer src="{{.}}" type="module"></script>{{end}}
   </head>
   <body>
     {{template "header" .}}
     <main id="main">
       {{template "content" .}}
     </main>
-    {{template "footer" .Global.PublishTime.Year}}
+    {{template "footer" .}}
   </body>
 </html>

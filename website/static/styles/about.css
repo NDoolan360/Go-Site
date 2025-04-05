@@ -3,7 +3,7 @@ img[alt="Profile Image"] {
   border-radius: 50%;
 }
 
-:not(:is(header, #header))>ul {
+:not(:is(header, #header, nav))>ul {
   list-style: none;
   display: flex;
   margin: 0;

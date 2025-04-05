@@ -9,7 +9,7 @@ ul:has(.list-item) {
     width: 100%;
     --image-width: 0;
 
-    @media screen and (min-width: 600px) {
+    @media screen and (min-width: 650px) {
       &:has(img) {
         --image-width: 12rem;
       }
@@ -106,6 +106,7 @@ ul:has(.list-item) {
         border: 1px solid var(--comment);
         padding: var(--space-xs) var(--space-sm);
         font-size: 12px;
+        line-height: 1rem;
         font-weight: 500;
         max-height: 1.6rem;
         max-width: 100%;
@@ -165,7 +166,7 @@ ul:has(.list-item) {
       color: var(--cyan);
       background-color: color-mix(in srgb, var(--comment) 10%, transparent);
 
-      @media (prefers-reduced-motion: no-preference) {
+      @media screen and (prefers-reduced-motion: no-preference) and (min-width: 650px) {
         &:has(img) {
           --image-width: 18rem;
         }
