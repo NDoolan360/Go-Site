@@ -5,14 +5,14 @@ IsStatic: true
 ---
 
 <footer id="footer">
-  <nav>
+<nav>
 
 - [Home](/)
 - [About](/about.html)
 - [Articles](/articles.html)
 - [Projects](/projects.html)
 
-  </nav>
+</nav>
 
 © {{.Global.PublishTime.Year}} Nathan Doolan
 
