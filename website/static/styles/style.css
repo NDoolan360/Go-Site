@@ -5,6 +5,7 @@
 :root {
   --background: #10201B;
   --foreground: #DBF0EA;
+  --accent: var(--cyan);
   --comment: #58726A;
   --cyan: #1DCFA2;
   --green: #61C95A;
@@ -84,13 +85,13 @@ a svg * {
 
 a:hover,
 a:focus-visible {
-  color: var(--cyan);
-  border-bottom-color: var(--cyan);
+  color: var(--accent);
+  border-bottom-color: var(--accent);
 }
 
 a:hover>svg *,
 a:focus-visible>svg * {
-  fill: var(--cyan);
+  fill: var(--accent);
 }
 
 h1,
@@ -152,7 +153,7 @@ ol {
 }
 
 blockquote {
-  border-left: 4px solid var(--cyan);
+  border-left: 4px solid var(--accent);
   padding: 0 0 0 var(--space-md);
   color: var(--comment);
 }
