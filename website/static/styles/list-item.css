@@ -162,8 +162,8 @@ ul:has(.list-item) {
 
     /* Hover / Focus */
     &:is(:hover, :focus-within) {
-      border-color: var(--cyan);
-      color: var(--cyan);
+      border-color: var(--accent);
+      color: var(--accent);
       background-color: color-mix(in srgb, var(--comment) 10%, transparent);
 
       @media screen and (prefers-reduced-motion: no-preference) and (min-width: 650px) {

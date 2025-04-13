@@ -26,7 +26,7 @@ func main() {
 	); err != nil {
 		panic(err)
 	}
-	site.Filter(withParentDir("/tools/flash-cards")).AddToMeta("HideSocialLinks", "true").AddToMeta("IsDraft", "true")
+	site.Filter(withParentDir("/tools/flash-cards")).AddToMeta("HideSocialLinks", "true")
 
 	params := map[string]any{
 		"PublishTime": time.Now(),
