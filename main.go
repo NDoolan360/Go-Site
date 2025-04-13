@@ -2,6 +2,7 @@ package main
 
 import (
 	"embed"
+	"log"
 	"os"
 	"strings"
 	"time"
@@ -24,7 +25,8 @@ func main() {
 		"main",
 		"tools/flash-cards",
 	); err != nil {
-		panic(err)
+		log.Fatalf("Failed to clone repository: %v", err)
+		os.Exit(1)
 	}
 	site.Filter(withParentDir("/tools/flash-cards")).AddToMeta("HideSocialLinks", "true")
 
