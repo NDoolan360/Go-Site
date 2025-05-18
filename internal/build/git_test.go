@@ -6,9 +6,11 @@ import (
 	"path/filepath"
 	"strings"
 	"testing"
+	"time"
 
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
+	"github.com/go-git/go-git/v5/plumbing/object"
 )
 
 func TestFromGit(t *testing.T) {
@@ -127,11 +129,13 @@ func setupGitRepo(t *testing.T, files map[string]string, initialBranchName strin
 	}
 
 	commitMsg := "Initial commit"
-	_, err = w.Commit(commitMsg, &git.CommitOptions{})
-	if err != nil {
-		cleanupFunc()
-		t.Fatalf("Failed to commit changes: %v", err)
-	}
+	_, err = w.Commit(commitMsg, &git.CommitOptions{
+		Author: &object.Signature{
+			Name:  "Test Author",
+			Email: "test@example.com",
+			When:  time.Now(),
+		},
+	})
 
 	// Set up the initial branch
 	initialBranchRefName := plumbing.NewBranchReferenceName(initialBranchName)
