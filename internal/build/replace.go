@@ -1,4 +1,3 @@
-// TODO write a string replacer transformer
 package build
 
 import "bytes"

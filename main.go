@@ -32,7 +32,7 @@ func main() {
 
 	params := map[string]any{
 		"PublishTime": time.Now(),
-		"Projects":    getProjects().SortByCreatedDate(),
+		"Projects":    getProjects(),
 	}
 
 	var components build.Assets

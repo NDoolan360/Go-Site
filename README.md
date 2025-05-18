@@ -23,7 +23,7 @@ docker-compose up
 
 - [x] Add Docker support
 - [x] Add Github Actions deployment
-- [ ] Add Github Actions automated testing
+- [x] Add Github Actions automated testing
 - [ ] Add RSS feed
 - [ ] Add article/project pagination
 - [ ] Add article/project search

@@ -89,6 +89,7 @@ func (Cults3d) Parse(data []byte) (projects Projects, err error) {
 			continue
 		}
 
+		// Skip projects with low downloads
 		if project.Downloads < MIN_DOWNLOAD_CUTOFF {
 			continue
 		}
