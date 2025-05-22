@@ -15,6 +15,21 @@ import (
 var files embed.FS
 
 func main() {
+	// Verify environment variables
+	for _, env := range []string{
+		"ENV",
+		"GITHUB_USERNAME",
+		"GITHUB_TOKEN",
+		"CULTS3D_USERNAME",
+		"CULTS3D_API_KEY",
+		"BGG_GEEKLIST",
+	} {
+		if _, ok := os.LookupEnv(env); !ok {
+			log.Fatalf("Missing environment variable: %s", env)
+			os.Exit(1)
+		}
+	}
+
 	site := build.Build{}
 	site.WalkDir(files, "website", false)
 	site.Transform(build.CollectFrontMatter{})
