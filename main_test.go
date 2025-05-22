@@ -7,6 +7,13 @@ import (
 )
 
 func TestMain(t *testing.T) {
+	os.Setenv("ENV", "test")
+	os.Setenv("GITHUB_USERNAME", "test")
+	os.Setenv("GITHUB_TOKEN", "test")
+	os.Setenv("CULTS3D_USERNAME", "test")
+	os.Setenv("CULTS3D_API_KEY", "test")
+	os.Setenv("BGG_GEEKLIST", "test")
+
 	dir := "build"
 
 	main()
