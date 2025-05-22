@@ -3,8 +3,6 @@ package build
 import (
 	"os"
 	"path"
-	"slices"
-	"strings"
 )
 
 type Asset struct {
@@ -48,6 +46,10 @@ func (assets Assets) Write(outDir string) error {
 }
 
 func (assets *Assets) Pop(filters ...Filter) Assets {
+	if len(filters) == 0 {
+		return nil
+	}
+
 	keep := make(Assets, 0, len(*assets))
 	pop := make(Assets, 0, len(*assets))
 
@@ -71,6 +73,10 @@ func (assets *Assets) Pop(filters ...Filter) Assets {
 
 // Returns a new Assets with only the assets that pass all the filters
 func (assets Assets) Filter(filters ...Filter) Assets {
+	if len(filters) == 0 {
+		return assets
+	}
+
 	return assets.Pop(filters...)
 }
 
@@ -84,56 +90,6 @@ func (assets Assets) ToMap(keyFromMeta string) map[string]*Asset {
 	return m
 }
 
-func (assets Assets) SortBy(metaDataField string) Assets {
-	slices.SortFunc(assets, func(i, j *Asset) int {
-		stringI, okI := i.Meta[metaDataField].(string)
-		stringJ, okJ := j.Meta[metaDataField].(string)
-		if okI && okJ {
-			return strings.Compare(stringJ, stringI)
-		}
-
-		stringArrayI, okI := i.Meta[metaDataField].([]any)
-		stringArrayJ, okJ := j.Meta[metaDataField].([]any)
-		if okI && okJ {
-			return len(stringArrayJ) - len(stringArrayI)
-		}
-
-		return 0
-	})
-
-	return assets
-}
-
-func (assets Assets) AddToMeta(metaKey string, value string) Assets {
-	for _, asset := range assets {
-		// If the meta is nil, skip
-		if asset.Meta == nil {
-			continue
-		}
-
-		asset.Meta[metaKey] = value
-	}
-
-	return assets
-}
-
-func (assets Assets) AddToMetaArray(metaKey string, value string) Assets {
-	for _, asset := range assets {
-		// If the meta is nil, skip
-		if asset.Meta == nil {
-			continue
-		}
-
-		if asset.Meta[metaKey] == nil {
-			asset.Meta[metaKey] = []string{value}
-		} else if _, ok := asset.Meta[metaKey].([]string); ok {
-			asset.Meta[metaKey] = append(asset.Meta[metaKey].([]string), value)
-		}
-	}
-
-	return assets
-}
-
 func (assets Assets) SetMetaFunc(metaKey string, fn func(Asset) string) Assets {
 	for _, asset := range assets {
 		// If the meta is nil, skip
@@ -145,4 +101,10 @@ func (assets Assets) SetMetaFunc(metaKey string, fn func(Asset) string) Assets {
 	}
 
 	return assets
+}
+
+func (assets Assets) AddToMeta(metaKey string, value string) Assets {
+	return assets.SetMetaFunc(metaKey, func(asset Asset) string {
+		return value
+	})
 }

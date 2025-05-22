@@ -1,0 +1,10 @@
+- [x] Add Docker support
+- [x] Add Github Actions deployment
+- [x] Add Github Actions automated testing
+- [ ] Add "Building with vanilla JS" article
+- [ ] Add "Testing in GitHub workflows" article
+- [ ] Add RSS feed
+- [ ] Add article/project pagination
+- [ ] Add article/project search
+- [ ] Add cron to refresh data from external sources
+- [ ] Build a custom markdown parser

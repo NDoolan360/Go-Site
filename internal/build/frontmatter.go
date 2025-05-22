@@ -17,6 +17,10 @@ func (p CollectFrontMatter) Transform(asset *Asset) error {
 		return err
 	}
 
+	if asset.Meta == nil {
+		asset.Meta = make(map[string]any)
+	}
+
 	maps.Copy(asset.Meta, meta)
 	asset.Data = rest
 

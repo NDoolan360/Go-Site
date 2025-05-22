@@ -32,6 +32,19 @@
             "display",
             "screen"
           ]
+        },
+        {
+          "name": "Not very interesting",
+          "url": "https://cults3d.com/en/3d-model/gadget/not-very-interesting",
+          "description": "Test description.",
+          "downloadsCount": 1,
+          "publishedAt": "2022-08-16T05:59:23Z",
+          "illustrationImageUrl": "https://files.cults3d.com/uploaders/20027643/illustration-file/123b4c8e-0a2f-4d1b-8a5f-6c7d9e5f3a2b/Not-very-interesting.png",
+          "tags": [
+            "not",
+            "very",
+            "interesting"
+          ]
         }
       ]
     }

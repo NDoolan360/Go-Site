@@ -74,10 +74,10 @@ func GetProjects(hosts map[string]Host) (Projects, error) {
 		}
 	}
 
-	return filteredProjects, nil
+	return filteredProjects.sortByCreatedDate(), nil
 }
 
-func (projects Projects) SortByCreatedDate() Projects {
+func (projects Projects) sortByCreatedDate() Projects {
 	return slices.SortedFunc(
 		slices.Values(projects),
 		func(project1, project2 Project) int {
