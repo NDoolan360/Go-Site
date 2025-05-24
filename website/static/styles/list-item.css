@@ -62,7 +62,7 @@ ul:has(.list-item) {
 
       time {
         display: block;
-        color: var(--comment);
+        color: var(--foreground);
         font-size: 14px;
       }
     }
@@ -75,18 +75,17 @@ ul:has(.list-item) {
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-      color: var(--comment);
+      color: var(--foreground);
 
       >* {
-        color: var(--comment);
+        color: inherit;
         transition: color var(--animation-duration);
       }
     }
 
     ul {
       bottom: var(--space-md);
-
-      color: var(--comment);
+      color: var(--foreground);
 
       pointer-events: none;
 
@@ -123,6 +122,8 @@ ul:has(.list-item) {
           text-overflow: ellipsis;
           display: inline-block;
           max-width: 100%;
+
+          transition: color var(--animation-duration);
 
           .language-dot {
             display: inline-block;
@@ -164,7 +165,7 @@ ul:has(.list-item) {
     &:is(:hover, :focus-within) {
       border-color: var(--accent);
       color: var(--accent);
-      background-color: color-mix(in srgb, var(--comment) 10%, transparent);
+      background-color: color-mix(in srgb, var(--comment) 15%, transparent);
 
       @media screen and (prefers-reduced-motion: no-preference) and (min-width: 650px) {
         &:has(img) {
