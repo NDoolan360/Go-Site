@@ -13,6 +13,10 @@ permissions:
 jobs:
   test:
     uses: ./.github/workflows/test.yml
+    permissions:
+      contents: read
+      actions: read
+      pull-requests: write
 
   build:
     runs-on: ubuntu-latest
