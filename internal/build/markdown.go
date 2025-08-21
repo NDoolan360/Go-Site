@@ -9,7 +9,6 @@ import (
 	fences "github.com/stefanfritsch/goldmark-fences"
 	"github.com/yuin/goldmark"
 	g_emoji "github.com/yuin/goldmark-emoji"
-	g_emoji_def "github.com/yuin/goldmark-emoji/definition"
 	highlighting "github.com/yuin/goldmark-highlighting/v2"
 	meta "github.com/yuin/goldmark-meta"
 	"github.com/yuin/goldmark/extension"
@@ -21,16 +20,18 @@ import (
 	inlinesvg "internal/inline_svg"
 )
 
-type MarkdownTransformer struct{}
+type MarkdownTransformer struct {
+	root string
+}
 
-func (MarkdownTransformer) newGoldmark(root string) goldmark.Markdown {
+func (p MarkdownTransformer) newGoldmark() goldmark.Markdown {
 	return goldmark.New(
 		goldmark.WithExtensions(
 			extension.GFM,
 			&fences.Extender{},
 			inlinesvg.InlineSvg,
 			extension.Typographer,
-			g_emoji.New(g_emoji.WithEmojis(emojisAsGoldmark(emoji.GetEmojis()))),
+			g_emoji.New(g_emoji.WithEmojis(emoji.GetEmojisAsGoldmark())),
 			meta.Meta,
 			highlighting.NewHighlighting(
 				highlighting.WithWrapperRenderer(codeWrapperRenderer),
@@ -47,9 +48,13 @@ func (MarkdownTransformer) newGoldmark(root string) goldmark.Markdown {
 		),
 		goldmark.WithRendererOptions(
 			html.WithUnsafe(),
-			inlinesvg.WithParentPath(root),
+			inlinesvg.WithParentPath(p.root),
 		),
 	)
+}
+
+func (p MarkdownTransformer) WithRoot(root string) MarkdownTransformer {
+	return MarkdownTransformer{root: root}
 }
 
 func (p MarkdownTransformer) Transform(asset *Asset) error {
@@ -58,7 +63,7 @@ func (p MarkdownTransformer) Transform(asset *Asset) error {
 	}
 
 	html := &bytes.Buffer{}
-	if err := p.newGoldmark(asset.SourceRoot).Convert(asset.Data, html); err != nil {
+	if err := p.WithRoot(asset.SourceRoot).newGoldmark().Convert(asset.Data, html); err != nil {
 		return err
 	}
 
@@ -66,19 +71,6 @@ func (p MarkdownTransformer) Transform(asset *Asset) error {
 	asset.Data = html.Bytes()
 
 	return nil
-}
-
-func emojisAsGoldmark(emojis []emoji.Emoji) g_emoji_def.Emojis {
-	goldmarkEmojis := []g_emoji_def.Emoji{}
-	for _, e := range emojis {
-		goldmarkEmojis = append(goldmarkEmojis, g_emoji_def.Emoji{
-			Name:       e.Name,
-			Unicode:    e.Unicode,
-			ShortNames: append(e.ShortNames["Custom"], e.ShortNames["Github"]...),
-		})
-	}
-
-	return g_emoji_def.NewEmojis(goldmarkEmojis...)
 }
 
 func codeWrapperRenderer(w util.BufWriter, context highlighting.CodeBlockContext, entering bool) {
