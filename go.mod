@@ -1,20 +1,19 @@
-module github.com/NDoolan360/go-site
+module github.com/NDoolan360/doolan.dev
 
 go 1.23.4
 
-replace internal/build => ./internal/build
-
 replace internal/projects => ./internal/projects
 
-replace internal/inline_svg => ./internal/md_inline_svg
+replace internal/inlinesvg => ./internal/inlinesvg
 
 replace internal/emoji => ./internal/emoji
 
 require (
+	github.com/NDoolan360/site-tools v0.0.1
 	github.com/gin-contrib/static v1.1.5
 	github.com/gin-gonic/gin v1.10.0
-	internal/build v0.0.0
 	internal/emoji v0.0.0
+	internal/inlinesvg v0.0.0
 	internal/projects v0.0.0
 )
 
@@ -73,5 +72,4 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	internal/inline_svg v0.0.0 // indirect
 )

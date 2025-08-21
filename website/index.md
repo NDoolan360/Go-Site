@@ -10,7 +10,7 @@ ArticleLimit: 3
 ProjectLimit: 3
 ---
 
-## Hi, I'm Nathan 👋
+## Hi, I'm Nathan :wave:
 
 I'm passionate about programming, technology, and learning new things I enjoy working on a variety of projects, tinkering with new technologies, and documenting some of that here.
 

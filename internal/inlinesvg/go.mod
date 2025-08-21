@@ -1,4 +1,4 @@
-module github.com/NDoolan360/go-site/internal/inline_svg
+module github.com/NDoolan360/doolan.dev/internal/inlinesvg
 
 go 1.23.4
 

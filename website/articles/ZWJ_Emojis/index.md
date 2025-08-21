@@ -7,6 +7,9 @@ Modified: 2025-03-14
 Image:
   Src: /articles/ZWJ_Emojis/hero.webp
   Alt: A collection of emojis arranged in a spiral pattern.
+Tags:
+  - Emojis
+  - Unicode
 Styles:
   - /static/styles/article.css
   - /static/styles/code.css

@@ -7,3 +7,4 @@ services:
     env_file: ".env"
     volumes:
       - .:/app/
+      - ../site-tools:/site-tools
