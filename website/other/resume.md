@@ -93,7 +93,7 @@ Highly skilled and motivated Software Engineer with a proven track record of des
 - ### [Portfolio Website](https://n.doolan.dev)
   - A personal website to showcase my work and projects.
   - Uses a custom-built static site generator made with Go.
-  - [Github Repository](https://github.com/NDoolan360/Go-Site)
+  - [Github Repository](https://github.com/NDoolan360/doolan.dev)
 
 - ### [Etyml](https://etyml.doolan.dev/)
   - A prototype web game where you guess english words with a common root.

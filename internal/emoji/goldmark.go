@@ -1,11 +1,13 @@
 package emoji
 
 import (
+	"github.com/yuin/goldmark"
+	g_emoji "github.com/yuin/goldmark-emoji"
 	g_emoji_def "github.com/yuin/goldmark-emoji/definition"
 )
 
-func GetEmojisAsGoldmark() g_emoji_def.Emojis {
-	return emojisAsGoldmark(GetEmojis())
+func GoldMarkCustomEmojiExtension() goldmark.Extender {
+	return g_emoji.New(g_emoji.WithEmojis(emojisAsGoldmark(GetEmojis())))
 }
 
 func emojisAsGoldmark(emojis []Emoji) g_emoji_def.Emojis {

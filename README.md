@@ -1,9 +1,9 @@
-# Go-Site
+# doolan.dev
 
 My custom site and static site generator.
 
-[![Test](https://github.com/NDoolan360/Go-Site/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/NDoolan360/Go-Site/actions/workflows/test.yml)
-[![Build and Deploy](https://github.com/NDoolan360/Go-Site/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/NDoolan360/Go-Site/actions/workflows/deploy.yml)
+[![Test](https://github.com/NDoolan360/doolan.dev/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/NDoolan360/doolan.dev/actions/workflows/test.yml)
+[![Build and Deploy](https://github.com/NDoolan360/doolan.dev/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/NDoolan360/doolan.dev/actions/workflows/deploy.yml)
 
 ## Environment Variables
 

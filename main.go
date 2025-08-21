@@ -7,8 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"internal/build"
 	"internal/emoji"
+	"internal/inlinesvg"
+
+	. "github.com/NDoolan360/site-tools"
 )
 
 //go:embed "website"
@@ -30,69 +32,74 @@ func main() {
 		}
 	}
 
-	site := build.Build{}
-	site.WalkDir(files, "website", false)
-	site.Transform(build.CollectFrontMatter{})
-
-	// Add flash-cards tool to the site from git repository
-	if err := site.FromGit(
-		"https://github.com/NDoolan360/flash-cards",
-		"main",
-		"tools/flash-cards",
-	); err != nil {
-		log.Fatalf("Failed to clone repository: %v", err)
-		os.Exit(1)
+	site := Build{}
+	if err := site.FromDir(files, "website"); err != nil {
+		log.Fatalf("Failed to build site from directory: %v", err)
 	}
-	site.Filter(withParentDir("/tools/flash-cards")).AddToMeta("HideSocialLinks", "true")
+
+	site.Transform(CollectFrontMatter{})
+
+	// Add flash-cards tool to the site from github
+	path := "tools/flash-cards"
+	if err := site.FromGit("https://github.com/NDoolan360/flash-cards", "main", path); err != nil {
+		log.Fatalf("Failed to clone repository: %v", err)
+	}
+	site.Filter(WithParentDir(path)).AddToMeta("HideSocialLinks", "true")
+
+	// Reusable markdown transformer
+	mdTransformer := MarkdownTransformer{
+		Extensions:    Extensions{inlinesvg.InlineSvg, emoji.GoldMarkCustomEmojiExtension()},
+		RenderOptions: RenderOptions{inlinesvg.WithParentPath("website")},
+	}
 
 	params := map[string]any{
 		"PublishTime": time.Now(),
 		"Projects":    getProjects(),
 	}
 
-	var components build.Assets
-	components = site.Pop(withMeta("IsComponent"))
-	components.Filter(withMeta("IsStatic")).Transform(build.MarkdownTransformer{}.WithRoot("website"))
+	var components Assets
+	components = site.Pop(WithMeta("IsComponent"))
+	components.Filter(WithMeta("IsStatic")).Transform(mdTransformer)
 	componentMap := components.ToMap("Name")
 
 	// Pre-build articles as I want their meta for other pages
 	articles := site.Filter(
-		withParentDir("/articles"),
-		withoutMeta("IsDraft"),
-		withMeta("Title"),
-		withMeta("Description"),
-	).SetMetaFunc("URL", func(asset build.Asset) string {
+		WithParentDir("/articles"),
+		WithoutMeta("IsDraft"),
+		WithMeta("Title"),
+		WithMeta("Description"),
+	).SetMetaFunc("URL", func(asset Asset) string {
 		return strings.TrimSuffix(asset.Path, ".md") + ".html"
 	})
-	articles.Transform(build.TemplateTransformer{}, build.MarkdownTransformer{}.WithRoot("website"))
+	articles.Transform(TemplateTransformer{}, mdTransformer)
 	params["Articles"] = articles
 
 	// Pre-fill the emojis page
-	site.Filter(withPath("/other/emojis.md")).Transform(
-		build.TemplateTransformer{
+	site.Filter(WithPath("/other/emojis.md")).Transform(
+		TemplateTransformer{
 			GlobalData: map[string]any{"Emojis": emoji.GetEmojis()},
 		},
 	)
 
 	// Process markdown files
-	site.Filter(withExtensions(".md"), withoutMeta("IsDraft")).Transform(
-		build.TemplateTransformer{GlobalData: params, Components: componentMap},
-		build.MarkdownTransformer{}.WithRoot("website"),
+	site.Filter(WithExtensions(".md"), WithoutMeta("IsDraft")).Transform(
+		TemplateTransformer{GlobalData: params, Components: componentMap},
+		mdTransformer,
 	)
 
 	// Add reload script to all html files when in development
 	if os.Getenv("ENV") == "dev" {
-		site.Filter(withExtensions(".html")).Transform(
-			&build.AddAutoReload{WebSocketPath: "/reload", Timeout: 2500},
+		site.Filter(WithExtensions(".html")).Transform(
+			&AddAutoReload{WebSocketPath: "/reload", Timeout: 2500},
 		)
 	}
 
 	// Wrap all html files in base_template.html
-	baseTemplate := site.Pop(withPath("/templates/base_template.html"))[0]
-	site.Filter(withExtensions(".html")).Transform(
-		build.TemplateTransformer{
+	baseTemplate := site.Pop(WithPath("/templates/base_template.html"))[0]
+	site.Filter(WithExtensions(".html")).Transform(
+		TemplateTransformer{
 			GlobalData: params,
-			WrapperTemplate: &build.WrapperTemplate{
+			WrapperTemplate: &WrapperTemplate{
 				Template:       baseTemplate,
 				ChildBlockName: baseTemplate.Meta["ChildBlockName"].(string),
 			},
@@ -101,16 +108,16 @@ func main() {
 	)
 
 	// Unescape escaped double curly braces
-	site.Transform(&build.ReplacerTransformer{
+	site.Transform(&ReplacerTransformer{
 		Replacements: map[string]string{"\\{\\{": "{{", "\\}\\}": "}}"},
 	})
 
 	// Minify
-	site.Transform(&build.MinifyTransformer{})
+	site.Transform(&MinifyTransformer{})
 
 	// Write to dir "build"
 	os.RemoveAll("build")
-	site.Filter(withoutMeta("IsDraft")).Write("build")
+	site.Filter(WithoutMeta("IsDraft")).Write("build")
 
 	if os.Getenv("ENV") == "dev" {
 		devServer("8888", "build")

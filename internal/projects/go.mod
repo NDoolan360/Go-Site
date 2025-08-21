@@ -1,4 +1,4 @@
-module github.com/NDoolan360/go-site/internal/projects
+module github.com/NDoolan360/doolan.dev/internal/projects
 
 go 1.23.4
 
