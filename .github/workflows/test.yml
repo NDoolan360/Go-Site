@@ -4,11 +4,14 @@ on:
   workflow_call:
   workflow_dispatch:
   pull_request:
+    types: [opened, reopened, synchronize]
+  push:
     branches:
-      - main
+      - "main"
 
 jobs:
-  test:
+  unit_tests:
+    name: "Unit tests"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -19,5 +22,23 @@ jobs:
         with:
           go-version: "1.23.4"
 
-      - name: Run tests
-        run: go test -cover ./... internal/emoji internal/inlinesvg internal/projects
+      - name: Test
+        run: go test -cover -coverprofile=coverage.txt ./... internal/emoji internal/inlinesvg internal/projects
+
+      - name: Archive code coverage results
+        uses: actions/upload-artifact@v4
+        with:
+          name: code-coverage
+          path: coverage.txt
+
+  code_coverage:
+    name: "Code coverage report"
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    needs: unit_tests
+    permissions:
+      contents: read
+      actions: read
+      pull-requests: write
+    steps:
+      - uses: fgrosse/go-coverage-report@v1.1.1

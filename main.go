@@ -44,7 +44,9 @@ func main() {
 	if err := site.FromGit("https://github.com/NDoolan360/flash-cards", "main", path); err != nil {
 		log.Fatalf("Failed to clone repository: %v", err)
 	}
-	site.Filter(WithParentDir(path)).AddToMeta("HideSocialLinks", "true")
+	flashCards := site.Filter(WithParentDir("/" + path))
+	flashCards.AddToMeta("HideSocialLinks", "true")
+	flashCards.AddToMeta("AltHeading", "flash-cards")
 
 	// Reusable markdown transformer
 	mdTransformer := MarkdownTransformer{

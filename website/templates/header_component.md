@@ -6,7 +6,7 @@ IsStatic: true
 
 <header id="header">
 
-# [n.doolan.dev](/)
+# [{{if .Asset.AltHeading}}{{.Asset.AltHeading}}{{else}}n.doolan.dev{{end}}](/)
 
 {{if .HideSocialLinks}}
 {{else}}
