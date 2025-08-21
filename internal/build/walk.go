@@ -33,10 +33,9 @@ func (build *Build) WalkDir(fsys fs.FS, root string, includeRoot bool) error {
 			}
 
 			build.Assets = append(build.Assets, &Asset{
-				Path:       filepath,
-				SourceRoot: root,
-				Meta:       map[string]any{},
-				Data:       bytes.TrimSpace(data),
+				Path: filepath,
+				Meta: map[string]any{},
+				Data: bytes.TrimSpace(data),
 			})
 
 			return nil

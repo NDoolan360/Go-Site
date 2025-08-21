@@ -63,7 +63,7 @@ func (p MarkdownTransformer) Transform(asset *Asset) error {
 	}
 
 	html := &bytes.Buffer{}
-	if err := p.WithRoot(asset.SourceRoot).newGoldmark().Convert(asset.Data, html); err != nil {
+	if err := p.newGoldmark().Convert(asset.Data, html); err != nil {
 		return err
 	}
 

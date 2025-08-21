@@ -52,7 +52,7 @@ func main() {
 
 	var components build.Assets
 	components = site.Pop(withMeta("IsComponent"))
-	components.Filter(withMeta("IsStatic")).Transform(build.MarkdownTransformer{})
+	components.Filter(withMeta("IsStatic")).Transform(build.MarkdownTransformer{}.WithRoot("website"))
 	componentMap := components.ToMap("Name")
 
 	// Pre-build articles as I want their meta for other pages
@@ -64,7 +64,7 @@ func main() {
 	).SetMetaFunc("URL", func(asset build.Asset) string {
 		return strings.TrimSuffix(asset.Path, ".md") + ".html"
 	})
-	articles.Transform(build.TemplateTransformer{}, build.MarkdownTransformer{})
+	articles.Transform(build.TemplateTransformer{}, build.MarkdownTransformer{}.WithRoot("website"))
 	params["Articles"] = articles
 
 	// Pre-fill the emojis page
@@ -77,7 +77,7 @@ func main() {
 	// Process markdown files
 	site.Filter(withExtensions(".md"), withoutMeta("IsDraft")).Transform(
 		build.TemplateTransformer{GlobalData: params, Components: componentMap},
-		build.MarkdownTransformer{},
+		build.MarkdownTransformer{}.WithRoot("website"),
 	)
 
 	// Add reload script to all html files when in development

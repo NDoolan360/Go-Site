@@ -6,10 +6,9 @@ import (
 )
 
 type Asset struct {
-	Path       string
-	Data       []byte
-	Meta       map[string]any
-	SourceRoot string
+	Path string
+	Data []byte
+	Meta map[string]any
 }
 
 type Assets []*Asset

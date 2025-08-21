@@ -13,9 +13,8 @@ func TestMarkdownTransformer_Transform(t *testing.T) {
 
 	t.Run("transforms .md to .html", func(t *testing.T) {
 		asset := &Asset{
-			Path:       "test.md",
-			Data:       []byte("# Hello"),
-			SourceRoot: "content",
+			Path: "test.md",
+			Data: []byte("# Hello"),
 		}
 		err := transformer.Transform(asset)
 		if err != nil {
